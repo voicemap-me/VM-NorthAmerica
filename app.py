@@ -20,7 +20,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     # df = pd.read_csv('NorthAmericaViatorProducts.csv')
-    df = pd.read_csv('NorthAmericaViatorProducts_with_country.csv')
+    df = pd.read_csv('NorthAmericaViatorProducts_with_country_and_coords_full.csv')
 
     
     # We no longer split location into city/country.
