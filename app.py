@@ -15,28 +15,6 @@ st.set_page_config(
 )
 
 # --------------------------------
-# 2. HELPER FUNCTION: GUESS COUNTRY
-# --------------------------------
-def guess_country(location_str: str) -> str:
-    """
-    Simple heuristic to determine country from a location string.
-    Adjust or expand these rules as needed to fit your data.
-    """
-    loc_lower = str(location_str).lower()
-
-    if "canada" in loc_lower:
-        return "Canada"
-    elif "mexico" in loc_lower:
-        return "Mexico"
-    elif "united states" in loc_lower:
-        return "USA"
-    elif "usa" in loc_lower:
-        return "USA"
-    else:
-        # Fallback. If you want more refined logic, add more rules
-        return "Unknown"
-
-# --------------------------------
 # 3. LOADING AND PREPARING THE DATA
 # --------------------------------
 @st.cache_data
