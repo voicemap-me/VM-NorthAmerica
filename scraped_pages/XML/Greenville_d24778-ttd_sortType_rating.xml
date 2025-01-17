@@ -1,0 +1,1829 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>24</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>6134GREENSEG</code>
+			<title>Greenville City Segway Tour</title>
+			<description>Experience Greenville, SC, like never before on this educational and entertaining 1- or 1.5-hour guided, small-group Segway tour. Greenville is one of South Carolina’s fastest-growing urban areas, located at the foothills of the Appalachian Mountains. Cruise to the West End Historic District and along the scenic, 20-mile-long Swamp Rabbit Trail. Explore everything from the booming business district to the lush parks and greenways. Guided Segway training, plus a helmet and bottled water are included. Dress in weather-appropriate clothes with flat, closed-toed shoes.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/e2/47.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Greenville City Segway Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>265</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Segway Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Greenville-Segway-Tour/d24778-6134GREENSEG</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.853442699999995</latitude>
+				<longitude>-82.3981292</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>5</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>91856P4</code>
+			<title>Greenville Craft Cocktail Tour</title>
+			<description>Try a variety of cocktails during a 2-hour Greenville food tour that features innovative drink creations at four venues. You’ll walk a short distance between the locations, and sip cocktails that might include a Champagne cocktail or sangria. A selection of appetizers accompanies your drinks, and your guide shares behind-the-scenes details about the places you visit.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/8f/5b/99.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Greenville Craft Cocktail Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>53</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Private and Luxury</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Saturday-evening-Craft-Cocktail-Tour-from-Greenville/d24778-91856P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8441408</latitude>
+				<longitude>-82.4041859</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>16</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>91856P1</code>
+			<title>Small-Group Walking Tour in Greenville with Breakfast</title>
+			<description>Start your day right on a breakfast food tour that takes in top eateries in Greenville. Try farm-to-table fare, French-style breakfast crepes, fresh biscuits (a southern favorite), and other assorted goodies, including one destination that was featured on the Food Network. Your guide shares the inside scoop on Greenville’s culinary destinations, along with tips for other places to visit on your own.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/e5/fb/f4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Small-Group Walking Tour in Greenville with Breakfast</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>46</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Walking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1545</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1545</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Saturday-Morning-Breakfast-Tour-from-Greenville/d24778-91856P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.848965199999995</latitude>
+				<longitude>-82.40011229999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>91856P6</code>
+			<title>Thirsty Thursdays Tour (cocktails and appetizers)</title>
+			<description>Discover Greenville’s favorite watering holes on a Thursday evening cocktail tour. Join your guide and small group for a stroll through the downtown area. Stop at several cocktail venues to imbibe unique drinks created by local mixologists paired with delicious appetizers. In between libations, work off your calories and learn about the city’s history from your guide.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/48/8a/e8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Thirsty Thursdays Tour (cocktails and appetizers)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>35</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Private and Luxury</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Thirsty-Thursdays-Tour-cocktails-and-appetizers/d24778-91856P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8441408</latitude>
+				<longitude>-82.4041859</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>16</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>91856P8</code>
+			<title>Just Desserts Tour In Greenville</title>
+			<description>Satisfy your sweet tooth and explore downtown Greenville on this small-group tour. Join your guide and other foodies for a stroll through the area’s top cafes and dessert shops. Meet with pastry chefs and sample their creations including cakes, cookies, crepes, and more. You can work off your calories in between locations with walks through Falls Park and in the downtown area.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/48/8a/81.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Just Desserts Tour In Greenville</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>35</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Private and Luxury</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1545</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1545</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Greenville-Dessert-Tour/d24778-91856P8</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.848965199999995</latitude>
+				<longitude>-82.40011229999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>16</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>91856P9</code>
+			<title>Friday Night - Date Night Cocktails in Greenville, South Carolina</title>
+			<description>Grab your partner and spend a night out on the town discovering new bars with a small group. Whether you’re new in town or a local, this tour is sure to have something for everyone. Visit charming venues in downtown Greenville, meet the managers and executive chefs of the venues, and enjoy cocktails and appetizers over the course of the tour.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/b7/97/be.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Friday Night - Date Night Cocktails in Greenville, South Carolina</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>21</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Friday-Night-Date-Night-Cocktails/d24778-91856P9</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.848824799999996</latitude>
+				<longitude>-82.39956959999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>299402P3</code>
+			<title>Pedego Electric Bike Tour at Greenville</title>
+			<description>Say good morning to Greenville, SC! Our premium tour spans 3 - 3 1/2 hours, covering approximately 17 miles of picturesque riding on both the Swamp Rabbit Trail and the charming city streets. Your journey will be guided by our experienced tour guides who craft a route that weaves through the heart of our proud city, revealing how quiet natural beauty meets vibrant city bustle.
+
+Equipped with state-of-the-art SENA Bluetooth helmets, you&amp;#39;ll stay seamlessly connected with your guide throughout the journey. Marvel at the fascinating stories and historical anecdotes that bring each stop to life. Our guides are not just leaders; they&amp;#39;re storytellers, weaving together the past and present of Greenville in a captivating narrative.
+
+With semi-frequent stops, Instagram-able photo ops, public art, and some nibbly treats from local restaurants, this is a gorgeous way to experience the parks and beauty of downtown Greenville on the ease of premium electric bikes.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/fb/82/f9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pedego Electric Bike Tour at Greenville</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>17</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2026.66</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2026.66</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Good-Morning-Greenville-Pedego-Electric-Bike-Tour/d24778-299402P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8658897</latitude>
+				<longitude>-82.4157675</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>299402P2</code>
+			<title>Guided E-Bike Tour in Greenville South Carolina with Brunch</title>
+			<description>Start the morning with a ride through a scenic tunnel of trees on this guided group ride from our shop at Hampton Station to the charming town of Travelers Rest. Stretch your legs on the 8-mile ride to a ‘must visit’ brunch destination where we will enjoy some local favorites. Then follow your guide on a leisurely ride through Furman University’s picturesque campus before returning to vibrant Hampton Station.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/6e/fc/7e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Guided E-Bike Tour in Greenville South Carolina with Brunch</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>8</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2026.66</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2026.66</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Bike-and-Brunch-Guided-Group-E-Bike-Ride/d24778-299402P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>15</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8657932</latitude>
+				<longitude>-82.4159572</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>368460P1</code>
+			<title>Paranormal Walking Tour in Greenville</title>
+			<description>Greenville Ghost Tours offers a downtown Greenville, SC walking tour by certified paranormal investigator Gabe Mathews of Truth Searchers: Paranormal Investigators. 
+
+This tour strives to be entertaining and educate on the paranormal. You can be your own paranormal investigator. Many guests on the tour have been able to pick up anomalies such as orbs, EVPs, and EMF readings.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/d8/be/c9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Paranormal Walking Tour in Greenville</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.5</exactScore>
+				<reviewCount>13</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Walking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>675.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>675.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Greenville-Ghost-Tours-Downtown-Paranormal-Walking-Tour/d24778-368460P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8433354</latitude>
+				<longitude>-82.4040706</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>16</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P37</code>
+			<title>Greenville-Spartanburg Airport (GSP) to Greenville - Round-Trip Private Transfer</title>
+			<description>Book your Private Round-Trip Transfer from Greenville-Spartanburg Airport (GSP) to Greenville hotel or address and return.
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/78.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Greenville-Spartanburg Airport (GSP) to Greenville - Round-Trip Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4177.31</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4177.31</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Transfer-Taxi-Venice-Airport-Marco-Polo-VCE-Merano-Italy-up-to-8-person/d24778-128285P37</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8959008</latitude>
+				<longitude>-82.2172338</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>211112P374</code>
+			<title>Holiday Scavenger Hunt in Greenville by Holly Jolly Hunt</title>
+			<description>Holly Jolly Hunt is a scavenger hunt that is played using an app on your smartphone, that brings your entire family and friends together for holiday cheer. During the adventure you’ll be seeking out all the traditional, and even the non-traditional holiday items we all see this time of year around the city. You’ll get points for each item you find. The goal is to capture as many items as you can in order to score as many points as possible and get 1st place on the leaderboard. Along the way you’ll be asked to perform silly holiday themed tasks meant to bring laughter and smiles to everyone involved. Come play with us. Young or old, this is a scavenger hunt for everyone that enjoys this time of year. We promise you will create holiday memories that you will not forget! Holly Jolly Hunt can be played in any city!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/94/9e/54.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Holiday Scavenger Hunt in Greenville by Holly Jolly Hunt</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>386.25</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>386.25</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>10</maxTravelersPerUnit>
+			<url>/tours/Greenville/Holly-Jolly-Hunt-Holiday-Scavenger-Hunt-in-Victorville-CA/d24778-211112P374</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8474189</latitude>
+				<longitude>-82.40069199999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200006P154</code>
+			<title>Goofy Greenville Scavenger Hunt</title>
+			<description>Our very unique, immersive adventures are the only ones of their kind. We, unlike other companies, provide your very own remote, interactive, live host to assist and encourage you along through your phone. We are an Austin, TX-based global custom event design company offering scavenger hunts and other events in 300&amp;#43; cities in North America and beyond. Our specially hand-crafted adventures are equal parts tour, creative challenge, detective hunt, and social experiment! 
+
+Guests get to discover in an alternate reality our favorite hidden gems off the beaten trail and creatively interpret fun art, history, and culture clues - for points! They get to enjoy fame and glory while appearing on our website’s international leaderboard, no matter what their score. They get to essentially race other teams in other cities, even if they don’t have competitors who have signed up in their city that day. Get ready to discover unusual oddities, laugh out loud, and make the experience your own!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0d/87/13/07.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Goofy Greenville Scavenger Hunt</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Grande-Greenville-Scavenger-Hunt/d24778-200006P154</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.845157</latitude>
+				<longitude>-82.4016438</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>104204P140</code>
+			<title>Self Guided Scavenger Hunt: The Great Greenville Gambit</title>
+			<description>This small group scavenger hunt lets you learn all about Grenville while you explore, solve challenges, and answer questions with your teammates. This is an app-led activity, so you don’t need a guide there in person. You can start and finish whenever you like, but plan on approximately two hours to complete the scavenger hunt.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/25/89/35.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Self Guided Scavenger Hunt: The Great Greenville Gambit</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.7</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>237.74</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>237.74</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Epic-Lets-Roams-Scavenger-Hunt-Greenville-Greenville-Adventure/d24778-104204P140</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8529645</latitude>
+				<longitude>-82.3968802</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>104204P383</code>
+			<title>Self-Guided Bar Hunt: Go All Out in Greenville</title>
+			<description>You’ve done bar crawls—up the ante with this Greenville Bar Hunt. Using just your smartphone, you’ll head around the city’s best pubs and bars finding clues, solving puzzles, completing photo challenges, and more. Team up with or against your friends, and hit the town when you’re ready for a night out like no other.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/6c/a8/1a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Self-Guided Bar Hunt: Go All Out in Greenville</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>237.74</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>237.74</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Epic-Greenville-Bar-Crawl-By-Lets-Roam/d24778-104204P383</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8518314</latitude>
+				<longitude>-82.39886369999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>371631P68</code>
+			<title>Murder Mystery Detective Experience in Greenville SC</title>
+			<description>Step into the shoes of a newly-minted detective, tasked by Commander Mahoney to solve a gripping case... murder on the streets of Greenville. 
+
+Throughout this crime-solving audio adventure, visit each of the 10 mapped locations. You&amp;#39;ll have the option to explore the downtown area using the Walking Map or follow a Driving Map on the city&amp;#39;s outskirts. Once you choose, the exact starting point will be revealed. *See images for route.
+
+Park or stop at each location, listen to the audio story, and put your detective skills to the test by gathering clues and piecing together the evidence. Finally, make your deductions and issue an arrest warrant. 
+
+Your overall detective skills will be evaluated, culminating in a Case Performance Score to measure your sleuthing prowess. This game is suitable for solo detectives, dynamic duos, or groups of mystery enthusiasts, offering an immersive audio tale filled with intrigue.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/5f/fb/7c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Murder Mystery Detective Experience in Greenville SC</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>289.5</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>289.5</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Murder-Mystery-Detective-Experience-Greenville-SC/d24778-371631P68</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8490502</latitude>
+				<longitude>-82.3839238</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>138495P340</code>
+			<title>City Scavenger Hunt Game in Greenville by Operation City Quest</title>
+			<description>Using an app on your smartphone, you&amp;#39;ll be given nearly 60 objects to find in Greenville during your scavenger hunt. You&amp;#39;ll then explore the downtown area searching for the items. Once you&amp;#39;ve found the object, you&amp;#39;ll send a photo in to score points. Along the way, you will perform challenges for even more points. You&amp;#39;ll have 13 categories of objects you can find in this scavenger hunt, with each object varying in points depending on the difficulty. Don&amp;#39;t worry, you won&amp;#39;t be alone. You&amp;#39;ll have a remote guide that will be chatting with you during your game if you need help or have a question. They will also encourage you and give you hints along the way! The objective of the game is to have fun, rank #1 on the leaderboard, and try to get as many points as possible by finding all of the objects!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/c6/1c/41.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>City Scavenger Hunt Game in Greenville by Operation City Quest</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>1</score>
+				<exactScore>1</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/City-Scavenger-Hunt-Game-in-Greenville-by-Operation-City-Quest/d24778-138495P340</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8474189</latitude>
+				<longitude>-82.40069199999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P39</code>
+			<title>Greenville-Spartanburg Airport (GSP) to Greenville - Arrival Private Transfer</title>
+			<description>Book your Private Arrival Transfer from Greenville-Spartanburg International Airport (GSP) to Greenville hotel or address. 
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/81/8e/3d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Greenville-Spartanburg Airport (GSP) to Greenville - Arrival Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2088.65</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2088.65</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Transfer-Taxi-Venice-Airport-Marco-Polo-Desenzano-del-Garda-up-to-8-person/d24778-128285P39</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8959008</latitude>
+				<longitude>-82.2172338</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P38</code>
+			<title>Greenville to Greenville-Spartanburg Airport (GSP) - Departure Private Transfer</title>
+			<description>Book your Private Departure Transfer from Greenville hotel or any address to Greenville-Spartanburg Airport (GSP).
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/78.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Greenville to Greenville-Spartanburg Airport (GSP) - Departure Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2088.65</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2088.65</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Transfer-Taxi-Venice-Airport-Marco-Polo-Desenzano-del-Garda-up-to-4-person/d24778-128285P38</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.852617599999995</latitude>
+				<longitude>-82.3940104</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>142771P185</code>
+			<title>Scavenger Hunt in Greenville by Crazy Dash</title>
+			<description>Embark on a leisurely Greenville exploration with a scavenger hunt app that invites you to discover the city by finding items and completing tasks for points. Items can be located in any order, and a remote host will interact with you during the game. Check your score against others nationwide in this laid-back adventure.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/c4/94/90.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Scavenger Hunt in Greenville by Crazy Dash</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Crazy-Dash-Walking-Adventure-of-Vallejo-CA/d24778-142771P185</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8474189</latitude>
+				<longitude>-82.40069199999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>137238P255</code>
+			<title>Greenville Scavenger Hunt by Zombie Scavengers</title>
+			<description>Skip the awkward group tours and turn exploring Greenville into a day thwarting the zombie apocalypse. Using just your smartphones, you and your crew will take to the city as you complete challenges, collect helpful objects, and rack up points to defeat the walking dead. Your remote host can help you out with hints and tricks, but survival is up to you.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/d2/6b/d8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Greenville Scavenger Hunt by Zombie Scavengers</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>386.25</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>386.25</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>10</maxTravelersPerUnit>
+			<url>/tours/Greenville/Zombie-Scavengers-Game-Greenville-SC/d24778-137238P255</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8474189</latitude>
+				<longitude>-82.40069199999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>134689P287</code>
+			<title>Greenville Scavenger Hunt by 3Quest Challenge</title>
+			<description>Explore Greenville with 3Quest Challenge! Our scavenger hunt let&amp;#39;s you explore the city to find items (given to you in the form of a riddle) and perform fun tasks for points. These items and tasks are provided to you on our scavenger hunt app and are divided into 3 different quests! Find all items in quest 1, then quest 2, then quest 3 to complete 3Quest Challenge! If you&amp;#39;d like to make the game even more intense, set a time limit for yourself for 2 hours and see how many quests you can complete in the allotted time. You&amp;#39;ll have a remote host during the game that will communicate with you via chat if you need help. Get out and explore Greenville with 3Quest Challenge!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/9e/d3/4c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Greenville Scavenger Hunt by 3Quest Challenge</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/3Quest-Challenge-Scavenger-Hunts-San-Bernardino-CA/d24778-134689P287</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8474189</latitude>
+				<longitude>-82.40069199999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>62931P41</code>
+			<title>Private transfer Minivan from or to CLT, GSP, Charlotte NC and Greenville SC</title>
+			<description>The best service for the best price
+You are welcome anywhere anytime
+It is our pleasure to drive for you</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/19/79/99.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private transfer Minivan from or to CLT, GSP, Charlotte NC and Greenville SC</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8690.65</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8690.65</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Greenville/Private-transfer-Minivan-from-or-to-CLT-GSP-Charlotte-NC-and-Greenville-SC/d24778-62931P41</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8959008</latitude>
+				<longitude>-82.2172338</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5512774P1</code>
+			<title>Greenville Quick Hop</title>
+			<description>Ever wonder what it’s like to fly in a helicopter?
+Now is your chance to try it out.
+For a limited time we will be offering this fun sample flight. Let us show you just how smooth a helicopter is. The flight path stretches out 6 miles and is guaranteed to have you ready for another helicopter adventure soon!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/d2/f6/b7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Greenville Quick Hop</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1023.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1023.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Greenville-Quick-Hop/d24778-5512774P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>4</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>6</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8450971</latitude>
+				<longitude>-82.350821</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5512774P4</code>
+			<title>Private Helicopter Tour from Greenville Lake to Mountain</title>
+			<description>This tour is a favorite and an unmatched way to experience the breathtaking beauty of Up State South Carolina’s majestic mountains and lakes. If you’re seeking an adventure that offers the best of Downtown Greenville and unparalleled mountain views, your search ends here.
+
+This flight combines views of Downtown Greenville, Lake Robinson, Furman University, and Paris Mountain.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/d6/88/3a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Helicopter Tour from Greenville Lake to Mountain</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Greenville, South Carolina</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5310.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5310.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Greenville/Greenville-Lake-to-Mountain-Helicopter-Tour/d24778-5512774P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>20</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>30</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.8450971</latitude>
+				<longitude>-82.350821</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Greenville</Destination>
+	<FileName>Greenville_d24778-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:50:06</FileCreationDateTime>
+</ProductList>

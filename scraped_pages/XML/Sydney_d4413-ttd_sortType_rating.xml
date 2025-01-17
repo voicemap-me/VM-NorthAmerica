@@ -1,0 +1,1024 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>13</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>141696P1</code>
+			<title>Baddeck &amp; Bell Museum Tour</title>
+			<description>This tour gives you a chance to explore the village of Baddeck and the Alexander Graham Bell Museum at your own pace without being herded around on a big bus and you can customize the tour to suit your needs. Please note that a min of 4 guests are required for this tour to operate.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/73/df/4e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Baddeck &amp; Bell Museum Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.4</exactScore>
+				<reviewCount>45</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1313.49</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1313.49</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Sydney/Baddeck-and-Bell-Museum-Tour/d4413-141696P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.1032</latitude>
+				<longitude>-60.74591</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>381081P1</code>
+			<title>Cabot Trail Bus Tour for Cruise Excursion</title>
+			<description>Our drivers and guides are highly experienced as we are the tour company in Cape Breton with the longest history (since 1985). Our drivers and guides are all capable of the culture and history of Cape Breton and they will be able to make sure the travelers will gain much more experience than just a day tour. In the end of the day, we will make that every passengers on our vehicles will get a souvenir with some symbolic element of Cape Breton on it.
+
+As this tour is targeting at the travelers coming from the cruise ships, we will pick them up in the morning from the deck and take them to the Cabot Trail. They will be able see the beautiful views along the way on the vehicles and our drivers will make multiple stops for them get off the vehicles to have a better chances to enjoy the sightseeing and take photos. This product is group tours which is not private.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/30/3a/ed.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Cabot Trail Bus Tour for Cruise Excursion</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>69</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2167.25</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2167.25</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Sydney/Cabot-Trail-bus-tour-for-Cruise-Excursion/d4413-381081P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.70806</latitude>
+				<longitude>-60.36564</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>141696P3</code>
+			<title>Cabot Trail Private Full Day Tour</title>
+			<description>On the Full day tour you will leave the driving to us and explore the Cabot Trail, with many stops offered along the way our guides know the best photo stops and hidden gems along the Cabot Trail. On our journey round we also offer the chance to take in a 1 hour easy hike that offers great views of the coastline and a nice wooded section. Please note a min of 4 guests are required for this tour to operate.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/73/f0/fc.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Cabot Trail Private Full Day Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4.2</exactScore>
+				<reviewCount>19</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2561.3</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2561.3</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Sydney/Cabot-Trail-Full-Day-Tour/d4413-141696P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>11</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>12</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.70806</latitude>
+				<longitude>-60.36564</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>381081P2</code>
+			<title>Private Cruise Excursion in Cape Breton</title>
+			<description>Our drivers and guides are highly experienced as we are the tour company in Cape Breton with the longest history (since 1985). Our drivers and guides are all capable of the culture and history of Cape Breton and they will be able to make sure the travelers will gain much more experience than just a day tour. In the end of the day, we will make that every passengers on our vehicles will get a souvenir with some symbolic element of Cape Breton on it.
+
+As this tour is targeting at the travelers coming from the cruise ships, we will pick them up in the morning from the deck and take them to the Cabot Trail. They will be able see the beautiful views along the way on the vehicles and our drivers will make multiple stops for them get off the vehicles to have a better chances to enjoy the sightseeing and take photos. This product is a private tour, not a shared tour.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/30/3a/ed.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Cruise Excursion in Cape Breton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.3</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>14448.34</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>14448.34</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Sydney/Private-Tour-for-Cruise-Excursion/d4413-381081P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.70806</latitude>
+				<longitude>-60.36564</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>381081P3</code>
+			<title>Guided Highland Village and Baddeck Bus Tour for Cruise Excursion</title>
+			<description>First, you will visit the Highland Village, a living history museum that vividly depicts how the Scots lived from the 1600s to the present day. You will have the opportunity to explore authentic period buildings and learn about the rich cultural heritage and traditions of the Scottish settlers through interactive exhibits and demonstrations.
+
+Next, you will travel to Baddeck, a charming village known as the home of Alexander Graham Bell. Here, you will discover the fascinating history of the inventor of the telephone and learn about his significant contributions to aviation, including the birthplace of the first powered flight in North America.
+
+Our experienced driver-guides will provide engaging commentary throughout the tour, ensuring a memorable and informative experience.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/d8/04/e7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Guided Highland Village and Baddeck Bus Tour for Cruise Excursion</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2167.25</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2167.25</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Sydney/Highland-Village-and-Baddeck-Bus-Tour-for-Cruise-Excursion/d4413-381081P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.103226</latitude>
+				<longitude>-60.745667</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>382566P5</code>
+			<title>Shore Excursion of the Glenora Distillery in Cape Breton</title>
+			<description>Glenora Distillery is North America&amp;#39;s first single malt whisky distillery. Indulge in the spirit of Cape Breton at the Glenora Distillery. Nestled in scenic landscapes, this legendary spot crafts some of the finest single malt whisky. Immerse yourself in the art of distillation, savor the rich flavors, and experience a taste of the island’s soul.
+
+A journey to the Glenora Distillery is a voyage into the heart of Cape Breton’s craftsmanship and culture.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/1c/d1/be.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Shore Excursion of the Glenora Distillery in Cape Breton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16418.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16418.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>8</maxTravelersPerUnit>
+			<url>/tours/Sydney/Glenora-Distillery-Tour/d4413-382566P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.153152</latitude>
+				<longitude>-61.323925</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>382566P8</code>
+			<title>Shore Excursion of the Louisbourg Lighthouse Trail in Cape Breton</title>
+			<description>Explore maritime history and stunning coastal beauty on the Louisbourg Lighthouse Trail. Follow a well-kept path through lush forests and pristine shoreline, with opportunities for birdwatching and wildlife spotting. Don’t miss the iconic Louisbourg Lighthouse, offering panoramic views of the Atlantic Ocean. Whether you love nature or history, this trail offers a memorable experience.
+
+Visit today for a unique blend of natural and historical wonders.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/1c/d9/90.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Shore Excursion of the Louisbourg Lighthouse Trail in Cape Breton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5582.31</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5582.31</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Sydney/Louisbourg-Lighthouse-Trail/d4413-382566P8</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>45.91873</latitude>
+				<longitude>-59.9595</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>382566P2</code>
+			<title>Shore Excursion of the Fortress Of Louisbourg in Cape Breton</title>
+			<description>Uncover the secrets of the past at the Fortress of Louisbourg. Walk in the footsteps of history within meticulously reconstructed 18th-century walls. Experience life in a bustling French fortress, where costumed interpreters bring stories to life.
+
+Get ready to travel back in time and immerse yourself in an era of adventure at the Fortress of Louisbourg.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/1a/48/84.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Shore Excursion of the Fortress Of Louisbourg in Cape Breton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5582.31</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5582.31</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Sydney/Fortress-Of-Louisbourg-Tour/d4413-382566P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>45.892227</latitude>
+				<longitude>-59.985493</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>137238P469</code>
+			<title>Fun Scavenger Hunt in Sydney by Zombie Scavengers</title>
+			<description>In Zombie Scavengers of Sydney, players will use an app to try to survive a zombie apocalypse. You&amp;#39;ll do so by finding survival objects around the city, in any order you&amp;#39;d like, to get points and do fun zombie themed challenges for points as well. Use strategy to try and find as many items as possible in order to survive. Your survival team will be able to see the score on the app&amp;#39;s rankings compared to teams across the country. You&amp;#39;ll have a remote host via chat in case you need anything. Let&amp;#39;s survive in Sydney today!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/e6/b6/92.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fun Scavenger Hunt in Sydney by Zombie Scavengers</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>367.78</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>367.78</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>10</maxTravelersPerUnit>
+			<url>/tours/Sydney/Zombie-Scavengers-Game-Sydney-NS/d4413-137238P469</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>1</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.1404377</latitude>
+				<longitude>-60.19616939999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>382566P4</code>
+			<title>Shore Excursion of the Gaelic College in Cape Breton</title>
+			<description>Immerse yourself in Nova Scotia’s rich Gaelic heritage at the Gaelic College in Iona. Experience traditional music, dance, language, and art in a stunning Cape Breton setting. Join workshops, enjoy performances, and soak in the breathtaking views of Bras d’Or Lake. Whether you’re a Gaelic culture enthusiast or a newcomer, the Gaelic College offers a warm and welcoming experience for all.
+
+Come and be part of this vibrant culture – plan your visit to the Gaelic College today!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/1b/54/42.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Shore Excursion of the Gaelic College in Cape Breton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>1</score>
+				<exactScore>1</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5582.31</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5582.31</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Sydney/Gaelic-College-Tour/d4413-382566P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.45878</latitude>
+				<longitude>-60.46359</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>382566P3</code>
+			<title>Shore Excursion of Alexander Graham Bell Museum in Cape Breton</title>
+			<description>Embark on a journey of discovery at the Alexander Graham Bell Museum in Cape Breton. Immerse yourself in the life and genius of the inventor behind the telephone and explore the captivating evolution of communication. Join us to celebrate innovation, creativity, and the indelible mark Alexander Graham Bell left on the world.
+
+Your adventure awaits at the Alexander Graham Bell Museum!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/1b/4e/f2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Shore Excursion of Alexander Graham Bell Museum in Cape Breton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5582.31</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5582.31</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Sydney/Alexander-Graham-Bell-Tour/d4413-382566P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.1032</latitude>
+				<longitude>-60.74591</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>382566P7</code>
+			<title>Shore Excursion of The Skyline Trail in Cape Breton</title>
+			<description>Introducing Cape Breton’s captivating Skyline Trail—an enchanting journey where rugged cliffs meet the Atlantic, wildlife roams free, and sunsets paint the sky. Tailored for all adventurers, this tranquil escape offers educational insights and a chance to preserve nature’s legacy. Explore the Skyline Trail and discover Cape Breton’s untamed beauty.
+
+Your unforgettable journey starts here!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/1c/d8/22.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Shore Excursion of The Skyline Trail in Cape Breton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16418.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16418.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>8</maxTravelersPerUnit>
+			<url>/tours/Sydney/The-Skyline-Trail/d4413-382566P7</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.74216</latitude>
+				<longitude>-60.881023</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>382566P6</code>
+			<title>Shore Excursion of The Cabot Trail in Cape Breton</title>
+			<description>Embark on an unforgettable adventure along Cape Breton’s Cabot Trail. Wind through majestic landscapes, witness dramatic ocean vistas, and encounter the heart of maritime culture. With every twist and turn, you’ll be captivated by nature’s beauty and the rich heritage of this iconic trail.
+
+Your extraordinary journey awaits on the Cabot Trail!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/1c/d4/b6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Shore Excursion of The Cabot Trail in Cape Breton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Sydney, Canada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16418.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16418.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>8</maxTravelersPerUnit>
+			<url>/tours/Sydney/The-Mini-Cabot-Trail/d4413-382566P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>9</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>46.70806</latitude>
+				<longitude>-60.36564</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Sydney</Destination>
+	<FileName>Sydney_d4413-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:24:38</FileCreationDateTime>
+</ProductList>

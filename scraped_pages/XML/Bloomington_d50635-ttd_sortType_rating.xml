@@ -1,0 +1,521 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>7</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>105434P2</code>
+			<title>Twin Cities Highlights Tour</title>
+			<description>Get oriented with Minneapolis and St. Paul, aka the Twin Cities of Minnesota, on a highlights tour that introduces you to the area's major sights. You'll see modern and historical architecture and explore the neighborhoods between the two cities on this half-day tour. Enjoy the chance to sit back and relax instead of finding your own way around town.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/7a/59/ef.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Twin Cities Highlights Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>172</reviewCount>
+			</rating>
+			<location>Bloomington, Minnesota</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>811.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>811.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bloomington/Twin-Cities-Highlights-Tour/d50635-105434P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.857727499999996</latitude>
+				<longitude>-93.24082589999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>7060ENTRY</code>
+			<title>SEA LIFE Aquarium Minnesota Admission Ticket at Mall of America</title>
+			<description>Discover marine life wonders at SEA LIFE Minnesota, an aquarium boasting more than 10,000 sea creatures. Located in the Mall of America, SEA LIFE provides the perfect break from shopping and change of scenery. Explore four themed tanks including Amazon River, Atlantis, Sturgeon Lake and Rainbow Reef. Check out the Octopus Garden, gaze eyes on the world’s largest crab species, and walk through an underwater tunnel and see the underbellies of stingrays and turtles.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/bb/b5/9e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>SEA LIFE Aquarium Minnesota Admission Ticket at Mall of America</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>154</reviewCount>
+			</rating>
+			<location>Bloomington, Minnesota</location>
+			<category>Attractions &amp; Museums</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>519.12</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>519.12</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bloomington/SEA-LIFE-Minnesota-Aquarium-at-the-Mall-of-America/d50635-7060ENTRY</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.854744</latitude>
+				<longitude>-93.24203</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>76779P1</code>
+			<title>Mall of America®: Nickelodeon Universe® Unlimited Ride Wristband</title>
+			<description>Nickelodeon Universe®, the nation&amp;#39;s largest indoor theme park, is home to seven acres of unique attractions, entertainment and dining options. Meet the Nick characters, experience spine-tingling rides, visit unique retail shops and much more!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/a9/40/e7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Mall of America®: Nickelodeon Universe® Unlimited Ride Wristband</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4.1</exactScore>
+				<reviewCount>13</reviewCount>
+			</rating>
+			<location>Minneapolis-Saint Paul, Minnesota</location>
+			<category>Theme Parks</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1135.58</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1135.58</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Minneapolis-Saint-Paul/All-Day-Wristband-Nickelodeon-Universe-Mall-of-America/d22209-76779P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>1</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>76779P5</code>
+			<title>Ticket for the Mall of America Rock of Ages Blacklight Mini Golf</title>
+			<description>Putt your way along 18 holes of mini golf lit up under glowing ultraviolet blacklights. Rock out to a rip-roaring soundtrack of rock anthems from the ’50s to the present day. It&amp;#39;s the perfect day out for families and guests of all ages, regardless of your golfing skills!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/e5/70/ba.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Ticket for the Mall of America Rock of Ages Blacklight Mini Golf</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Minneapolis-Saint Paul, Minnesota</location>
+			<category>Theme Parks</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>324.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>324.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Minneapolis-Saint-Paul/Mall-of-America-Rock-of-Ages-Blacklight-Mini-Golf/d22209-76779P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.85457</latitude>
+				<longitude>-93.24244</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>197197P1</code>
+			<title>Private Guided Twin Cities Lights Tour</title>
+			<description>Running nightly from Nov. 24 through Dec. 31. Have a festive, one-of-a-kind experience aboard our fleet of luxurious vehicles, perfect for families, friends, and groups of up to 30 people.
+
+Create lasting memories and enjoy the best holiday lights the Twin Cities offer in the perfect combination of comfort, elegance, and festive spirit. Our carefully curated routes highlight the most stunning light displays across the Minneapolis and Saint Paul metro areas.
+
+Each tour takes place in our fleet of impeccably maintained, luxury vehicles featuring large panoramic windows for unobstructed views of the enchanting displays. Plus, we make the trip even more magical with fun activities and games designed to heighten the holiday spirit for everyone.
+
+Guests are welcome to bring along their favorite food and beverages for the ride. Whether it’s hot cocoa, holiday cookies, or something a bit more adult, groups can sip and snack while taking in the sights.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/59/33/c8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Guided Twin Cities Lights Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>1</score>
+				<exactScore>1</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Bloomington, Minnesota</location>
+			<category>Christmas</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>14098.17</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>14098.17</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>14</maxTravelersPerUnit>
+			<url>/tours/Bloomington/Twin-Cities-Lights-Tour-Trivia-Games-and-Holiday-Cheer/d50635-197197P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.857727499999996</latitude>
+				<longitude>-93.24082589999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>76779P4</code>
+			<title>Moose Mountain Adventure Golf in Mall of America</title>
+			<description>The course features an original, whimsical design with an old-time Northwoods feel, complete with life-size moose, horses, and more!
+Also contains fun cartoon vehicles, including a logging truck, steam locomotive, and biplane. Not only will this custom-crafted course be magical for all who play, it is also designed to be fully accessible, so everyone can enjoy the adventure!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/e5/6c/76.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Moose Mountain Adventure Golf in Mall of America</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Minneapolis-Saint Paul, Minnesota</location>
+			<category>Theme Parks</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>324.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>324.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Minneapolis-Saint-Paul/Moose-Mountain-Adventure-Golf/d22209-76779P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.854797</latitude>
+				<longitude>-93.24211</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>76779P6</code>
+			<title>Mall of America®: Crayola Experience</title>
+			<description>Explore a world of color and creativity at Crayola Experience Mall of America. Jump between 25&amp;#43; hands-on activities designed to spark your imagination. Create a Crayola crayon with your name on it, turn a personalized coloring page into a 4D adventure, see how crayons are made, and much more!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/e5/9a/76.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Mall of America®: Crayola Experience</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Minneapolis-Saint Paul, Minnesota</location>
+			<category>Theme Parks</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>605.64</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>605.64</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Minneapolis-Saint-Paul/Mall-of-America-Crayola-Experience/d22209-76779P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.85363</latitude>
+				<longitude>-93.24009</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Bloomington</Destination>
+	<FileName>Bloomington_d50635-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:43:45</FileCreationDateTime>
+</ProductList>

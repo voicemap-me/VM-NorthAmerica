@@ -1,0 +1,1166 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>15</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>208536P1</code>
+			<title>Tour Visiting the Malpais</title>
+			<description>Tour of the region that has everything for the visitor, micro climate that favors orchards and aging coining the most representative cuisine of the state. Beautiful waterfalls, rivers and springs guarantee that at any time of the year there is water, thus dressing its landscapes of surprising beauty. Cradle of miscegenation where you can travel the Camino Real Tierra and its history. A tour that has fun for the whole family!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/89/c1/41.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Tour Visiting the Malpais</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>27</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1427.78</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1427.78</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/Tour-Visiting-the-Malpais/d51565-208536P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.860409</latitude>
+				<longitude>-102.896286</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>40</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>208536P2</code>
+			<title>Wild West Riding Tour</title>
+			<description>Are you a movie and genre lover? We take you on this tour to visit the locations where the great productions that made cowboy movies famous! Privileged geographical area for filming world-renowned films! Witness the presence of actors such as John Wayne, Charlton Heston, Kirk Douglas and an endless number of stars that made the Western genre an industry. Feel, live and enjoy the whole atmosphere of the wild west!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/ab/7a/86.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Wild West Riding Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>23</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1458.1</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1458.1</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/Wild-West-Riding-Tour/d51565-208536P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.081375</latitude>
+				<longitude>-104.670845</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>40</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>208536P3</code>
+			<title>City tour</title>
+			<description>Enjoy and get to know the real Mexico in the largest and most beautiful historic center of the new Hispanic north. With the richest, most diverse and important natural, historical, artistic and cultural heritage that will delight your taste for any of these disciplines. Check it! Surprising!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/fa/89/a7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>City tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.3</exactScore>
+				<reviewCount>19</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>708.19</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>708.19</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/City-tour/d51565-208536P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.023123</latitude>
+				<longitude>-104.671425</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>40</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>144541P10</code>
+			<title>La Pirámide Park // VIA FERRATA, RAPPEL, ZIPLINE</title>
+			<description>The &amp;#34;La Pirámide&amp;#34; Park is an environmental conservation and nature tourism project with the Ejido Chavarria Viejo, is located in the majestic Sierra Madre Occidental, right in the middle between Durango and Mazatlan, Mexico. It consists of 220 hectares in development for family, school, business experiences, among friends and singles.
+
+Dream place to visit and enjoy nature.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/03/da/c9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>La Pirámide Park // VIA FERRATA, RAPPEL, ZIPLINE</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Climbing</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1433.42</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1433.42</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/La-Piramide-Park-VIA-FERRATA-RAPPEL-TIROLESA/d51565-144541P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.0239264</latitude>
+				<longitude>-104.6720974</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>144541P3</code>
+			<title>La Pirámide Park // EXPLORE LA YERBA CANYON</title>
+			<description>&amp;#34;La Pirámide&amp;#34; Park is an environmental conservation and nature tourism project with the Ejido Chavarria Viejo, it is located in the majestic Sierra Madre Occidental, right in the middle between Durango and Mazatlán, Mexico. It consists of 220 hectares in development for family, school, business experiences, between friends and singles.
+
+Dream place to visit and enjoy nature.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/e4/19/fd.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>La Pirámide Park // EXPLORE LA YERBA CANYON</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1515.84</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1515.84</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/La-Piramide-Park-EXPLORE-LA-YERBA-CANYON/d51565-144541P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.0239264</latitude>
+				<longitude>-104.6720974</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1118</code>
+			<title>Durango Airport (DGO) to Durango hotels - Round-Trip Private Transfer</title>
+			<description>Book your private Arrival transfer from Durango Airport (DGO) to Durango hotels and return.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/7a/72/3a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Durango Airport (DGO) to Durango hotels - Round-Trip Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2983.79</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2983.79</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/Durango-Airport-DGO-to-Durango-hotels-Round-Trip-Private-Transfer/d51565-128285P1118</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.125997899999998</latitude>
+				<longitude>-104.5338957</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>144541P2</code>
+			<title>La Pirámide Park // WALK AND DISCOVER THE PARK</title>
+			<description>The &amp;#34;La Pirámide&amp;#34; Park is an environmental conservation and nature tourism project with the Ejido Chavarria Viejo, is located in the majestic Sierra Madre Occidental, right in the middle between Durango and Mazatlan, Mexico. It consists of 220 hectares in development for family, school, business experiences, among friends and singles.
+
+Dream place to visit and enjoy nature.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/03/da/d3.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>La Pirámide Park // WALK AND DISCOVER THE PARK</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>360.01</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>360.01</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/La-Piramide-Park-Walk-and-Discover-the-Park/d51565-144541P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.0239264</latitude>
+				<longitude>-104.6720974</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>131112P323</code>
+			<title>Durango Airport (DGO) Private Transfer to Durango City</title>
+			<description>Reliable and convenient transportation to and from the Pickup location. Our professional drivers ensure a smooth journey, providing a stress-free experience for travelers. On-time pickups and drop-offs, comfortable vehicles, and excellent customer service make our airport transfer service the perfect choice for your travel needs. Available 24/7.
+
+- 24/7 customer service provides escort for your travel.
+- Air conditioned vehicle provides you with a suitable temperature in your journey.
+- Professional drivers will take you to your destination directly while avoiding traffic jams.
+- Customized services bring you more unique experiences.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/15/ed/94.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Durango Airport (DGO) Private Transfer to Durango City</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2188.69</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2188.69</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>3</maxTravelersPerUnit>
+			<url>/tours/Durango/ONE-WAY-Guadalajara-to-Tequila-Private-Transfer/d51565-131112P323</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>487732P1</code>
+			<title>Off-Road Motorcycle Ride through the Copper Canyon</title>
+			<description>The Copper Canyons are Spectacular!
+
+Come and discover the most extreme paths of the Sierra Tarahumara and the Copper Canyon, it is a unique experience that is not for everyone.
+6 days in the deepest part of the forest passing through endless ravines and spectacular views.
+
+Join me so I can show you the most spectacular adventure</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/17/87/86.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Off-Road Motorcycle Ride through the Copper Canyon</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Multi-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>57937.67</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>57937.67</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/Off-Road-Motorcycle-Ride-through-the-Copper-Canyon/d51565-487732P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>6</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.0550308</latitude>
+				<longitude>-104.6153541</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>5</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P839</code>
+			<title>Durango hotels to Durango Airport (DGO) -Departure Private Transfer</title>
+			<description>Book your Private Departure Transfer from Durango hotels to Durango Airport (DGO).
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/7b/20/1b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Durango hotels to Durango Airport (DGO) -Departure Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1491.9</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1491.9</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/Durango-hotels-to-Durango-Airport-DGO-Departure-Private-Transfer/d51565-128285P839</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.024840899999997</latitude>
+				<longitude>-104.6608131</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>144541P4</code>
+			<title>La Pirámide Park / WALK AND FLY (Zipline)</title>
+			<description>The &amp;#34;La Pirámide&amp;#34; Park is an environmental conservation and nature tourism project with the Ejido Chavarria Viejo, is located in the majestic Sierra Madre Occidental, right in the middle between Durango and Mazatlan, Mexico. It consists of 220 hectares in development for family, school, business experiences, among friends and singles.
+
+Dream place to visit and enjoy nature.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/03/da/d1.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>La Pirámide Park / WALK AND FLY (Zipline)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>511.6</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>511.6</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/La-Piramide-Park-WALK-AND-FLY/d51565-144541P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.0239264</latitude>
+				<longitude>-104.6720974</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>144541P8</code>
+			<title>La Pirámide Park // ROCK CLIMBING La Comarca</title>
+			<description>The &amp;#34;La Pirámide&amp;#34; Park is an environmental conservation and nature tourism project with the Ejido Chavarria Viejo, is located in the majestic Sierra Madre Occidental, right in the middle between Durango and Mazatlan, Mexico. It consists of 220 hectares in development for family, school, business experiences, among friends and singles.
+
+Dream place to visit and enjoy nature.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/03/da/e7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>La Pirámide Park // ROCK CLIMBING La Comarca</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>485.07</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>485.07</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/La-Piramide-Park-SCALE-AT-ROCA-La-Comarca/d51565-144541P8</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.0239264</latitude>
+				<longitude>-104.6720974</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>144541P6</code>
+			<title>La Pirámide Park // CORDÓN DE LAS BURRAS CROSSING</title>
+			<description>The &amp;#34;La Pirámide&amp;#34; Park is an environmental conservation and nature tourism project with the Ejido Chavarria Viejo, is located in the majestic Sierra Madre Occidental, right in the middle between Durango and Mazatlan, Mexico. It consists of 220 hectares in development for family, school, business experiences, among friends and singles.
+
+Dream place to visit and enjoy nature.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/03/da/d6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>La Pirámide Park // CORDÓN DE LAS BURRAS CROSSING</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>757.92</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>757.92</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/La-Piramide-Park-TRAVESIA-CORDON-DE-LAS-BURRAS/d51565-144541P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.0239264</latitude>
+				<longitude>-104.6720974</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>144541P9</code>
+			<title>La Pirámide Park // WALK, OBSERVE AND LISTEN TO THE BIRDS</title>
+			<description>The &amp;#34;La Pirámide&amp;#34; Park is an environmental conservation and nature tourism project with the Ejido Chavarria Viejo, is located in the majestic Sierra Madre Occidental, right in the middle between Durango and Mazatlan, Mexico. It consists of 220 hectares in development for family, school, business experiences, among friends and singles.
+
+Dream place to visit and enjoy nature.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/03/da/6e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>La Pirámide Park // WALK, OBSERVE AND LISTEN TO THE BIRDS</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>792.03</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>792.03</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/La-Piramide-Park-WALK-OBSERVE-AND-LISTEN-TO-THE-BIRDS/d51565-144541P9</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.0239264</latitude>
+				<longitude>-104.6720974</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1120</code>
+			<title>Durango Airport (DGO) to Durango hotels - Arrival Private Transfer</title>
+			<description>Book your private Arrival transfer from Durango Airport (DGO) to Durango hotels.
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/81/8e/3d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Durango Airport (DGO) to Durango hotels - Arrival Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Durango, Mexico</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1491.9</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1491.9</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Durango/Durango-Airport-DGO-to-Durango-hotels-Arrival-Private-Transfer/d51565-128285P1120</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>24.125997899999998</latitude>
+				<longitude>-104.5338957</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>true</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>true</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Durango</Destination>
+	<FileName>Durango_d51565-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:26:38</FileCreationDateTime>
+</ProductList>

@@ -1,0 +1,1380 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>18</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>35641P1</code>
+			<title>Choose your experience to live in Los 7 Cenotes San Gerónimo</title>
+			<description>Immerse yourself into the ancient world of the Mayans in a private location at Los 7 Cenotes San Gerónimo from Ejido del Centro. As you explore with your guide, you will visit two cenotes, one open and one semi-covered.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/af/54/ec.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Choose your experience to live in Los 7 Cenotes San Gerónimo</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>465</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3263.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3263.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Los-7-Cenotes/d4351-35641P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.596116</latitude>
+				<longitude>-89.00629119999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>106134P1</code>
+			<title>Sergio’s 5 in 1 Tour, All Included</title>
+			<description>This comprehensive tour includes four adventures in one day. Start with a visit to the eco park of El Corchito an area surrounded by the mangrove with fresh water springs to swim in, followed by a a short drive to the pink salt flats of Xtampu. Next up: a tour of the archeological ruins at Xcambo and a visit to a nearby flamingo sanctuary. Wrap up the day, going back to the market by the ship a couple of hours before departure for shopping.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/8b/0b/62.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Sergio’s 5 in 1 Tour, All Included</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>125</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2201.63</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2201.63</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/5-In-1-All-inclusive-tour/d4351-106134P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.9643885</latitude>
+				<longitude>-89.62469530000001</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>40</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>314331P2</code>
+			<title>Learn Paddle Board and Explore the Mangroves of Progreso</title>
+			<description>If it&amp;#39;s your first time, don&amp;#39;t worry, we&amp;#39;ll teach you in a simple and fun way, it&amp;#39;s easier than it seems and we guarantee that you&amp;#39;ll love it. And if you already have experience, we&amp;#39;ll surely be able to teach you some tricks on the board.
+
+All this while we explore the mangrove channels and tunnels that are home to different species of fish and birds, including flamingos that we&amp;#39;ll see if we&amp;#39;re lucky.
+
+Discover why biologists call the mangrove &amp;#34;the nursery&amp;#34; and learn other curious facts about this ecosystem that&amp;#39;s so important for humanity.
+
+After a theoretical class, we&amp;#39;ll start the adventure sitting on the board so that it&amp;#39;s easy to learn how to control it. Once you&amp;#39;ve mastered this part, we&amp;#39;ll help you stand up.
+
+Although the challenge is to paddle standing up, you can also sit, kneel, lie down and even stand on your head or do yoga on the board... the idea is to have fun!
+
+GUYS, SEE YOU SOON IN THE WATER!
+* Compas: an affectionate way of referring to friends</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/88/e0/13.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Learn Paddle Board and Explore the Mangroves of Progreso</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>63</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>942.66</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>942.66</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Learn-Paddle-Board-and-Get-to-Know-the-Mangroves-of-Progreso/d4351-314331P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.268551199999997</latitude>
+				<longitude>-89.69713759999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>106134P5</code>
+			<title>Sergio´s Beach House Buffet and Drinks</title>
+			<description>Welcome to our family Beach House, just a small quiet place, 20 minutes away from the cruise, here you will enjoy quality food, drinks and service by the Sergios Family. If you are looking for a getaway from all the crowd, family friendly and nice quality time this is the place for you.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/4e/59/ac.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Sergio´s Beach House Buffet and Drinks</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4.2</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1255.32</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1255.32</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Beach-Break-Open-Bar/d4351-106134P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.2760572</latitude>
+				<longitude>-89.7188153</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>100</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>68847P6</code>
+			<title>Progreso Mayapan and swim cenote excursion</title>
+			<description>Explore the mysterious Mayapan Mayan Ruins and take a dip in the iridescent blue waters of the Nah Yah Cenote on a small-group excursion from Merida. After transfer from your cruise ship or hotel, enjoy an immersive tour of the archeological complex. At Nah Yah Cenote, venture down a 27-foot (9-meter) staircase to the natural pit and take free time to swim in the stunning blue water.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/df/bd.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Progreso Mayapan and swim cenote excursion</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4.1</exactScore>
+				<reviewCount>10</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2703.76</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2703.76</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Mayapan-Mayan-Ruins-and-Cenote-Swim-Tour/d4351-68847P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.285774999999997</latitude>
+				<longitude>-89.663114</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>68847P4</code>
+			<title>Dzibichaltun Mayan Ruins &amp; Beach Break Excursion</title>
+			<description>When visiting the Yucatan, explore one of Mexico’s exquisite Mayan archaeological sites on a half-day tour to Dzibilchaltún from Progreso or Merida. Your guide provides air-conditioned transportation from your hotel or cruise ship, and shows you around the Dzibilchaltún ruins while sharing commentary about Mayan culture. Return to Progreso and have time at the private beach in Silcer Beach Club, which includes access to all club facilities.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/df/b4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Dzibichaltun Mayan Ruins &amp; Beach Break Excursion</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.9</exactScore>
+				<reviewCount>14</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1641.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1641.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/PROGRESO-DZIBILCHALTUN-MAYAN-RUINS-and-BEACH-BREAK/d4351-68847P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.091625</latitude>
+				<longitude>-89.59561</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>50</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>68847P2</code>
+			<title>Progreso Scappatta Beach club</title>
+			<description>Spend the day lounging on the beach like a VIP at the Scappatta Beach Club in Progreso, Mexico. This day pass includes all access to this exclusive beach club, chock full of amenities such as a swimming pool, lounge chairs, umbrellas, kayaks, hammocks, and Wi-Fi. You'll also get unlimited drinks and food from the open bar and buffet during your time at the club. Round-trip transportation from the Progreso cruise port makes this a stress-free way to spend a beach day while in port.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/48/9b/de.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Progreso Scappatta Beach club</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>33</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1892.63</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1892.63</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Progreso-Scappatta-Beach-club/d4351-68847P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.285774999999997</latitude>
+				<longitude>-89.663114</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>150</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>68847P9</code>
+			<title>Progreso segway Sightseeing and Beach Break Adventure Excursion</title>
+			<description>Explore this beautiful city and its emerald green beaches in a diferent and unique way... 
+
+with a segway! 
+
+sigthseen the Progreso coast line
+have tghe oportunity to take great pics while walking on our secluted beaches!
+visit the main square and beach malecons! and relax at our Private beach club the Silcer! 
+optional All inclusive at the beach club!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/23/52/18.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Progreso segway Sightseeing and Beach Break Adventure Excursion</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Progreso-Scooter-Sightseeing-and-Beach-Break-Adventure-Excursion/d4351-68847P9</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.28577499999999</latitude>
+				<longitude>-89.663114</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>168856P2</code>
+			<title>Costa Esmeralda 5 en 1</title>
+			<description>Get a taste of the Yucatan's nature, culture, food, crafts, and heritage, as well as a touch of the sun, on this half-day guided shore excursion from the Progreso Cruise Port along the Costa Esmeralda. Discover Mayan history at the Xcambó Archaeological Zone; swim in cenotes at the El Corchito Ecological Reserve; visit a salt pan, see flamingos, lounge on the beach, and explore the Progreso cruise port.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f7/ca/ce.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Costa Esmeralda 5 en 1</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>5</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1738.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1738.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Costa-Esmeralda-5-en-1/d4351-168856P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.3411945</latitude>
+				<longitude>-89.6719232</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>18</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>168856P3</code>
+			<title>Cenote Adventure Tour</title>
+			<description>We are a Local Agency with Accessible Prices, Dedicated to provide excellent service and provide employment to the Local People of the Port of Progress.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f7/cb/4a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Cenote Adventure Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1931.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1931.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Cenote-Adventure-Tour/d4351-168856P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.73565</latitude>
+				<longitude>-89.277664</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>68847P1</code>
+			<title>Progreso Misnebalam Ghost Town ATV excursion and Break at Silcer Beach Club</title>
+			<description>Gain an alternative perspective of Yucatan on an ATV tour of the abandoned town of Misnebalam, then unwind after spooky sightseeing with a visit to Silcer Beach Club. Enjoy hassle-free round-trip transfer from your hotel or port to maximize your time, and explore the ghost town with a guide for insight into its haunted history and 19th-century architecture.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/df/a8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Progreso Misnebalam Ghost Town ATV excursion and Break at Silcer Beach Club</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3.2</exactScore>
+				<reviewCount>6</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Ports of Call Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2800.32</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2800.32</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Progreso-MisneBAlam-atv-Shore-Excursion-and-beach-break/d4351-68847P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.285793</latitude>
+				<longitude>-89.66315</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>89829P32</code>
+			<title>Progreso Shore Excursion: Small Group Chichen Itza Mayan Ruins</title>
+			<description>Discover one of the New7Wonders of the World at a more relaxed pace on a small-group shore excursion to Chichen Itza from Progreso. You won’t have to worry about making your own way to the ancient Mayan ruins, as you’ll be pickup and transports from the port in air-conditioned comfort, before delving deep into the rich history of the archaeological site.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e1/92/f2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Progreso Shore Excursion: Small Group Chichen Itza Mayan Ruins</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3615.62</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3615.62</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Progreso-Shore-Excursion-Small-Group-Chichen-Itza-Mayan-Ruins/d4351-89829P32</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.3411945</latitude>
+				<longitude>-89.6719232</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>89829P77</code>
+			<title>Shore Excursion: Small Group Dzibilchaltun Mayan Ruins with Famous SInkhole Tour</title>
+			<description>Immerse yourself in history during this small-group tour to explore the Dzibilchaltun Maya ruins and sinkhole. Perfect for a half-day excursion from Progreso port, this tour offers an intimate group experience at an affordable price. Take a dip in the renowned sinkhole to take in the views and capture photos. Enjoy bottled water, an intimate small-group setting, relax with all entrance fees included.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/d4/e5/b4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Shore Excursion: Small Group Dzibilchaltun Mayan Ruins with Famous SInkhole Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2272.78</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2272.78</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Shore-Excursion-Small-Group-Dzibilchaltun-Mayan-Ruins-with-Famous-SInkhole-Tour/d4351-89829P77</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.340863199999998</latitude>
+				<longitude>-89.67163320000002</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>16</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>89829P33</code>
+			<title>Progreso Shore Excursion: Small Group Shopping &amp; Merida City Tour</title>
+			<description>Come and discover the biggest city of Yucatan&amp;#39;s with this popular small group tour. We take you through history in a fun and exciting way.  If you want to shop till you drop or visit the Government Palace this is the shore excursion for you.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e1/92/f8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Progreso Shore Excursion: Small Group Shopping &amp; Merida City Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2947.77</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2947.77</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Progreso-Shore-Excursion-Small-Group-Shopping-and-Merida-City-Tour/d4351-89829P33</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.3411945</latitude>
+				<longitude>-89.6719232</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>168856P4</code>
+			<title>Uxmal All Inclusive</title>
+			<description>We are a Local Agency, Committed to National and International Tourism. Committed to show the most visited places with specialized personnel ..</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/37/50/79.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Uxmal All Inclusive</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Full-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4828.14</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4828.14</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Uxmal-All-Inclusive/d4351-168856P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.36045</latitude>
+				<longitude>-89.76853</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>true</noFollow>
+		</item>
+		<item>
+			<code>168856P1</code>
+			<title>Beach House Break</title>
+			<description>We are an agency that works your personalized tour and in Restaurants that have the best service for our clients, with personalized attention, we offer the all-inclusive mode in our Tours and in the Open Bar Restaurant, something very important, the prices are very accessible.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/8e/95/0f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Beach House Break</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1390.5</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1390.5</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Dzibilchaltun-and-Adventures-in-Kayaks/d4351-168856P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.26373</latitude>
+				<longitude>-89.76191</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>320728P376</code>
+			<title>Private Transfer from Progreso Port to Merida Rejon Airport (MID)</title>
+			<description>Book your Private Transfer from Progreso Cruise Port to Merida Rejon Airport (MID).
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport/port transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/a2/42/0f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Transfer from Progreso Port to Merida Rejon Airport (MID)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Port Transfers </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3182.71</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3182.71</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Private-Transfer-from-Progreso-Port-to-Merida-Rejon-Airport-MID/d4351-320728P376</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>320728P378</code>
+			<title>Private Transfer from Progreso Cruise Port to Merida City Hotels</title>
+			<description>Book your Private Transfer from Progreso Cruise Port to Merida city hotels or any addres. 
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door port/city transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/aa/35/10.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Transfer from Progreso Cruise Port to Merida City Hotels</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Progreso, Riviera Maya &amp; the Yucatan</location>
+			<category>Port Transfers </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3182.71</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3182.71</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Progreso/Private-Transfer-from-Progreso-Cruise-Port-to-Merida-city-hotels/d4351-320728P378</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>55</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>true</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>true</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Progreso</Destination>
+	<FileName>Progreso_d4351-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:29:15</FileCreationDateTime>
+</ProductList>

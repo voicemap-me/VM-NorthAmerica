@@ -1,0 +1,1076 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>14</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>74529P1</code>
+			<title>Charleston Stand-Up Paddleboard Eco Tour</title>
+			<description>The calm waters of the Folly River are one of the most popular spots in Charleston for water sports. Have a go at stand-up paddleboarding (SUP) on this tour suitable for all levels. Master the basic techniques under guidance of an expert instructor, then take to the water for a thrilling SUP tour. Along the way, stop to swim at a private beach and look out for wildlife including bottlenose dolphins.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/1c/11/d5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Charleston Stand-Up Paddleboard Eco Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>112</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Sustainable Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1089.61</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1089.61</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Charleston-SUP-Eco-Tour/d50788-74529P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.6589253</latitude>
+				<longitude>-79.94288159999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>469359P1</code>
+			<title>Folly Beach Dolphin Watching Trip with A Stop on Morris Island</title>
+			<description>Summer is the best time of the year to see pods of juvenile and baby dolphins. Join me on a private up to six guest, 2.5-hour boat tour through the local tidal creeks behind Folly Beach in search of our local dolphins. From the boat you will get to experience feeding techniques, socializing behaviors, and dolphins just having fun in their natural element. When spotted we will drift alongside them for great photo opportunities a get a little information about this wonderful creature. We’ll stop at Morris Island where you will have plenty of time to explore and take photos of the historic Morris Island Lighthouse. Our trips are designed for small groups up to 6 to give our guests a true Lowcountry experience on one of the most comfortable and easy to board tritoons available. 100% guarantee that you will see dolphins in their natural habitat.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/ca/db/3a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Folly Beach Dolphin Watching Trip with A Stop on Morris Island</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>46</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5600.64</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5600.64</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Charleston-Boat-Tour-dolphin-sighting-and-stop-at-Morris-Island/d50788-469359P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.65952</latitude>
+				<longitude>-79.943592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>407758P2</code>
+			<title>Private Charleston Sunset &amp; Dolphin Cruise</title>
+			<description>This tour is perfect for couples looking for a romantic cruise or small families wanting a relaxing experience to wind down their day. As we meander through the creeks and inlets, you will have the opportunity to see dolphins playing in the water and watch as birds set out for their evening roosts. If the Tide permits we will make a stop at Morris Island to see the Lighthouse bathed in the evening glow before returning to the dock to see the sun fade below the horizon. Bring your favorite beverage to enjoy and relax.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/22/7b/b8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Charleston Sunset &amp; Dolphin Cruise</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>20</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Romantic Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5697.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5697.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Sunset-and-Dolphin-Cruise/d50788-407758P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.65952</latitude>
+				<longitude>-79.943592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>407758P1</code>
+			<title>Private Charleston Dolphin and Eco Boat Tour</title>
+			<description>Join us on this two hour private boat tour as we explore the calm waters behind Folly Beach in search of the local bottlenose dolphins. As we cruise through the creeks and inlets, you will have the opportunity to see these beautiful animals play, sleep and hunt. If the dolphins are feeding, you may be able to observe a hunting strategy called “strand feeding,” only seen in this part of the world. Along the way, you will also have the chance to see other local wildlife, such as wading birds, bald eagles, osprey, pelicans or maybe a sea turtle. This cruise includes up to 6 people for one price!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/f0/82/bb.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Charleston Dolphin and Eco Boat Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>20</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5697.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5697.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Dolphin-and-Eco-Boat-Tour/d50788-407758P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.65952</latitude>
+				<longitude>-79.943592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>407758P4</code>
+			<title>Private 2 Hour Morris Island and River Cruise</title>
+			<description>On this tour, you will have the opportunity to experience history and the local wildlife around Folly. While we cruise through the waters along Folly Beach, you will have the opportunity to see tons of wildlife, like dolphins, sea turtles, and birds, and once we reach Morris Island, you will be in one of the best places in the world to find shark teeth. Or if you are a history buff, the Morris Island Lighthouse sits in the surf on the south end of the beach. </description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/65/47/2e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private 2 Hour Morris Island and River Cruise</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5697.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5697.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Morris-Island-and-River-Cruise/d50788-407758P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.65952</latitude>
+				<longitude>-79.943592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>74529P4</code>
+			<title>Kayak Activity and Sightseeing in Dolphin Safari</title>
+			<description>This 2-hour introductory paddle on the Edge of America will get you into the basics of kayaking, all in the calm flatwater of the Folly River. All safaris begin with &amp;#34;ground school&amp;#34; or kayak instructions with your Lifeguard Certified Instructors. We&amp;#39;ll explore alongside the numerous beautiful native birds and bottlenose dolphins. We&amp;#39;ll go with the flow, following the tides and wind direction for a great beginning paddle. 
+
+Group photo is taken at the end of the tour, which will be posted on our social media pages. 
+
+Level: Beginners to Advanced.  Ages 8 and Up</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e7/8e/4d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Kayak Activity and Sightseeing in Dolphin Safari</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Sustainable Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1062.19</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1062.19</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Kayak-Tour-and-Dolphin-Safari/d50788-74529P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.6589253</latitude>
+				<longitude>-79.94288159999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>16</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>314790P1</code>
+			<title>Morris Island Dolphin Cruise and Shelling Trip</title>
+			<description>If its dolphins and shelling you&amp;#39;re looking for, you&amp;#39;ve come to the right place! We&amp;#39;ll depart from and return to the Folly River Boat Ramp and enjoy a scenic boat ride through the salt marsh creeks of Folly Island to historic Morris Island. Once on Morris Island, you’ll have the opportunity to walk the beach in search of shells, shark teeth, and other fossils. From Morris Island you will also enjoy breathtaking up-close views of the historic Morris Island lighthouse.
+During your journey to and from the island, you will enjoy numerous sightings of Bottlenose Dolphins and other saltwater wildlife.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/42/e8/a5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Morris Island Dolphin Cruise and Shelling Trip</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5600.64</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5600.64</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Morris-Island-Dolphin-Cruise-and-Shelling-Trip/d50788-314790P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.6599877</latitude>
+				<longitude>-79.94324569999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>12117P6</code>
+			<title>Dolphin Boat Tour from Folly Beach to Morris Island</title>
+			<description>Get on board as we explore the creeks and marshes behind Folly beach while we search for the wild Atlantic bottlenose dolphins that live here year-round. Your experienced captain shares their knowledge about this beautiful ecosystem, the local history, and our famous dolphins while always operating the vessel in a way that is safe and respectful of the resident wildlife.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/57/78/ee.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Dolphin Boat Tour from Folly Beach to Morris Island</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Water Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1158.75</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1158.75</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Dolphin-Boat-Tour-to-Morris-Island/d50788-12117P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.6589253</latitude>
+				<longitude>-79.94288159999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>18</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>407758P3</code>
+			<title>Morris Island Private Excursion</title>
+			<description>As we make our way through the creeks to Morris Island, you will have the opportunity to see dolphins and wading birds in the marsh and oyster beds. We will land on the south end of Morris Island, near the Lighthouse, where you will have 90 minutes to walk the beach on your own to look for shells, shark teeth and fossils. As we make our way back to the dock, you will likely see dolphins as the inlet behind the island is one of their favorite places to hang out.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/fd/a8/08.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Morris Island Private Excursion</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6855.96</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6855.96</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Morris-Island-Excursion/d50788-407758P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.65952</latitude>
+				<longitude>-79.943592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>31197P2</code>
+			<title>Charleston/Folly Beach Stand up Paddleboard Tour</title>
+			<description>Watch for turtles, dolphins and egrets on a small-group stand-up paddleboard tour of Charleston with a local guide. Learn to steer your board, then paddle along low country coastlines that shelters a thriving population of birds and mammals. Identify pelicans and blue-winged teal with your knowledgeable guide, connect with North Carolina’s vibrant nature, and escape the city for Charleston's most perfect paddling.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/ed/24/ca.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Charleston/Folly Beach Stand up Paddleboard Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.4</exactScore>
+				<reviewCount>5</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Charleston-Wildlife-Stand-up-Paddleboard-Tour/d50788-31197P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.65952</latitude>
+				<longitude>-79.943592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P105</code>
+			<title>Folly Beach to Charleston Airport (CHS) - Departure Private Transfer</title>
+			<description>Book your Private Departure Transfer from Folly Beach any hotel or address to Charleston Airport (CHS).
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/ae/8e/ab.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Folly Beach to Charleston Airport (CHS) - Departure Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3520.87</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3520.87</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Transfer-Taxi-Venice-Airport-Marco-Polo-Venice-Cruise-port-up-to-3-per/d50788-128285P105</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>35</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.6549463</latitude>
+				<longitude>-79.9405323</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P107</code>
+			<title>Charleston Airport (CHS) to Folly Beach - Round-Trip Private Transfer</title>
+			<description>Book your Private Round-Trip Transfer from Charleston Airport (CHS) to Folly Beach hotel or address and return.
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/7b/20/1b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Charleston Airport (CHS) to Folly Beach - Round-Trip Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Charleston, South Carolina</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7041.75</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7041.75</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Charleston/Transfer-Taxi-Bibione-Venice-Airport-Marco-Polo-VCE-up-to-3-person/d4384-128285P107</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>10</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.8916648</latitude>
+				<longitude>-80.0395233</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>12117P8</code>
+			<title>Folly OBX Filming Locations and Pogue Life Boat Tour w/ Dolphins</title>
+			<description>If you’re a fan of the Outer Banks series, and you’re looking for a thrilling experience that captures the essence of the show, the Flipper Finders tour departing from Folly Beach is the perfect adventure for you. This OBX-themed excursion invites you to live the “Pogue life” while exploring iconic filming locations, connecting with nature, and possibly even spotting dolphins along the way. Get ready for a day filled with excitement as you cruise through the rich culture and breathtaking scenery of the Lowcountry.
+
+Living the Pogue Life!
+
+The Pogue life embodies freedom, adventure, and a strong sense of camaraderie. On this tour, you’ll experience what it means to live like the characters from Outer Banks. Imagine yourself alongside John B, Sarah Cameron, and the rest of the crew, as you navigate the waters that inspired their thrilling escapades. This is your chance to immerse yourself in the spirit of the show, where friendships are forged, and adventures are just a boat ride away.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/40/78/10.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Folly OBX Filming Locations and Pogue Life Boat Tour w/ Dolphins</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6952.52</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6952.52</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/OBX-Filming-Locations-and-Pogue-Life-Boat-Tour-w-Dolphins/d50788-12117P8</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.6589253</latitude>
+				<longitude>-79.94288159999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200006P539</code>
+			<title>Folly Beach Blitz Scavenger Hunt</title>
+			<description>Our very unique, immersive adventures are the only ones of their kind. We, unlike other companies, provide your very own remote, interactive, live host to assist and encourage you along through your phone. We are an Austin, TX-based global custom event design company offering scavenger hunts and other events in 300&amp;#43; cities in North America and beyond. Our specially hand-crafted adventures are equal parts tour, creative challenge, detective hunt, and social experiment!
+
+Guests get to discover in an alternate reality our favorite hidden gems off the beaten trail and creatively interpret fun art, history, and culture clues - for points! They get to enjoy fame and glory while appearing on our website’s international leaderboard, no matter what their score. They get to essentially race other teams in other cities, even if they don’t have competitors who have signed up in their city that day. Get ready to discover unusual oddities, laugh out loud, and make the experience your own!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/32/c1/7f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Folly Beach Blitz Scavenger Hunt</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Folly Beach, South Carolina</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Folly-Beach/Folly-Beach-Blitz-Scavenger-Hunt/d50788-200006P539</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>32.6559433</latitude>
+				<longitude>-79.9408914</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Folly-Beach</Destination>
+	<FileName>Folly-Beach_d50788-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:51:24</FileCreationDateTime>
+</ProductList>

@@ -1,0 +1,1841 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>23</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>123611P7</code>
+			<title>5-Hour Traverse City Wine Tour: 4 Wineries on Old Mission Peninsula</title>
+			<description>Known for its wineries and picturesque lake views, Old Mission Peninsula is a must-visit for wine lovers. By joining this winery tour, you can visit four of the Peninsula’s wineries and enjoy round-trip transportation from Traverse City. That way, everyone in your group can indulge in wine and enjoy the scenery without worrying about driving.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/29/64/e5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>5-Hour Traverse City Wine Tour: 4 Wineries on Old Mission Peninsula</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>1913</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1351.69</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1351.69</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/4-Hour-Traverse-City-Wine-Tour-4-Wineries/d27762-123611P7</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7618782</latitude>
+				<longitude>-85.59252889999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>123611P11</code>
+			<title>5-Hour Traverse City Wine Tour: 3 Wineries on Leelanau Peninsula</title>
+			<description>Visiting new wineries is always an enjoyable experience, but if you have to figure out rides from one winery to the next, it can be difficult if everyone in your group is drinking. This Leelanau Peninsula Wine Tour from Traverse City takes care of the rides for you—and the winery reservations, too. Visit four popular wineries along the Leelanau Peninsula, and take in stunning views.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/fa/58/54.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>5-Hour Traverse City Wine Tour: 3 Wineries on Leelanau Peninsula</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>318</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1544.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1544.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/5-Hour-Leelanau-Peninsula-Wine-Tour-4-Wineries-on-Leelanau-Peninsula/d27762-123611P11</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7618782</latitude>
+				<longitude>-85.59252889999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>103711P2</code>
+			<title>Designated Driver TC - We Drive Your Car - As Low as $55pp</title>
+			<description>Most tasting tours drive you around in their own vehicles, adding to the costs. But you can hire a designated driver to drive your car on your adventure and save some dough. Discover breweries, wineries, and distilleries around Traverse City, Michigan on a half-day tour and sit back and relax while someone else does the driving.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/06/05/e9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Designated Driver TC - We Drive Your Car - As Low as $55pp</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>171</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3563.17</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3563.17</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Designated-Driver-We-Drive-Your-Car-for-Wine-Tours/d27762-103711P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.76713</latitude>
+				<longitude>-85.6343</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P1</code>
+			<title>NON BUS 4 Winery Traverse City Wine Tour on Old Mission Peninsula</title>
+			<description>NO MORE MAGIC SHUTTLE BUS FOR MAGIC MIKE - Book Magic Mike here!
+Yellowstone Style Meets Traverse City Wine Country in Luxury GMC Yukons (one fancy Suburban)!
+Skip the hassle of a party bus and leave the driving to us! Stunning views, NO BUSES, NO Rush, Iconic wineries, stellar wines, and 5-star Celebrity customer service! Sip and savor as you sample the wines of 4 spectacular wineries
+This is the VIP tour with Magic Mike formerly of Magic Shuttle Bus: real wine connoisseurs/wine tour guides. NOT basic transportation to the wineries, this is THE WINE EXPERIENCE with real wine recommendations. NO-ONE knows the tour and wines better than Magic Mike and the expert staff.
+Tours are flexible, with pickup and drop-off in downtown Traverse City(some locations).
+Wine Samples ARE included, Tastings, wines, and food are not included in the price of the tour. Other groups may be on the tour - semi-private. We combine groups of couples, groups of 6-7 most likely will have a private GMC Yukon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/46/2b/10.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>NON BUS 4 Winery Traverse City Wine Tour on Old Mission Peninsula</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>168</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1718.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1718.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Award-Winning-Traverse-City-Wine-Tour-On-Old-Mission-Peninsula/d27762-452939P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>123611P12</code>
+			<title>4-Hour Traverse City Sunset Wine Tour: 3 Wineries on Old Mission Peninsula</title>
+			<description>If you’ve never been to Michigan’s wine country, then this tour of the Old Mission Peninsula is one experience you’ll savor. Not only will you drink in views of winding country roads and gentle slopes against a coastal sunset, but you’ll also sip on wine from 3 of the highest rated wineries in the state. Taste flights of wine alongside locally crafted cheeses. See stunning bay views from a vineyard estate. Marvel at a beautiful sunset with wine in hand.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/1a/5c/91.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>4-Hour Traverse City Sunset Wine Tour: 3 Wineries on Old Mission Peninsula</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>125</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1255.12</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1255.12</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/4-Hour-Traverse-City-Sunset-Wine-Tour-3-Wineries-on-Old-Mission-Peninsula/d27762-123611P12</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7618782</latitude>
+				<longitude>-85.59252889999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P2</code>
+			<title>NON BUS Traverse City Old Mission Sunset Wine &amp; Distillery Tour</title>
+			<description>NO MORE MAGIC SHUTTLE BUS FOR MAGIC MIKE - This is where you book and chase a sunset with Magic Mike
+
+Yellowstone Style Meets Traverse City Wine Country
+
+Stunning views, NO BUSES, NO Rush, Iconic wineries, stellar wines and 5 star Celebrity customer service
+
+Leave the driving to us! Sip and savor as you sample the wines of 3 wineries and an optional distillery
+
+This is VIP treatment with Magic Mike formerly of Magic Shuttle Bus. We are true wine connoisseurs and wine tour guides. This isn&amp;#39;t just basic transportation to the wineries, this is a WINE EXPERIENCE with real wine recommendations. NO-ONE knows the tour and the wines better than Magic Mike and staff- 6 years experience on Old Mission Peninsula. We don&amp;#39;t have 20 buses and random drivers- we pick up in luxury SUVs. ROLL LIKE A MOVIE STAR!
+
+Tours are flexible, pickup and drop off from downtown Traverse City .
+
+Tastings, wines and food are not included in the price of the tour there may be other groups on the tour - semi private.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/d3/8d/a4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>NON BUS Traverse City Old Mission Sunset Wine &amp; Distillery Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>108</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Traverse-City-Sunset-Wine-Tour-on-Old-Mission-Peninsula/d27762-452939P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>162161P1</code>
+			<title>Historical Ghost Lantern Tour Downtown Traverse City +Magnant</title>
+			<description>This private ghost tour lets you discover the haunted side of Traverse City, and learn some history along the way. Using real ghost-hunting equipment, your guide will take you to the most haunted sites in Traverse City including the Whiting Hotel, Traverse City Opera House, the Perry Hannah House, and the Hannah Park.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/19/30/ad.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Historical Ghost Lantern Tour Downtown Traverse City +Magnant</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>101</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>733.88</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>733.88</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Traverse-City-Historical-Ghost-Tour/d27762-162161P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7642924</latitude>
+				<longitude>-85.6173939</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>18</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>180066P1</code>
+			<title>Daily Tours to Sleeping Bear Dunes National Lakeshore</title>
+			<description>Sleeping Bear Dunes National Lakeshore covers an enormous amount of land. Go with a guide during this Sleeping Bear Dunes National Lakeshore Tour from Traverse City and cover the most beautiful areas and outlooks without having to worry about getting lost along the way. See Empire Bluffs, Scenic Pierce Stocking Drive, Glen Lake Overlook, and Sleeping Bear Dune Overlook.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/8d/87/05.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Daily Tours to Sleeping Bear Dunes National Lakeshore</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>86</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3186.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3186.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Daily-Tours-to-Sleeping-Bear-Dunes-National-Lakeshore/d27762-180066P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.764773</latitude>
+				<longitude>-85.60992139999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>103711P5</code>
+			<title>Hi-5 Rickshaw Tour Traverse City - First Thing You MUST Do in TC!</title>
+			<description>Enjoy a fun-filled, accessible, and speedy way to discover Traverse City on this private pedicab tour. Pick from multiple start times throughout the day, meet your driver, and settle into your two-person pedicab. Then, set off. You’ll zip through five different areas, including buzzing Downtown Front Street, the trendy Warehouse District, and the Old Towne; will learn about the city’s highlights and history; and will soak up its waterfront ambiance.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/33/e3/4e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Hi-5 Rickshaw Tour Traverse City - First Thing You MUST Do in TC!</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>69</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Private and Luxury</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3070.7</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3070.7</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Pedicab-Rickshaw-Tours-Traverse-City/d27762-103711P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.765532199999996</latitude>
+				<longitude>-85.6244347</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>2</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>140232P8</code>
+			<title>Half-Day Fun Pass: Kayak, Bike and SUP Rental in Traverse City</title>
+			<description>Enjoy water activities, biking, or both at Boardman Lake with a Half-Day Fun Pass. Kayaks and stand-up paddle boards are available to suit any comfort and skill level. The pass also includes access to hybrid bikes and Sun Bikes, both of which ensure an easy and comfortable ride. All equipment can be delivered free of charge to accommodation and boat launches within 10 miles of Traverse City.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/26/bd/1d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Half-Day Fun Pass: Kayak, Bike and SUP Rental in Traverse City</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>56</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Boat Rentals</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1351.88</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1351.88</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Half-day-Kayak-Bike-and-SUP-rentals/d27762-140232P8</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7342675</latitude>
+				<longitude>-85.6161559</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>123611P9</code>
+			<title>Private Traverse City Winery or Brewery Tour</title>
+			<description>Plan a half day of adventure and indulgence around town on this private Traverse City brewery or winery tour. Pick your own start time, meet in the city center, and leave the driving to your guide as you travel via private, air-conditioned vehicle. Depending on your interests, you'll visit up to four top-rated local wineries or craft breweries, and will have time to order drinks (own expense) and explore at each stop.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/35/c2/cd.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Traverse City Winery or Brewery Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>28</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>13518.6</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>13518.6</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>14</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Private-Traverse-City-Winery-OR-Brewery-Tour-Locations-Groups-Choice/d27762-123611P9</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7618782</latitude>
+				<longitude>-85.59252889999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>140232P1</code>
+			<title>KaBrew: Traverse City's Original Kayak, Bike &amp; Brew Experience</title>
+			<description>Skip the average pub crawl, and instead combine kayaking, biking, and breweries on an adventure sure to delight anyone who loves outdoor activities and beer. Traveling by kayak or bike from one brewery to the next lets you combine scenic views, exercise, and drinking all in one tour. Plus, a guide leads the way so you don’t have to worry about logistics or navigation.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/71/ef/b6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>KaBrew: Traverse City's Original Kayak, Bike &amp; Brew Experience</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>15</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1332.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1332.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/KaBrew-TCs-Original-Kayak-Bike-and-Brew-Tour/d27762-140232P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7342675</latitude>
+				<longitude>-85.6161559</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>40</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>103711P8</code>
+			<title>Flying Dress Photo Shoot in Traverse City</title>
+			<description>You are the Emotion…You are the Intrigue…You are the Moment
+
+You are cordially invited to the most memorable experience of your life…
+
+You may not know this but, the most exciting thing that has happened to photography since well…photography, is happening right here in Traverse City!
+
+It’s your turn to indulge in a once-in a-lifetime photoshoot creating images you will cherish forever. Slip on the dress and transform into someone you have never experienced before. Princess for a day.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/46/3b/bf.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Flying Dress Photo Shoot in Traverse City</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Photography Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7705.71</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7705.71</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Flying-Dress-Photo-Shoot-in-Traverse-City/d27762-103711P8</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.765532199999996</latitude>
+				<longitude>-85.6244347</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P5</code>
+			<title>Andie's NON BUS 4-winery Traverse Leelanau Peninsula Wine Tour</title>
+			<description>Skip the hassle of a party bus and go VIP like a Movie Star with Andie&amp;#39;s Leelanau Peninsula Wine Tour. Stunning views, NO BUSES, NO Rush, Iconic wineries, stellar wines, and 5-star Celebrity customer service. This is the VIP tour with guides who are real wine connoisseurs/wine tour guides. Tours are led by Andie (1st Picture), Tony and Kyle who are experts in the local Leelanau Peninsula Wines. This is NOT the watered down 3 stop rushed economy bus tour with just a driver, this is VIP in one of our luxury SUV&amp;#39;s with real wine experts and recommendations. Leave the driving to your guide and enjoy wines at 4 wineries, with the option to buy flights, wine by the glass, or bottles. Wine Samples ARE included, Tastings, wines, and food are not included in the price of the tour. Other groups may be on the tour - semi-private. We combine groups of couples, groups of 6-7 most likely will have a private GMC Yukon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/00/d4/2b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Andie's NON BUS 4-winery Traverse Leelanau Peninsula Wine Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3843.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3843.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/5-hour-4-winery-Traverse-City-Wine-Tour-on-Leelanau-Peninsula/d27762-452939P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.775792900000006</latitude>
+				<longitude>-85.717383</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200006P511</code>
+			<title>Thrilling Traverse City Scavenger Hunt</title>
+			<description>Our very unique, immersive adventures are the only ones of their kind. We, unlike other companies, provide your very own remote, interactive, live host to assist and encourage you along through your phone. We are an Austin, TX-based global custom event design company offering scavenger hunts and other events in 300&amp;#43; cities in North America and beyond. Our specially hand-crafted adventures are equal parts tour, creative challenge, detective hunt, and social experiment! 
+
+Guests get to discover in an alternate reality our favorite hidden gems off the beaten trail and creatively interpret fun art, history, and culture clues - for points! They get to enjoy fame and glory while appearing on our website’s international leaderboard, no matter what their score. They get to essentially race other teams in other cities, even if they don’t have competitors who have signed up in their city that day. Get ready to discover unusual oddities, laugh out loud, and make the experience your own!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/f4/ac/ba.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Thrilling Traverse City Scavenger Hunt</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>5</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Thrilling-Traverse-City-Scavenger-Hunt/d27762-200006P511</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.764226099999995</latitude>
+				<longitude>-85.61690109999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P4</code>
+			<title>THE PROPOSAL and Engagement Traverse City Wine Tour</title>
+			<description>THE PROPOSAL is a VIP 4 Winery Old Mission Peninsula Day or Sunset Wine Tour Experience
+NO MORE MAGIC SHUTTLE BUS FOR MAGIC MIKE - Book Magic Mike here!
+Yellowstone Style Meets Traverse City Wine Country in Luxury GMC Yukons (one fancy Suburban)!
+Skip the hassle of a party bus and leave the driving to us! Stunning views, NO BUSES, NO Rush, Iconic wineries, stellar wines, and 5-star Celebrity customer service! Sip and savor as you sample the wines of 4 iconic wineries.
+This is the VIP tour with Magic Mike formerly of Magic Shuttle Bus: real wine connoisseurs/wine tour guides. NOT basic transportation to the wineries, this is THE WINE EXPERIENCE with real wine recommendations. NO-ONE knows the tour and wines better than Magic Mike and the expert staff. Perfect for that special proposal day or evening. 
+
+This VIP tour includes pick-up and drop-off from downtown Traverse City for up to 6 people. Coordination with the wineries available.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/00/18/e3.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>THE PROPOSAL and Engagement Traverse City Wine Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>9636.97</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>9636.97</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/The-Engagement-Sunset-Traverse-City-Wine-Tour/d27762-452939P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P19</code>
+			<title>Law Enforcement First Responder Military Traverse Wine Tour</title>
+			<description>This is the Official Traverse City Michigan Law Enforcement, Military, Fire, Medical, First Responder, Teacher Wine Tour with Whiskey, Brandy, Beer, and some other perks. We are the ONLY Wine Tour company in Traverse City run and owned by former and current Cops. This is a safe place for all Local, County, State, and Federal Police, First Responders, Military personnel, their families, and friends.
+
+First Responders need a break! For all you have done, skip the hassle of a party bus and leave the driving to us! Stunning views, NO BUSES, NO Rush, Iconic wineries, wines, and 5-star customer service! Sip and savor the wines of 4 wineries, THE WINE EXPERIENCE with real wine recommendations. NO-ONE knows the wines like Magic Mike (a former cop) and the expert staff.
+
+Wine Samples included, Tastings, wines, and food are not included in the price of the tour. Other groups may be on the tour -semi-private. We may combine groups, groups of 6-7 most likely will have a private GMC Yukon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/4c/99/96.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Law Enforcement First Responder Military Traverse Wine Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1718.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1718.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/Law-Enforcement-First-Responder-Military-Traverse-Wine-Tour/d27762-452939P19</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P14</code>
+			<title>NON BUS Traverse Sunset Wine Tour 3 Winery Old Mission Peninsula</title>
+			<description>Skip the hassle of a party bus and let us handle the driving! Enjoy stunning views with no buses, no rush, and visit iconic wineries while savoring stellar wines and receiving 5-star Celebrity customer service. Experience the VIP tour with expert wine connoisseurs and guides – this is not just transportation to wineries, but THE WINE EXPERIENCE, complete with real wine recommendations. Our knowledgeable staff knows the wines and tour better than anyone else. Tours are flexible with pickup and drop-off in downtown Traverse City (at select locations).
+
+Wine samples are included, but tastings, wines, and food are not part of the tour price. The tour is semi-private, combining groups of couples or small parties. Larger groups of 6-7 will typically have a private GMC Yukon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/4c/a9/4e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>NON BUS Traverse Sunset Wine Tour 3 Winery Old Mission Peninsula</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1235.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1235.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/4-Hour-Traverse-Sunset-Wine-Tour-3-Wineries-Old-Mission-Peninsula/d27762-452939P14</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P18</code>
+			<title>Non Bus Traverse City Singles Mingle Sunset Wine Distillery Tour</title>
+			<description>NO MORE MAGIC SHUTTLE BUS FOR MAGIC MIKE - This is where local and visiting SINGLES book and chase a sunset with Magic Mike and crew.
+Yellowstone Style Meets Traverse City Wine Country- Cowboy and fancy hats are strongly encouraged!
+
+Stunning views, NO BUSES, NO Rush, Iconic wineries, stellar wines, and 5-star Celebrity customer service
+
+Leave the driving to us! Sip and savor as you sample the wines of 3 wineries and an optional distillery- great for local and visiting singles! 
+
+This is VIP treatment because dating, for those of us who are tired of being single, can be a royal pain. Online dating, clubs and bars can be tricky, now singles can meet us up for a Fancy Wine Tour! Many of us have met many people at the bar, how did that go? Try a new way... wine tasting for singles. 
+
+Tastings, wines and food are not included in the price of the tour but hey maybe someone will buy you a glass of wine! We combine groups, this will be a public tour- OF COURSE!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/4c/87/72.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Non Bus Traverse City Singles Mingle Sunset Wine Distillery Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/NON-BUS-Traverse-City-SINGLES-MINGLE-Sunset-Wine-Distillery-Tour/d27762-452939P18</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P15</code>
+			<title>Non Bus Traverse City Wine Old Mission Peninsula Wine Tour</title>
+			<description>Skip the hassle of a party bus and let us handle the driving! Enjoy stunning views of 3 Iconic Stellar wineries with no buses, and no rush, and visit iconic wineries while savoring stellar wines and receiving 5-star Celebrity customer service. Experience the VIP tour with expert wine connoisseurs and guides – this is not just transportation to wineries, but THE WINE EXPERIENCE, complete with real wine recommendations. Our knowledgeable staff knows the wines and tours better than anyone else. Tours are flexible with pickup and drop-off in downtown Traverse City (at select locations).
+
+Wine samples are included, but tastings, wines, and food are not part of the tour price. The tour is semi-private, combining groups of couples or small parties. Larger groups of 6-7 will typically have a private GMC Yukon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/1f/c2/94.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Non Bus Traverse City Wine Old Mission Peninsula Wine Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1332.37</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1332.37</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/NON-BUS-Traverse-City-Wine-Tour-3-Wineries-Old-Mission-Peninsula/d27762-452939P15</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P10</code>
+			<title>Non Bus Leelanau Winery Pairing with That's a Pizza Food Tour</title>
+			<description>Napa Valley Meets Traverse City Wine Country on Leelanau Peninsula
+
+Stunning views, stellar wines, and 5-star Movie Star customer service
+
+Leave the driving to us! Sip and savor as you sample the wines of 3 wineries. This is a &amp;#34;Scenic View AND Drink Recommendation Tour&amp;#34;...
+
+This is true VIP wine tour treatment with true Leelanau Wine experts NOT BUS DRIVERS. This wine tour isn&amp;#39;t just transportation to the wineries, this is a WINE EXPERIENCE with real wine recommendations. The tour guides have been doing this Leelanau Peninsula Wine Tour for 5 years plus. WE don&amp;#39;t have 20 buses, we roll in luxury SUVs. There aren&amp;#39;t too many Stars around, so if you want to be a Movie Star for the day book with Movie Stars Wine Tours. 
+
+Meet up and finish the tour with food at the famed That&amp;#39;sa Pizza N Long Lake location. Drop off at the same pickup location or downtown Traverse City at one of the restaurants or bars. Tastings, wines, and food are not included in the price of the tour.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/2b/b8/a9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Non Bus Leelanau Winery Pairing with That's a Pizza Food Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3843.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3843.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/NON-BUS-Leelanau-Winery-pairing-with-Thatsa-Pizza-Food-Tour/d27762-452939P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7569623</latitude>
+				<longitude>-85.6527467</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P17</code>
+			<title>NON BUS VIP Traverse City Brewery And Distillery Tour</title>
+			<description>Skip the hassle of a party bus and go VIP like a Star with the Movie Stars Wine Tours 4 stop Downtown Traverse City Beer and Distillery Tour. NO BUSES, NO Rush, Iconic breweries/distillery, stellar drinks, and 5-star Celebrity customer service. Skip the hassle of a loud obnoxious party bus and leave the driving to us! 
+
+This tour has 2 start times, 11:45 AM / 4:30 PM... pricing is tiered depending on group size.
+
+This is the VIP tour with guides who are beer/distillery connoisseurs/tour guides. It is NOT basic transportation to the locations; it is THE TRAVERSE CITY EXPERIENCE with real drink recommendations.
+
+This is NOT the economy bus tour with just a driver; this is VIP in one of our luxury SUVs with real experts and recommendations.
+
+Discover downtown local gems on a guided brewery &amp;amp; distillery tour here in beautiful Traverse City.
+
+Other groups may be on the tour - semi-private. We combine groups of couples, groups of 6-7 most likely will have a private GMC Yukon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/4c/57/f5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>NON BUS VIP Traverse City Brewery And Distillery Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/NON-BUS-VIP-Traverse-City-Brewery-And-Distillery-Tour/d27762-452939P17</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>452939P13</code>
+			<title>VIP GMC Yukon Traverse City Wine Tour on Old Mission Peninsula</title>
+			<description>NO MORE MAGIC SHUTTLE BUS FOR MAGIC MIKE - Book Magic Mike here!
+Yellowstone Style Meets Traverse City Wine Country in Luxury GMC Yukons (one fancy Suburban)!
+Stunning views, NO BUSES, NO Rush, Iconic wineries, stellar wines, and 5-star Celebrity customer service
+Skip the hassle of a party bus and leave the driving to us! Sip and savor as you sample the wines of 4 spectacular wineries
+This is the VIP tour with Magic Mike formerly of Magic Shuttle Bus: real wine connoisseurs/wine tour guides. NOT basic transportation to the wineries, this is THE WINE EXPERIENCE with real wine recommendations. NO-ONE knows the tour and wines better than Magic Mike and the expert staff.
+Tours are flexible, with pickup and drop-off in downtown Traverse City(some locations).
+
+Wine Samples ARE included, Tastings, wines, and food are not included in the price of the tour. Other groups may be on the tour - semi-private. We combine groups of couples, groups of 6-7 most likely will have a private GMC Yukon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/cb/49/28.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>VIP GMC Yukon Traverse City Wine Tour on Old Mission Peninsula</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Traverse City, Michigan</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Traverse-City/VIP-GMC-Yukon-Traverse-City-Wine-Tour-on-Old-Mission-Peninsula/d27762-452939P13</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.7633685</latitude>
+				<longitude>-85.6175336</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Traverse-City</Destination>
+	<FileName>Traverse-City_d27762-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:43:30</FileCreationDateTime>
+</ProductList>

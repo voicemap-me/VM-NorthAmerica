@@ -1,0 +1,1889 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>66</totalCount>
+	<pages>3</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>322421P1</code>
+			<title>6-Hour Private Limousine Tour to Napa and Sonoma Valley Wineries</title>
+			<description>Enjoy a customized winery tour of your desired spots in Napa and Sonoma, and be transferred in luxury in a limousine. Your driver will take you to the wineries, where you can learn all about the wine making process, and have tastings (at your own expense). Water and soda are provided along the way, and there will be an opportunity to purchase lunch. This tour could go for 6-8 hours.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/d7/82/fe.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>6-Hour Private Limousine Tour to Napa and Sonoma Valley Wineries</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>36</reviewCount>
+			</rating>
+			<location>Napa &amp; Sonoma, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16010.11</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16010.11</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>8</maxTravelersPerUnit>
+			<url>/tours/Napa-and-Sonoma/12-Passenger-Starting-at-907-20/d914-322421P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.2455474</latitude>
+				<longitude>-122.2755327</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5298BERKELEY</code>
+			<title>Best of North Berkeley Food Tour</title>
+			<description>On this gourmet food walking tour of Berkeley’s ‘Gourmet Ghetto,’ venture behind the scenes of the North Shattuck district. Food tastings include gourmet cheeses, chocolates, gelato, pizza, sandwiches, and wine at notable venues committed to sustainable and organic cuisine. An in-the-know guide introduces you to local owners and chefs who enlighten you about the culinary culture of this San Francisco Bay Area enclave.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6e/e4/35.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Best of North Berkeley Food Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>22</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2645.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2645.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/Best-of-Berkeley-Gourmet-Food-Tour/d22040-5298BERKELEY</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.879608499999996</latitude>
+				<longitude>-122.2688532</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>361770P1</code>
+			<title>Black Food Tour - Downtown Oakland</title>
+			<description>Eat like a local with the help of a tour guide who knows the Oakland food scene like the back of their hand. Spend 3.5 hours eating at as many as five Black-owned restaurants, learning about the city’s culture and cuisine as you go. The tour will be led by a passionate guide from the area who’ll tell you all about Oakland’s past and present.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/00/31/a2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Black Food Tour - Downtown Oakland</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>19</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2896.88</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2896.88</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/Black-Food-Tour-Downtown-Oakland/d22040-361770P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.7951148</latitude>
+				<longitude>-122.27665719999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>425425P3</code>
+			<title>Guided Wine Tasting at Berkeley Wineries with Local Sommelière</title>
+			<description>It&amp;#39;s not often that you can visit a winery in the heart of a city! Berkeley has been home to what we call &amp;#39;urban wineries&amp;#39; for almost 20 years. Although these producers don&amp;#39;t own any vineyards of their own, they work directly with grape growers from all around northern California.
+
+It is important to note that I am very selective about my choice of wines and wineries. With thousands of wineries in the state, many small, fine wine oriented producers are overlooked by large scale industrial operations. I like to champion true artisans and support small businesses!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/ac/12/68.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Guided Wine Tasting at Berkeley Wineries with Local Sommelière</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>12</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Dining Experiences</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3379.7</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3379.7</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/Guided-Wine-Tasting-at-Berkeley-wineries-with-Local-Sommeliere/d22040-425425P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.878082899999995</latitude>
+				<longitude>-122.3022627</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>209017P1</code>
+			<title>Ruth Bancroft Garden General Admission Ticket</title>
+			<description>Discover a picturesque haven for drought-resistant plant life with this general admission ticket to the Ruth Bancroft Garden. Explore the 3.5-acre garden on your own with a self-guided tour book, or check the schedule to join a free docent-led tour. Dogs and children under 12 enter free of charge.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/61/e9/d5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Ruth Bancroft Garden General Admission Ticket</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Sustainable Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>231.75</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>231.75</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/Garden-Admission/d22040-209017P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.9235</latitude>
+				<longitude>-122.03633</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>395093P2</code>
+			<title>7 Hour Private Wine Tasting in Napa or Sonoma Valley</title>
+			<description>Craft your perfect day in Wine Country. Tailored tours, hidden gems, and genuine hospitality. 
+
+Let me be your guide. Unlike most wine tours, I fully customize the experience for each guest, ensuring they have the best day possible in Wine Country. After booking, I send my guests a questionnaire that I reference to plan their day based on their wine preferences, budget, and overall experience.
+
+Backed by years of hospitality experience at world-class wineries, I possess unique industry connections to unlock doors even the general public can&amp;#39;t reach. 
+
+Having personally visited over 300 wineries myself, I have a wealth of knowledge to connect you with your new favorite hidden gems. 
+
+Easygoing and passionate about hosting, I love sharing my love for Wine Country and showing you a truly unforgettable time.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/4f/06/6b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>7 Hour Private Wine Tasting in Napa or Sonoma Valley</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>8</reviewCount>
+			</rating>
+			<location>Napa &amp; Sonoma, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>14484.42</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>14484.42</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Napa-and-Sonoma/Napa-and-Sonoma-Uncorked-Your-Dream-Tasting-Trip/d914-395093P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.445156</latitude>
+				<longitude>-122.38457</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>15142P4</code>
+			<title>Private Transfer: Oakland International Airport to Hotel</title>
+			<description>Enjoy a hassle-free arrival at Oakland International Airport with this private transfer service. Meet your driver and relax on the journey to your hotel or private residence in Oakland, Berkeley or San Francisco. Travel in a comfortable hybrid for up to two passengers, luxury sedan for up to three passengers or an SUV for up to six passengers. Don't worry about a ticking taximeter with this private transfer service that’s available 24 hours a day, seven days a week.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/6a/a5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Transfer: Oakland International Airport to Hotel</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>6</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3862.51</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3862.51</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Oakland/Private-Transfer-Arrival-at-Oakland-International-Airport/d22040-15142P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.78248</latitude>
+				<longitude>-122.42204</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P217</code>
+			<title>3 Day Tour to Oregon Redwood Crater Lake from San Francisco</title>
+			<description>Explore beyond the bustle of the city—and discover some of California and Oregon’s most spectacular natural scenery—on this 3-day tour. On the first day, meet your bus at San Francisco, Oakland, or Millbrae, and hop aboard to discover California landmarks like Burney Falls. On day two, visit Crater Lake and Redwood National Park. And on the third day, after more time among the redwoods, enjoy a wine-tasting in Napa Valley.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/f2/b9/5b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>3 Day Tour to Oregon Redwood Crater Lake from San Francisco</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>San Francisco, California</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>11095.06</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>11095.06</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/BEST-Oregon-Redwood-and-Crater-Lake-National-Park-3-Day-Tour-from-San-Francisco/d651-132218P217</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>3</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.7873349</latitude>
+				<longitude>-122.40794629999998</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>55</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>92157P10</code>
+			<title>Wine Tour Pros - Napa Wine Tour: SUV Up To 6 Guests</title>
+			<description>Discover the best that Napa Valley has to offer on a private tour to the wineries of your choice. This customizable trip makes visiting several vineyards in a day easy. Tell your driver which estates you’d like to visit and enjoy a relaxing journey, with complimentary bubbles, to each one. Spend a day imbibing, exploring, and learning about wine all without the worry of driving.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/0b/c3/e7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Wine Tour Pros - Napa Wine Tour: SUV Up To 6 Guests</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Napa &amp; Sonoma, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18346.93</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18346.93</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Napa-and-Sonoma/Napa-Wine-Tour/d914-92157P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.518124</latitude>
+				<longitude>-122.78248</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P153</code>
+			<title>Redwood Forest, Santa Cruz Harbor 1-Day Trip from San Francisco</title>
+			<description>Santa Cruz and its central coast beaches and redwood forests lie roughly two hours south of San Francisco. This tour covers the best of the region on a full day of sightseeing while letting someone else take care of the driving. Highlights include a ride on the Redwood Forest Steam Train, visiting an abalone farm, and exploring Santa Cruz Harbor and Capitola Beach.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0d/07/70/70.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Redwood Forest, Santa Cruz Harbor 1-Day Trip from San Francisco</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.7</exactScore>
+				<reviewCount>11</reviewCount>
+			</rating>
+			<location>San Francisco, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3215.54</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3215.54</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/1-Day-Washington-D-C-Cherry-Blossom-New-York-Departure-CB1/d651-132218P153</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>10</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.7873349</latitude>
+				<longitude>-122.40794629999998</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>55</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5298TEMESCAL</code>
+			<title>Oakland's Temescal Tastes Tour</title>
+			<description>Taste your way through Temescal, one of Oakland's hippest neighborhoods, on this food tour. You'll get to know the artsy district through its culinary creations, from Korean rice bowls to tacos to tomato soup made with Pabst Blue Ribbon beer.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6e/e4/51.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Oakland's Temescal Tastes Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2433.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2433.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/Oaklands-Temescal-Tastes-Tour/d22040-5298TEMESCAL</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.83958510000001</latitude>
+				<longitude>-122.2598056</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P130</code>
+			<title>17-Mile Drive,Carmel &amp; Monterey Day Trip from San Francisco</title>
+			<description>Experience California’s iconic 17-Mile Drive with ease on this group day tour from San Francisco. Travel in a vehicle with a driver and a guide and make your way to Monterey, Pebble Beach, Carmel-By-The-Sea, and more. Learn about the area and take in the views of the coast along the way.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/fc/6b/45.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>17-Mile Drive,Carmel &amp; Monterey Day Trip from San Francisco</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3.1</exactScore>
+				<reviewCount>23</reviewCount>
+			</rating>
+			<location>San Francisco, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3215.54</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3215.54</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/1-Day-Washington-D-C-Tour-Washington-D-C-Departure-DC1/d651-132218P130</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>10</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.7873349</latitude>
+				<longitude>-122.40794629999998</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>55</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P307</code>
+			<title>4-Day Tour in Zion, Bryce &amp; Antelope Canyon, Las Vegas</title>
+			<description>Embark on an unforgettable four-day adventure starting from San Francisco, with a scenic drive to Las Vegas on the first day. Explore the stunning landscapes of Bryce Canyon National Park and Zion National Park in Utah on the second day. Day three brings the breathtaking wonders of Antelope Canyon&amp;#39;s sandstone formations and Horseshoe Bend, renowned as one of the world&amp;#39;s top ten photographic sites. These iconic destinations are must-see attractions that promise an extraordinary experience.
+
+Room and Booking Information:
+
+Hotel accommodations feature either two Full/Double beds or one King/Queen bed, based on availability. Each room can host up to four travelers. For groups larger than four or those requiring separate rooms, please create individual bookings.
+
+Group Travel Coordination:
+
+To ensure your group stays together on the same bus, please share all confirmation numbers after completing multiple bookings.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/8a/e6/c6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>4-Day Tour in Zion, Bryce &amp; Antelope Canyon, Las Vegas</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>San Francisco, California</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>12698.01</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>12698.01</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/Las-Vegas-Zion-Bryce-Canyon-Antelope-Canyon-4-Day-Tour/d651-132218P307</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>4</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.787246599999996</latitude>
+				<longitude>-122.4079609</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>55</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P210</code>
+			<title>Napa Valley, Yountville and Sausalito Day Trip from San Francisco</title>
+			<description>Discover the beauty of the Grand Canyon West Rim with this exciting tour that includes round-trip transportation from Las Vegas. Instead of exploring the vast terrain on foot—enjoy a combination of a helicopter ride and a pontoon adventure. To ensure you get a package to suit your requirements—there are a variety of different options to choose from, including the option to add on a Skywalk visit.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8f/6a/86.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Napa Valley, Yountville and Sausalito Day Trip from San Francisco</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>San Francisco, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3215.54</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3215.54</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/BEST-Grand-Canyon-West-Rim-1-Day-Tour-with-Helicopter-and-Pontoon-Ride-Tickets/d651-132218P210</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>10</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>12</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.7873349</latitude>
+				<longitude>-122.40794629999998</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>55</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>92157P7</code>
+			<title>Wine Tour Pros - Corporate Charters and Events</title>
+			<description>Gather your coworkers and colleagues together for a trip around Napa Valley's best wineries aboard this corporate charter vehicle. Meet your driver and enjoy a bottle of sparkling wine to start off your adventure. Then visit several wineries, chosen by you or suggested by your driver, and purchase wine tastings, if you'd like. This is a great way to break the ice or start off a corporate event.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/22/2f/1b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Wine Tour Pros - Corporate Charters and Events</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>5</reviewCount>
+			</rating>
+			<location>Napa &amp; Sonoma, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>25106.32</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>25106.32</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>14</maxTravelersPerUnit>
+			<url>/tours/Napa-and-Sonoma/Corporate-Charters-and-Events/d914-92157P7</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.518124</latitude>
+				<longitude>-122.78248</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P215</code>
+			<title>Yosemite, Kings Canyon National Parks 2 Day Tour from SF</title>
+			<description>Explore Yosemite National Park! Experience the beauty of the deep valleys, meadows, and waterfalls. 
+
+Visit Kings Canyon National Park and explore all it has to offer.
+
+Experience unforgettable memories on this wonderful two day tour.
+
+Room Details
+All hotel rooms are based on two Full / Double beds or one King/Queen bed depends on what hotel availiable on the day. The maximum occupancy per room is four travelers.
+
+One Room Selection 
+If you are a party of more than four guests, please provide a separate booking.
+
+Avoid traveling in a different bus?
+If you have more than one booking, please provide all confirmation numbers once your bookings are complete.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/51/56/16.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Yosemite, Kings Canyon National Parks 2 Day Tour from SF</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>San Francisco, California</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8265.77</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8265.77</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/BEST-Yosemite-Sequoia-Kings-Canyon-National-Parks-2-Day-Tour-from-San-Francisco/d651-132218P215</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>2</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.7873349</latitude>
+				<longitude>-122.40794629999998</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>55</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>453435P1</code>
+			<title>Transportation services for Napa . Sonoma wine tours</title>
+			<description>Napa Valley became the home of the first Agricultural Preserve in the U.S. in 1968.
+
+ a prevalence of volcanic soils that inexplicably add an earthy, &amp;#34;dusty&amp;#34; taste to Napa&amp;#39;s best wines
+
+The valley floor is 30 miles long and just 5 miles across at its widest point and its rare and unique climate makes it the perfect area for premium wine
+
+Napa Valley&amp;#39;s geographic location, geology and soil diversity all have influence in the region being categorized as a Mediterranean climate.
+
+Beautiful gorges pickup any bay area location or any napa sonoma hotels and airbnb . we usually do 3 tasting a day , each tasting is 90 minutes , you make your,e itinerary and let me know what winery you choose and i will provide your transportation . you can customize your tours as you like , you can add winery or hours or opposite .</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/41/c0/f9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Transportation services for Napa . Sonoma wine tours</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Napa &amp; Sonoma, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7725.02</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7725.02</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>7</maxTravelersPerUnit>
+			<url>/tours/Napa-and-Sonoma/private-wine-tours-of-napa-sonoma-and-alexander-valley/d914-453435P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.445156</latitude>
+				<longitude>-122.38457</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>65121P6</code>
+			<title>Oakland Airport to or from Napa or Sonoma</title>
+			<description>Experience luxury and comfort when you’re driven from Oakland Airport in a Tesla Model X to anywhere in Napa or Sonoma. Your private car will monitor your flight and pick you and your crew up from the airport, for a seamless and luxurious experience. No need to wait in long taxi lines or pay exorbitant last-minute fees for uncomfortable rides.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/18/7b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Oakland Airport to or from Napa or Sonoma</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7725.02</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7725.02</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Oakland/Oakland-Airport-to-or-from-Napa-or-Sonoma/d22040-65121P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.66363</latitude>
+				<longitude>-122.47746</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P116</code>
+			<title>Zion, Bryce, Antelope, Grand Canyon, Las Vegas 6-Day Tour from SF</title>
+			<description>Experience the most complete Southwest Giant Ring itinerary!
+Feel the passion of the wilderness beauty!
+Enjoy the most magnificent views given by five famous national parks and three world-class scenic spots!
+Stay overnight for two nights at the Casino Avenue Hotel!
+
+Room Details
+All hotel rooms are based on two Full / Double beds or one King/Queen bed depends on what hotel availiable on the day. The maximum occupancy per room is four travelers.
+
+One Room Selection 
+If you are a party of more than four guests or desire to have separate rooms, please provide a separate booking.
+
+Avoid traveling in a different bus?
+If you have more than one booking, please provide all confirmation numbers once your bookings are complete.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/bf/23/f8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Zion, Bryce, Antelope, Grand Canyon, Las Vegas 6-Day Tour from SF</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>San Francisco, California</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>21127.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>21127.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/6-Day-Cancun-4-star-beach-hotel-with-optional-tours-cancun-departure-APMC6C/d651-132218P116</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>6</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.787246599999996</latitude>
+				<longitude>-122.4079609</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>55</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>104204P141</code>
+			<title>Self-Guided Scavenger Hunt: Oakland Charms</title>
+			<description>Discover the top landmarks and hidden gems of Oakland, including Jack London Square, Lake Merritt, and Swan’s Marketplace, on this fun and interactive scavenger hunt. Download the app, gather your team, and head out to find clues, answer trivia questions, and complete challenges, while learning about the history and culture of the city.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/26/95/21.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Self-Guided Scavenger Hunt: Oakland Charms</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>237.74</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>237.74</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/Oakland-Scavenger-Hunt-Lets-Roam-Oakland-Charms/d22040-104204P141</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.8053062</latitude>
+				<longitude>-122.2723347</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>74258P10</code>
+			<title>Napa Valley All-Inclusive Wine Tour</title>
+			<description>We hand select premier Napa Valley Wineries for our tours, and safely pick up and drop off guests included, making it a safe way to experience some of the best Northern California wine! 
+
+Please Note: A 20% Gratuity will be billed after booking.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/ad/9a/b0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Napa Valley All-Inclusive Wine Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>11568.22</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>11568.22</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/Napa-Valley-All-Inclusive-Wine-Tour/d22040-74258P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.445156</latitude>
+				<longitude>-122.38457</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>488574P1</code>
+			<title>San Francisco Top Sights Private Tour with a Luxury Tesla</title>
+			<description>Embark on an unparalleled San Francisco sightseeing adventure in the lap of luxury with our exclusive Tesla Model X tour. Glide through the City by the Bay in a stunning, fully-loaded Tesla Model X, featuring sleek interiors and cutting-edge technology, while a friendly and expert guide offers captivating insights into San Francisco’s iconic landmarks. Experience the city’s renowned beauty, from the Golden Gate Bridge to charming neighborhoods, with unmatched comfort, safety, and personalized attention, making this the ultimate way to explore San Francisco in style. This experience is ideal for professionals traveling on business (and wanting to actually see SF with limited time!), couples, friend groups and families with children.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/66/5b/99.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>San Francisco Top Sights Private Tour with a Luxury Tesla</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>San Francisco, California</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>25087.01</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>25087.01</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>5</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/Experience-San-Francisco-in-Tesla-Luxury-Exclusive-1-Day-Tour/d651-488574P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.819946</latitude>
+				<longitude>-122.47868</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>5</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200006P78</code>
+			<title>Outstanding Oakland Scavenger Hunt</title>
+			<description>Our very unique, immersive adventures are the only ones of their kind. We, unlike other companies, provide your very own remote, interactive, live host to assist and encourage you along through your phone. We are an Austin, TX-based global custom event design company offering scavenger hunts and other events in 300&amp;#43; cities in North America and beyond. Our specially hand-crafted adventures are equal parts tour, creative challenge, detective hunt, and social experiment! 
+
+Guests get to discover in an alternate reality our favorite hidden gems off the beaten trail and creatively interpret fun art, history, and culture clues - for points! They get to enjoy fame and glory while appearing on our website’s international leaderboard, no matter what their score. They get to essentially race other teams in other cities, even if they don’t have competitors who have signed up in their city that day. Get ready to discover unusual oddities, laugh out loud, and make the experience your own!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f9/6f/cc.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Outstanding Oakland Scavenger Hunt</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>417.15</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.29</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>true</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/Outstanding-Oakland-Scavenger-Hunt/d22040-200006P78</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>SPECIAL_OFFER</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.805308</latitude>
+				<longitude>-122.2708464</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>304471P58</code>
+			<title>2 Hours Private Walking Tour in Berkeley</title>
+			<description>Embark on a thrilling journey through the lively streets of Berkeley and immerse yourself in a whirlwind of unforgettable experiences on our Adventures in Berkeley tour! Discover the vibrant history and culture of this incredible city as you stroll through iconic landmarks, uncovering hidden gems along the way. Indulge your taste buds with tantalizing flavors, navigating your way through a gastronomic paradise of food trucks, local eateries, and renowned culinary hotspots. Take a breath of fresh air and soak up the beauty of nature, as you venture into Berkeley&amp;#39;s breathtaking parks and gardens. 
+
+Don&amp;#39;t worry about other people, this tour is completely tailored to you with the Pintours App!
+
+With our app, you can pause the tour, and check out the locations as long as you want! You can skip a stop you don&amp;#39;t like, and you have all the best information about each stop at your fingertips.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/51/b1/a1.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>2 Hours Private Walking Tour in Berkeley</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Oakland, California</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>386.25</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>386.25</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Oakland/2-Hours-Private-Walking-Adventure-In-Berkeley/d22040-304471P58</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.8688014</latitude>
+				<longitude>-122.2682487</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Oakland</Destination>
+	<FileName>Oakland_d22040-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:34:11</FileCreationDateTime>
+</ProductList>

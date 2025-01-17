@@ -1,0 +1,1857 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>32</totalCount>
+	<pages>2</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>46862P1</code>
+			<title>Delray Beach Food &amp; Drinks Tour</title>
+			<description>Explore Delray Beach's craft food and drink scene on this half-day tour. Follow your guide down Atlantic Avenue, stopping for demos and tastings along the way at locations such as Death by Pizza, Delray Beer Trade Co, El Camino, and others.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6c/70/ad.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Delray Beach Food &amp; Drinks Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>167</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2008.51</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2008.51</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Craft-Food-Tour-in-Delray-Beach/d25267-46862P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.462028699999998</latitude>
+				<longitude>-80.0709976</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>46862P2</code>
+			<title>Delray Beach Dinner &amp; Drinks Tour</title>
+			<description>Experience the sights and flavors of Delray Beach on a walking food tour. Follow your guide down Atlantic Avenue to some of the city’s top eateries, craftiest bars, and hidden gems. Meet staff, bartenders, and chefs who have shaped the culinary scene. Visit the Pineapple Arts District and other neighborhoods and get to know the culture, history, and architecture of Delray Beach.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/15/cf/5c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Delray Beach Dinner &amp; Drinks Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>33</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Beer &amp; Brewery Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2105.07</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2105.07</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Craft-Food-Tour-Happy-Hour-Tour-Thursday-Night/d25267-46862P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.4525333</latitude>
+				<longitude>-80.07152049999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>11433P39</code>
+			<title>Peacock Bass Fishing Trips near Boca Raton</title>
+			<description>Spend a day on the water fishing for species like peacock bass, largemouth bass, and clown knife fish. Suitable for first-timers or experienced anglers, you’ll cruise the canals around Boca Raton as you cast your line into the perpetually calm waters. Enjoy views of nature as well as extravagant real estate along the waterfront. All equipment is included and guests are welcome to bring food and drinks (no glass) on board.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/6c/81/a5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Peacock Bass Fishing Trips near Boca Raton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>16</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6855.76</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6855.76</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Half-Day-Bass-Fishing-Trip-near-Boca-Raton/d25267-11433P39</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.4708209</latitude>
+				<longitude>-80.0876002</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>347534P3</code>
+			<title>90 minute South Florida Jet Ski Adventure Fun Thrilling</title>
+			<description>Get a wet and wild introduction to Sarasota during an exciting Jet Ski tour. Bounce on waves, sail past mega yachts, and gaze at million-dollar mansions on this thrilling adventure. Take a break from the thrills and chill on a sandbar where you can swim, suntan, or pose so that your guide can take photos to remember this awesome experience.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/54/74/d5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>90 minute South Florida Jet Ski Adventure Fun Thrilling</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>7</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4538.45</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4538.45</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/90-minute-Jet-Ski-Adventure-Tour-of-Fort-Lauderdale-Fun-and-Fast/d25267-347534P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.351088999999998</latitude>
+				<longitude>-80.076703</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>2</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>446916P5</code>
+			<title>West Palm Beach Day: Cabana, Beach Chairs, Yeti, JBL, Towels +</title>
+			<description>Experience the ultimate beach day without the hassle at Coastal Cabana Club. From setup to breakdown, we take care of it all. Allowing you to simply arrive, relax, and soak in the sun.
+
+Beach Locations: From West Palm Beach to Ft. Lauderdale
+Everything for Your Beach Day: Arrive to a fully setup beach spot complete with cabana, chairs, plush towels, a JBL speaker, Yeti cooler with ice and waters, waterproof phone charger, mini beach locker, beach table, and more.
+Flexible Setup Options: Need more space? Contact us for larger setups!
+Elevate Your Fun: Enhance your beach experience with our game package, paddleboard, or snorkeling gear. See our full list of add-ons on our website. 
+Effortless Booking: Reserve online or with a quick phone call.
+
+We offer only top-of-the-line beach equipment for your ultimate comfort. Our professional, beach-loving team is committed to delivering an experience that exceeds your expectations.
+
+Book now for an unforgettable beach experience.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/41/bb/ec.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>West Palm Beach Day: Cabana, Beach Chairs, Yeti, JBL, Towels +</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>6</reviewCount>
+			</rating>
+			<location>West Palm Beach, Florida</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3765.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3765.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/West-Palm-Beach/West-Palm-Beach-Day-Cabana-Beach-Chairs-Yeti-JBL-Towels/d24204-446916P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.7189776</latitude>
+				<longitude>-80.0343032</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>347534P2</code>
+			<title>2 Hour Jet ski Rental Fast And Fun Adventure Florida Thrill</title>
+			<description>Cruise through the waters around Sarasota on this fun Jet Ski activity. Discover the downtown area as you ride the waves on this private tour. Speed by mansions and alongside mega yachts as you wave to the cruise ships filling this popular boating destination. Schedule your tour and see the best of Sarasota's beauty from the water.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/22/ac/1f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>2 Hour Jet ski Rental Fast And Fun Adventure Florida Thrill</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>6</reviewCount>
+			</rating>
+			<location>Sarasota, Florida</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5504.08</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5504.08</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Sarasota/2-Hour-Jet-ski-Tour-in-Fort-Lauderdale-Venice-of-America-Fast-And-Fun/d25738-347534P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.351088999999998</latitude>
+				<longitude>-80.076703</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>2</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>411766P1</code>
+			<title>Boca Raton-Delray Beach 1-Hour Private Jet Ski Guided Tour</title>
+			<description>Experience the adrenaline of riding our top of the line premium jet-skis through the gorgeous waterways of Boca Raton/Deerfield and turquoise water beaches, we&amp;#39;re the only company offering snorkeling as an option to enjoy and experience the awesome underwater wildlife that this area in Palm Beach county has to offer.
+
+Note: We have 3 jetskis, each machine holds 2 adults and 1 child up to 520 pounds. Price is designed for 2 adults and 1 child on each machine, if you want to be on individual machines there’s an additional cost. We can also switch drivers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/8c/16/46.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boca Raton-Delray Beach 1-Hour Private Jet Ski Guided Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3186.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3186.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Jetski-rental/d25267-411766P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.351088999999998</latitude>
+				<longitude>-80.076703</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>9</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>446916P2</code>
+			<title>West Palm Beach Day: Umbrella, Chairs, Yeti, JBL Speaker, Towels+</title>
+			<description>Experience the ultimate beach day without the hassle at Coastal Cabana Club. From setup to breakdown, we take care of it all. Allowing you to simply arrive, relax, and soak in the sun.
+
+• Beach Locations: From Ft. Lauderdale to West Palm Beach. 
+• Everything for Your Beach Day: Arrive to a fully setup beach spot complete with umbrella, chairs, plush towels, a JBL speaker, Yeti cooler with ice and waters, waterproof phone charger, mini beach locker, beach table, and more.
+• Flexible Setup Options: Need more space? Contact us for larger setups!
+• Elevate Your Fun: Enhance your beach experience with our game package, paddleboard, or snorkeling gear. See our full list of add-ons on our website. 
+• Effortless Booking: Reserve online or with a quick phone call.
+
+We offer only top-of-the-line beach equipment for your ultimate comfort. Our professional, beach-loving team is committed to delivering an experience that exceeds your expectations.
+
+Book now for an unforgettable beach experience.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/29/0e/6e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>West Palm Beach Day: Umbrella, Chairs, Yeti, JBL Speaker, Towels+</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3765.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3765.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/1-Umbrella-and-2-Chairs-with-ALL-Amenities-Ready-on-Arrival/d25267-446916P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.5046094</latitude>
+				<longitude>-80.05227889999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200006P296</code>
+			<title>Delray Dash Scavenger Hunt</title>
+			<description>Our very unique, immersive adventures are the only ones of their kind. We, unlike other companies, provide your very own remote, interactive, live host to assist and encourage you along through your phone. We are an Austin, TX-based global custom event design company offering scavenger hunts and other events in 300&amp;#43; cities in North America and beyond. Our specially hand-crafted adventures are equal parts tour, creative challenge, detective hunt, and social experiment! 
+
+Guests get to discover in an alternate reality our favorite hidden gems off the beaten trail and creatively interpret fun art, history, and culture clues - for points! They get to enjoy fame and glory while appearing on our website’s international leaderboard, no matter what their score. They get to essentially race other teams in other cities, even if they don’t have competitors who have signed up in their city that day. Get ready to discover unusual oddities, laugh out loud, and make the experience your own!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/f2/bc/35.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Delray Dash Scavenger Hunt</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>482.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>482.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Delray-Dash-Scavenger-Hunt/d25267-200006P296</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.461972</latitude>
+				<longitude>-80.0682375</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>11433P40</code>
+			<title>All Day Bass Fishing Trip near Boca Raton</title>
+			<description>Enjoy a full-day private fishing charter on the calm waters outside Boca Raton. Fish for peacock bass, largemouth bass, clown knife fish, and more while enjoying views of million-dollar homes along the Lake Ida shoreline. Practice catch and release or let the captain know you’d like to take your catch home. This tour is suitable for all ages and experience levels, from beginners to experienced anglers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6a/e1/59.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>All Day Bass Fishing Trip near Boca Raton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>15295.35</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>15295.35</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/All-Day-Bass-Fishing-Trip-near-Boca-Raton/d25267-11433P40</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>9</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.4708209</latitude>
+				<longitude>-80.0876002</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200006P196</code>
+			<title>Boca Raton Bash Scavenger Hunt</title>
+			<description>Our very unique, immersive adventures are the only ones of their kind. We, unlike other companies, provide your very own remote, interactive, live host to assist and encourage you along through your phone. We are an Austin, TX-based global custom event design company offering scavenger hunts and other events in 300&amp;#43; cities in North America and beyond. Our specially hand-crafted adventures are equal parts tour, creative challenge, detective hunt, and social experiment! 
+
+Guests get to discover in an alternate reality our favorite hidden gems off the beaten trail and creatively interpret fun art, history, and culture clues - for points! They get to enjoy fame and glory while appearing on our website’s international leaderboard, no matter what their score. They get to essentially race other teams in other cities, even if they don’t have competitors who have signed up in their city that day. Get ready to discover unusual oddities, laugh out loud, and make the experience your own!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/0b/07/3d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boca Raton Bash Scavenger Hunt</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Boca-Raton-Bash-Scavenger-Hunt/d25267-200006P196</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.3504002</latitude>
+				<longitude>-80.0803739</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>38075P115</code>
+			<title>Boca Raton Deep Sea Fishing Trips</title>
+			<description>Enjoy a private deep sea fishing trip for up to six people with an experienced local angler. Sit back and relax as the 52-foot vessel takes your group to the captain’s favorite fishing spots, where you might catch sailfish, kingfish, wahoo, red snapper, or mahi-mahi. Catch and release or let the crew clean your bounty to take with you.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/38/ed.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boca Raton Deep Sea Fishing Trips</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18115.18</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18115.18</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Boca-Raton-Deep-Sea-Fishing-Trips/d25267-38075P115</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.350445399999998</latitude>
+				<longitude>-80.0759626</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>464752P1</code>
+			<title>Delray Beach Fun Jet Skis Watersports Florida</title>
+			<description>The brand new sea Doo spark trixx which do wheelies on water. They are equipped with waterproof Bluetooth speakers so you can listen to your favorite tunes. I have a great location where you don&amp;#39;t have to worry about speeding tickets because as soon as you get off the ramp you can take off.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/64/c0/56.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Delray Beach Fun Jet Skis Watersports Florida</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2896.88</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2896.88</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Awesome-watersports-fun-with-LOOPYS-JETSKIS/d25267-464752P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.4817884</latitude>
+				<longitude>-80.08424699999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>15081P594</code>
+			<title>Boca Raton Day Trip to Universal Orlando Resort by Rail</title>
+			<description>Experience a full day of fun at Universal Orlando Resort and relax in a reserved seat on Florida’s new high-speed train. You also have an option to choose between a 1-Day Ticket for one Park or both Parks.
+
+Immerse yourself in thrill rides and out-of-this world experiences and enjoy Universal CityWalk with its vast range of shopping and dining options.
+
+This is a self guided day trip with all tickets included.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/dc/d4/5d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boca Raton Day Trip to Universal Orlando Resort by Rail</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6759.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6759.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Boca-Raton-Day-Trip-to-Universal-Orlando-Resort-by-Rail/d25267-15081P594</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>16</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.3546832</latitude>
+				<longitude>-80.08788419999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1623</code>
+			<title>Fort Lauderdale Airport (FLL) to Boca Raton - Round-Trip Private Transfer</title>
+			<description>Book your Private Round-Trip Transfer from Fort Lauderdale Airport (FLL) to Boca Raton hotel or address and return.
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/7a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fort Lauderdale Airport (FLL) to Boca Raton - Round-Trip Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Fort Lauderdale, Florida</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5092.34</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5092.34</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Fort-Lauderdale/Fort-Lauderdale-Airport-FLL-to-Boca-Raton-Round-Trip-Private-Transfer/d660-128285P1623</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>40</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.0719802</latitude>
+				<longitude>-80.1500976</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1622</code>
+			<title>Boca Raton to Fort Lauderdale Airport (FLL)- Departure Private Transfer</title>
+			<description>Book your Private Departure Transfer from Boca Raton hotel or address to Fort Lauderdale Airport (FLL).
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/78.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boca Raton to Fort Lauderdale Airport (FLL)- Departure Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2546.17</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2546.17</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Boca-Raton-to-Fort-Lauderdale-Airport-FLL-Departure-Private-Transfer/d25267-128285P1622</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>40</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.368306399999998</latitude>
+				<longitude>-80.1289321</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1665</code>
+			<title>Boca Raton to Miami Airport (MIA) - Departure Private Transfer</title>
+			<description>Avoid the unpredictability of shared shuttles and taxis with a private transfer from Boca Raton to Miami International Airport (MIA). Available 24 hours a day, this exclusive door-to-door service is ideal for travelers with early-morning or late-night flights when transportation options are scarce. All you have to do is share your flight information, and your private chauffeur takes care of the rest.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/7d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boca Raton to Miami Airport (MIA) - Departure Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2446.71</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2446.71</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Boca-Raton-to-Miami-Airport-MIA-Departure-Private-Transfer/d25267-128285P1665</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.368306399999998</latitude>
+				<longitude>-80.1289321</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1656</code>
+			<title>Boynton Beach to Fort Lauderdale Airport (FLL) - Departure Private Transfer</title>
+			<description>Book your Private Departure Transfer from Boynton Beach any hotel or address to Fort Lauderdale Airport (FLL).
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/78.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boynton Beach to Fort Lauderdale Airport (FLL) - Departure Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2188.11</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2188.11</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Boynton-Beach-to-Fort-Lauderdale-Airport-FLL-Departure-Private-Transfer/d25267-128285P1656</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>50</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.5317866</latitude>
+				<longitude>-80.0905465</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1653</code>
+			<title>Boynton Beach to Miami Airport (MIA) - Departure Private Transfer</title>
+			<description>Book your Private Departure Transfer from Boynton Beach any hotel or address to Miami Airport (MIA).
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/78.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boynton Beach to Miami Airport (MIA) - Departure Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2884.33</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2884.33</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Boynton-Beach-to-Miami-Airport-MIA-Departure-Private-Transfer/d25267-128285P1653</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.5317866</latitude>
+				<longitude>-80.0905465</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1657</code>
+			<title>Fort Lauderdale Airport (FLL) to Boynton Beach - Round-Trip Private Transfer</title>
+			<description>Book your Private Round-Trip Transfer from Fort Lauderdale Airport (FLL) to Boynton Beach hotel or address and return.
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/7d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fort Lauderdale Airport (FLL) to Boynton Beach - Round-Trip Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Fort Lauderdale, Florida</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4376.23</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4376.23</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Fort-Lauderdale/Fort-Lauderdale-Airport-FLL-to-Boynton-Beach-Round-Trip-Private-Transfer/d660-128285P1657</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>50</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.0719802</latitude>
+				<longitude>-80.1500976</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>378639P27</code>
+			<title>Sensational Tacos Making Class In Boca Raton</title>
+			<description>This taco and tostada cooking class with Chef Christine is held at a beautiful local venue in Boca Raton, a unique self-serve beer hall known for its friendly and vibrant atmosphere. Chef Christine is a brilliant, award-winning chef and event caterer with over 14 years of experience in the culinary scene. In this session, you&amp;#39;ll make chipotle honey shrimp tacos with pineapple salsa, and crispy Brussels sprout tostadas with avocado salsa and queso fresco, topped with a cilantro garlic aioli. Enjoy your delicious creations in a fun and interactive setting.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e5/88/c9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Sensational Tacos Making Class In Boca Raton</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Dining Experiences</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Sensational-Tacos-Making-Class-in-Boca-Raton/d25267-378639P27</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.4329568</latitude>
+				<longitude>-80.0716597</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>25</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>338595P12</code>
+			<title>Private Transfer from West Palm Beach to (FLL) Airport</title>
+			<description>Great customer service is our focus! Our customer service is what sets us apart. Hence, we do not leave our clients hanging when problems occur (flight cancellations, weather, etc.). We work with clients to meet their needs. We also provide a concierge-type service and our drivers are well-trained professionals.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/36/e9/04.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Transfer from West Palm Beach to (FLL) Airport</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Port Transfers </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Private-Transfer-from-West-Palm-Beach-to-FLL-Airport/d25267-338595P12</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1649</code>
+			<title>Fort Lauderdale Airport (FLL) to Delray Beach - Round-Trip Private Transfer</title>
+			<description>Book your Private Round-Trip Transfer from Fort Lauderdale Airport (FLL) to Delray Beach hotel or address and return.
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/d8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fort Lauderdale Airport (FLL) to Delray Beach - Round-Trip Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Fort Lauderdale, Florida</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3938.6</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3938.6</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Fort-Lauderdale/Fort-Lauderdale-Airport-FLL-to-Delray-Beach-Round-Trip-Private-Transfer/d660-128285P1649</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>45</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.0719802</latitude>
+				<longitude>-80.1500976</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>38075P15</code>
+			<title>Boca Raton Inshore Fishing Trip</title>
+			<description>Enjoy a half or full-day inshore fishing trip on the backwaters of Boca Raton. Your experienced, local captain takes you to some of his favorite fishing spots where you can cast for barracuda, snapper, snook, mackerel, crevalle jack, ladyfish, and more. All fishing gear is provided and there is a restroom and coolers on board.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/71/38/f4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boca Raton Inshore Fishing Trip</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Boca Raton, Florida</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>10523.03</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>10523.03</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Boca-Raton/Boca-Raton-Inshore-Fishing-Trip/d25267-38075P15</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>26.350445399999998</latitude>
+				<longitude>-80.0759626</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Boca-Raton</Destination>
+	<FileName>Boca-Raton_d25267-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:37:11</FileCreationDateTime>
+</ProductList>

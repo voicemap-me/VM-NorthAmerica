@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>3</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>38075P116</code>
+			<title>Lake Erie Smallmouth Fishing Charters</title>
+			<description>Cast your line into Lake Erie and enjoy some of the best smallmouth bass fishing in America on this guided fishing charter tour in Erie, Pennsylvania. Climb aboard your boat on beautiful Presque Isle Bay and your captain will take you out for an unforgettable day of angling on a Great Lake.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/c2/d2/6e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Lake Erie Smallmouth Fishing Charters</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>39</reviewCount>
+			</rating>
+			<location>Erie, Pennsylvania</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8226.96</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8226.96</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Erie/Lake-Erie-Smallmouth-Fishing-Charters/d50739-38075P116</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>42.131715299999996</latitude>
+				<longitude>-80.0976281</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>3</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>38075P129</code>
+			<title>Lake Erie Walleye Fishing Charters</title>
+			<description>Erie Fishing Charters offers a first-class charter fishing experience aboard new Lune boats. The boats are private and comfortable, safety is of the highest priority.
+Your experience is what matters to us, we are experienced and results-driven your business means the upmost to us. When you book please share your expectations with us and we will try our best to tailor your adventure to your satisfaction!
+
+Book your Lake Erie charter online with TripAdvisor, were a full-service fishing experience. We provide the rods, reels, tackle, and expertise to maximize your chances of catching a trophy while at the same time filling the cooler. At the end of the day, you will be happy!.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/16/a0/f0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Lake Erie Walleye Fishing Charters</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4.2</exactScore>
+				<reviewCount>5</reviewCount>
+			</rating>
+			<location>Erie, Pennsylvania</location>
+			<category>Fishing Charters</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>10737.59</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>10737.59</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Erie/Lake-Erie-Walleye-Fishing-Charters/d50739-38075P129</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>42.131715199999995</latitude>
+				<longitude>-80.0976282</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200006P538</code>
+			<title>Erie Scavenger Hunt</title>
+			<description>Our very unique, immersive adventures are the only ones of their kind. We, unlike other companies, provide your very own remote, interactive, live host to assist and encourage you along through your phone. We are an Austin, TX-based global custom event design company offering scavenger hunts and other events in 300&amp;#43; cities in North America and beyond. Our specially hand-crafted adventures are equal parts tour, creative challenge, detective hunt, and social experiment!
+
+Guests get to discover in an alternate reality our favorite hidden gems off the beaten trail and creatively interpret fun art, history, and culture clues - for points! They get to enjoy fame and glory while appearing on our website’s international leaderboard, no matter what their score. They get to essentially race other teams in other cities, even if they don’t have competitors who have signed up in their city that day. Get ready to discover unusual oddities, laugh out loud, and make the experience your own!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/32/c1/6b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Erie Scavenger Hunt</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Erie, Pennsylvania</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Erie/Enchanting-Erie-Scavenger-Hunt/d50739-200006P538</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>42.1359596</latitude>
+				<longitude>-80.0883865</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Erie</Destination>
+	<FileName>Erie_d50739-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:49:15</FileCreationDateTime>
+</ProductList>

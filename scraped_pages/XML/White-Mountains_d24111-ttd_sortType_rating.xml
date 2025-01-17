@@ -1,0 +1,725 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>9</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>125844P1</code>
+			<title>Meet the Winemakers - Seven Birches Winery Tour</title>
+			<description>Whether you’re a wine lover or just going along with others who are passionate about the drink, you won’t want to miss this White Mountains Seven Birches Winery Tour that takes you intimately through the wine-making process with the wine makers themselves. Enjoy tastings of both young and old wines, as well as a full-on tour of the winery’s wine production room.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/20/54/04.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Meet the Winemakers - Seven Birches Winery Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>181</reviewCount>
+			</rating>
+			<location>White Mountains, New Hampshire</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>772.5</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>772.5</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/White-Mountains/Meet-the-Winemakers-Winery-Tour/d24111-125844P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>15</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.041477799999996</latitude>
+				<longitude>-71.6690263</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>259620P6</code>
+			<title>Kancamagus Scenic Byway Self-Guided Audio Driving Tour Guide</title>
+			<description>Explore the beauty of the scenic Kancamagus Highway in the White Mountains with help from this self-guided audio driving tour from Woodstock or Conway. Enjoy the flexibility to travel at your own pace, hands-free functionality, and offline access, so you can use the app even in remote areas, too. Includes full itineraries, travel tips, audio guide, videos, and text.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8f/d3/49.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Kancamagus Scenic Byway Self-Guided Audio Driving Tour Guide</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.4</exactScore>
+				<reviewCount>139</reviewCount>
+			</rating>
+			<location>White Mountains, New Hampshire</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.12</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.12</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/White-Mountains/Kancamagus-Highway-Self-Guided-Driving-Tour/d24111-259620P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.0354653</latitude>
+				<longitude>-71.67705889999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>309754P36</code>
+			<title>Self-Guided Audio Driving Tour in Kancamagus Highway</title>
+			<description>Download the GuideAlong self-guided audio tour and you&amp;#39;ll discover more on your Kancamagus Highway road trip. Hear fascinating behind-the-scenes stories, local tips and directions play automatically, all based on your location. 
+
+You&amp;#39;ll be guided to all of the area&amp;#39;s famous highlights as well as lessor known gems including one of New Hampshire&amp;#39;s most photographed bridges, a stunning overlook with scenic views for miles, a beautiful riverside picnic spot and a powerful, narrow gorge with a rushing waterfall.
+
+Enjoy the freedom to explore offline at your own pace, spending more time at places that interest you, and bypass any that don’t.
+
+✅ Stories, tips and directions play automatically based on your location
+✅ Travel at your own pace
+✅ Tour offline using GPS, no cell service or WiFi needed
+✅ Suggested itineraries for half, full or multi day use
+✅ No time limits or expiry, free updates
+✅ Like having a tour guide along for the drive
+
+Purchase one tour per vehicle.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/1b/9c/a2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Self-Guided Audio Driving Tour in Kancamagus Highway</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>White Mountains, New Hampshire</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>386.06</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>386.06</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>8</maxTravelersPerUnit>
+			<url>/tours/White-Mountains/Kancamagus-Highway-Audio-Driving-Tour/d24111-309754P36</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>1</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.0526583</latitude>
+				<longitude>-71.5800171</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>222222P102</code>
+			<title>Kancamagus highway GPS Smartphone Audio Driving Tour App</title>
+			<description>This driving tour will take you through the Kamcamagus highway and it’s most famous attractions and hidden gems. It is location aware tour and plays as you drive. When you reach a spot of interest the stories play. You’ll see the famous sites, bridges, overlooks, swimming holes and photo perfect spots. You’ll also discover the story of the land, the native people, the settlers that came here and the stories and legends associated to the lands. The tour never expires, go anytime.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/b4/81/90.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Kancamagus highway GPS Smartphone Audio Driving Tour App</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.4</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>White Mountains, New Hampshire</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.47</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.47</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>10</maxTravelersPerUnit>
+			<url>/tours/White-Mountains/Kamcamagus-Highway-Smartphone-Audio-Driving-Tour-App-GPS/d24111-222222P102</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.0354653</latitude>
+				<longitude>-71.67705889999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>415259P2</code>
+			<title>Lake Tarleton Guided Paddle</title>
+			<description>After meeting at the public boat launch, you&amp;#39;ll enjoy a leisurely day paddling around on Lake Tarleton, with views of the majestic White Mountains in the background. Mt. Moosilauke, on of the famous 4000-footers of the White Mountains, features prominently on the horizon. 
+
+Our experienced guides, each of whom are local experts and avid outdoorsmen, are also certified in the principles of &amp;#34;Leave No Trace,&amp;#34; a wilderness philosophy aimed at protecting the world&amp;#39;s most beautiful places from damage due to improper and irresponsible use. Ask them about the natural and human history of the region, and they&amp;#39;ll be happy to tell you some stories.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/6c/59/10.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Lake Tarleton Guided Paddle</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>White Mountains, New Hampshire</location>
+			<category>Kayaking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2510.63</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2510.63</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/White-Mountains/Lake-Tarleton-Guided-Paddle/d24111-415259P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>43.9675741</latitude>
+				<longitude>-71.9635737</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>208559P2</code>
+			<title>Pedal, Paddle &amp; Hike New Hampshire</title>
+			<description>This incredible weekend of adventure takes you to many of New Hampshire’s most beautiful and iconic areas. You’ll explore gorgeous Franconia Notch by bike &amp;amp; boot, kayak the beautiful Pemigewasset River, and cycle the fabulous Northern Rail Trail. 
+
+We’ll also pamper you with an outstanding “glamping” experience, where you can relax and enjoy the peace and tranquility of the beautiful mountain surroundings.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/7d/9f/bd.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pedal, Paddle &amp; Hike New Hampshire</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>White Mountains, New Hampshire</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>15450.04</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>15450.04</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/White-Mountains/Pedal-Paddle-and-Hike-New-Hampshire/d24111-208559P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>3</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>43.871656</latitude>
+				<longitude>-71.66465149999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>259177P13</code>
+			<title>100+ Self Guided Driving &amp; Walking Tours by Action</title>
+			<description>Enjoy over 100 self-guided driving and walking tours across the USA. Each tour is professionally narrated to provide context, uncover hidden gems, and explain historic events. Discover the happening streets of Brooklyn, and experience the wildlife of Yellowstone. Ranging from historic battlefields to national parks, the tour automatically begins when triggered by GPS, no signal or WiFi needed. The bundle is valid for one year after purchase.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/6f/3f/f4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>100+ Self Guided Driving &amp; Walking Tours by Action</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Palm Springs, California</location>
+			<category>Multi-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1931.06</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1931.06</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Palm-Springs/Action-All-Self-Guided-Driving-and-Walking-Tours/d648-259177P13</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>14</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>34.133921</latitude>
+				<longitude>-116.31557710000001</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>259640P5</code>
+			<title>East Coast USA: Self-Guided Driving &amp; Walking Tour Bundle</title>
+			<description>Explore some of the best spots for fall foliage on the East Coast, including Acadia, Shenandoah, and Great Smoky Mountains national parks, Kancamagus Highway, Blue Ridge Parkway, Bar Harbor, Newport, Salem, and the Freedom Trail, with this self-guided driving tour. Enjoy the flexibility to travel at your own pace, with hands-free functionality, turn-by-turn directions, and offline access. Includes full itineraries, travel tips, audio guide, and text.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/65/30/a5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>East Coast USA: Self-Guided Driving &amp; Walking Tour Bundle</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Bar Harbor, Maine</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2124.19</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2124.19</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Bar-Harbor/Newport-Cliff-Walk-Self-Guided-Interactive-Quiz-and-Walking-Tour-Rhode-Island/d4371-259640P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>9</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>13</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.4089658</latitude>
+				<longitude>-68.2472733</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>125844P6</code>
+			<title>Meet the Cider Makers with Rhythm Cidery Lincoln Tour</title>
+			<description>Whether you’re a cider lover or just going along with others who are passionate about them, you won’t want to miss this White Mountains Rhythm Cidery Tour that takes you intimately through the cider-making process with the cider makers themselves. Enjoy tastings of finished ciders and some experimental ones, as well as a full-on tour of the cidery production room.
+
+This intimate chat and tour of the facility with the cider maker is perfect for those that are new to cider, are learning about cider, or who are looking to expand their cider palate. You&amp;#39;ll take a deep dive into the cider production process, while keeping it light, engaging and fun!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/3b/2a/88.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Meet the Cider Makers with Rhythm Cidery Lincoln Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>White Mountains, New Hampshire</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>772.5</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>772.5</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/White-Mountains/Meet-the-Cider-Makers-Rhythm-Cidery-Tour/d24111-125844P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>15</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>44.041477799999996</latitude>
+				<longitude>-71.6690263</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>White-Mountains</Destination>
+	<FileName>White-Mountains_d24111-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:45:30</FileCreationDateTime>
+</ProductList>

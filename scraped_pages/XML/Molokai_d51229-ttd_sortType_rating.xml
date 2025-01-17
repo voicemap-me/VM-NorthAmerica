@@ -1,0 +1,249 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>3</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>179218P6</code>
+			<title>Road to Hana Deluxe Rainforest and Waterfall Experience from Maui</title>
+			<description>Book this Hana Highway (Road to Hana) Rainforest and Waterfall Tour from Kaanapali and avoid the stress of navigating the 21A highway in Hawaii. This tour takes care of the main details like driving, lunch, and select attraction entry fees, so you can enjoy the beauty that is Hawaii. Some stops include Ke‘anae Point, Ho'okipa Beach Park, Pua'a Ka'a State Wayside, and Wai'anapanapa State Park.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/c2/4a/99.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Road to Hana Deluxe Rainforest and Waterfall Experience from Maui</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>112</reviewCount>
+			</rating>
+			<location>Maui, Hawaii</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4248.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4248.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Maui/Hana-Rainforest-and-Waterfall-Fun-Tour/d671-179218P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>10</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.85466</latitude>
+				<longitude>-156.16946</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Scenic Landmark Tour</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>464533P1</code>
+			<title>Hawaiian Outrigger Sailing Canoe Experience on Molokai</title>
+			<description>Learn canoe paddling techniques and enjoy a sailing lesson, mastering the art of harnessing the wind. Spend over an hour on the water, exploring the picturesque surroundings while discovering the various parts of the wa&amp;#39;a. This experience is not just educational but promises a ton of fun, creating lasting memories of adventure. Immerse yourself in the cultural and recreational richness of Kawela on this unforgettable canoe journey.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/60/9a/13.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Hawaiian Outrigger Sailing Canoe Experience on Molokai</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Molokai, Hawaii</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1931.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1931.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Molokai/Hawaiian-Outrigger-Sailing-Canoe-experience/d51229-464533P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.066444</latitude>
+				<longitude>-156.9533169</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>3</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>179218P41</code>
+			<title>Private Road to Hana Rainforest &amp; Waterfall Experience from Maui</title>
+			<description>Experience the road to Hana in ultimate comfort with a private luxury SUV and a fully customizable tour. Behind every curve, a new wonder awaits—lush rainforests, stunning waterfalls, narrow one-lane bridges, and the vibrant traditions of Hana’s elders. With this tour, you control the journey. Choose your stops, adjust the order, and decide how long to stay at each location.
+
+Your private guide and Hana Highway expert will handle the driving, sharing captivating stories of Hawaiian history, legends, and culture along the way. Whether you want to linger at a scenic spot or explore hidden gems, this is your adventure to shape. Aloha Sunshine Tours offers an unforgettable journey through the heart of Maui in a luxury, air-conditioned SUV tailored to you.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/b9/3d/9d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Road to Hana Rainforest &amp; Waterfall Experience from Maui</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Maui, Hawaii</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>23174.87</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>23174.87</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Maui/Private-Road-to-Hana-Rainforest-and-Waterfall-Experience-from-Maui/d671-179218P41</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>10</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.85466</latitude>
+				<longitude>-156.16946</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Molokai</Destination>
+	<FileName>Molokai_d51229-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:40:13</FileCreationDateTime>
+</ProductList>

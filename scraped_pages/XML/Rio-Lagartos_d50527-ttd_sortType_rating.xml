@@ -1,0 +1,474 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>6</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>377351P1</code>
+			<title>Nature tour by boat in the Natural Reserve in Río Lagartos</title>
+			<description>This tour is designed for people who are interested in learning more about wildlife and the natural environment of the Biosphere Reserve, the activity is focused on the segment of nature tourism and environmental interpretation, it is important to highlight that on the tour the biological characteristics of the flora and fauna are explained to them, the tour is operated by a local nature guide. On this tour you will visit the flamingo feeding area, it is worth mentioning that unique, less crowded and scenically beautiful places have been selected to observe the flamingos.
+
+Responsible, fair, conscious, supportive tourism is promoted as a strategy for the conservation of the natural environment and biodiversity, the circular and local economy of the place is also promoted</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/f9/ce/3d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Nature tour by boat in the Natural Reserve in Río Lagartos</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>23</reviewCount>
+			</rating>
+			<location>Rio Lagartos, Riviera Maya &amp; the Yucatan</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1231.62</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1231.62</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Rio-Lagartos/Nature-tour-by-boat-through-the-mangrove-channels-in-Rio-Lagartos/d50527-377351P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.5966034</latitude>
+				<longitude>-88.15507749999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>472741P1</code>
+			<title>Boat tour in Río Lagartos Natural Reserve, with Food</title>
+			<description>Take a beautiful boat ride to see the beautiful “Rio Lagartos” reserve accompanied by a certified guide and with quality and personalized service.
+
+During the tour you will be able to observe the fauna and flora of the region, such as the beautiful flamingos and the impressive crocodiles.
+
+At the end, we offer you breakfast or lunch at the “Salitre” restaurant located inside the traditional Hotel Rio Lagartos.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/7f/f5/1f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Boat tour in Río Lagartos Natural Reserve, with Food</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>13</reviewCount>
+			</rating>
+			<location>Rio Lagartos, Riviera Maya &amp; the Yucatan</location>
+			<category>Jet Boat Rentals</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1278.99</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1278.99</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Rio-Lagartos/Boat-tour-through-Rio-Lagartos-Natural-Reserve/d50527-472741P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.5967306</latitude>
+				<longitude>-88.1597888</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>417089P1</code>
+			<title>Admission Ticket to Safari in the Pink Lagoons of Las Coloradas</title>
+			<description>Travel in a 4x4 vehicle around the pink lagoons of Las Coloradas.
+Get to know the inside of a sea salt production plant.
+Tour inside the Río Lagartos biosphere reserve.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/6c/c7/c9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Admission Ticket to Safari in the Pink Lagoons of Las Coloradas</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>Riviera Maya &amp; the Yucatan, Mexico</location>
+			<category>Sustainable Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>658.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>658.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Riviera-Maya-and-the-Yucatan/Admission-Ticket-to-Safari-in-the-Pink-Lagoons-of-Las-Coloradas/d770-417089P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.6043517</latitude>
+				<longitude>-87.9916817</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>346854P2</code>
+			<title>Private Stargazing Experience in Rio Lagartos</title>
+			<description>A unique activity in the entire area. In front of the sea, with the sound of the waves relaxing us. A human experience with an expert environmental interpreter guide. Thought and designed especially for you, regardless of whether you are new or advanced in stargazing. This experience is for you. A tour that you cannot miss on your visit to this little paradise.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/b5/77/02.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Stargazing Experience in Rio Lagartos</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Rio Lagartos, Riviera Maya &amp; the Yucatan</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>492.65</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>492.65</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Rio-Lagartos/Private-Stargazing-Experience-in-Rio-Lagartos/d50527-346854P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>40</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.5982165</latitude>
+				<longitude>-88.1591979</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>472741P4</code>
+			<title>Stargazing, with Dinner Included</title>
+			<description>It begins with dinner on the terrace of the Rio Lagartos hotel, where you will have a unique view of the Ria and the Town of Rio Lagartos, as well as enjoying our live musical group.
+
+Finishing dinner, you will go to the hotel&amp;#39;s private dock where the guide will pick you up in a boat to enter the estuary where you will visit an island from which you can observe the wonderful world of the stars.
+
+The expert astrotourism guide will explain in detail about the constellations, the moon and dairy life. You have to know that being a place with little light pollution, the sky is full of stars and that is what makes this experience unique, feeling surrounded by that whole world of stars.
+
+It is an activity that adults and children enjoy, you cannot miss it.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e3/29/86.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Stargazing, with Dinner Included</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Rio Lagartos, Riviera Maya &amp; the Yucatan</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>852.66</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>852.66</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Rio-Lagartos/Stargazing-with-Dinner-Included/d50527-472741P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.5967306</latitude>
+				<longitude>-88.1597888</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>472741P2</code>
+			<title>Romantic sunset tour in Río Lagartos, with food</title>
+			<description>Visit the Rio Lagarto Natural Reserve by boat and see the best sunset on the Yucatan Peninsula, having a delicious appetizer and a bottle of wine; and then arrive at the terrace of the Río Lagartos Hotel where you can continue enjoying the landscape, where we will offer you a complimentary drink.
+
+Our guide will take you by boat to the best place in the Ria to appreciate the sunset, meanwhile you can enjoy a delicious board of cold meats and cheeses, accompanied by a good wine, you will really enjoy seeing the flamingos fly over you and feel surrounded by mangroves.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/9d/c5/06.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Romantic sunset tour in Río Lagartos, with food</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Rio Lagartos, Riviera Maya &amp; the Yucatan</location>
+			<category>Jet Boat Rentals</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1136.88</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1136.88</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Rio-Lagartos/Romantic-sunset-tour-in-Rio-Lagartos/d50527-472741P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>21.5967306</latitude>
+				<longitude>-88.1597888</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>true</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>true</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Rio-Lagartos</Destination>
+	<FileName>Rio-Lagartos_d50527-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:29:20</FileCreationDateTime>
+</ProductList>

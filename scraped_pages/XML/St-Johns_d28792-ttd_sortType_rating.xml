@@ -1,0 +1,1857 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>25</totalCount>
+	<pages>2</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>9347P1</code>
+			<title>Newfoundland Puffin and Whale Watch Cruise</title>
+			<description>Marvel at marine wildlife up close on this cruise through the Witless Bay Ecological Reserve. The reserve is home to over 2.5 million seabirds and one of the largest populations of whales in the North Atlantic. Aboard a spacious catamaran with ample viewing areas, admire icebergs (May and June) and watch for puffins (mid-May to mid-September), whales (mid-June to mid-August), razor-billed auks, black-legged kittiwakes, and more (wildlife attractions vary with the time of year). Hear live commentary from crew and naturalists on board about Newfoundland’s heritage as you travel to Iceberg Alley.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/b3/fd/b0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Newfoundland Puffin and Whale Watch Cruise</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>702</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1576.18</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1576.18</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Newfoundland-Puffin-and-Whale-Watch-Cruise/d28792-9347P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.3141568</latitude>
+				<longitude>-52.806308699999995</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>100</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>351764P1</code>
+			<title>2 Hours Guided Whale and Bird Boat Tour in Bay Bulls</title>
+			<description>Admire a vast variety of migrating birds and even spot whales during this wildlife-focused boat tour through the four islands of the Witless Bay reserve. Learn about the area's ecosystem from the naturalist guides on board as you cruise along the coastline from Bay Bulls. Marvel at the millions of birds (including puffins, auks, and petrels) and get a glimpse of whales and dolphins frolicking in the waves.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/f2/af/eb.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>2 Hours Guided Whale and Bird Boat Tour in Bay Bulls</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>345</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1510.51</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1510.51</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/O-Briens-Whale-and-Bird-Boat-Tours/d28792-351764P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.3150632</latitude>
+				<longitude>-52.8143654</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>100</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>317898P1</code>
+			<title>2-Hour Guided Boat Tour from St. John's</title>
+			<description>Just off the coast of St. John's you'll find the world’s largest population of humpback whales, icebergs that are over 10,000 years old and seabirds such as the charismatic Atlantic puffin. This boat tour departs from the heart of downtown St. John’s, making it easier than ever to experience the marine wonders of Newfoundland.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f4/94/1f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>2-Hour Guided Boat Tour from St. John's</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.5</exactScore>
+				<reviewCount>323</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1707.53</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1707.53</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Iceberg-Quest-Ocean-Tour/d28792-317898P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.5602951</latitude>
+				<longitude>-52.7095151</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>100</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>357188P1</code>
+			<title>St. John's Downtown Walking Tour</title>
+			<description>Discover the beauty and history of Newfoundland when you take this walking tour of downtown St. John’s. Join a small group walk from Water Street to Duckworth Street to Bannerman Park and the Colonial Building. Hear stories of how the city came was founded, what makes it different from other Commonwealth countries, and why the government sits on the left.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/72/3b/91.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. John's Downtown Walking Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>170</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>774.96</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>774.96</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Downtown-St-Johns-Signature-Walking-Tour/d28792-357188P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.562391299999994</latitude>
+				<longitude>-52.7096951</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>18</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>405149P1</code>
+			<title>4 Hour St John’s Tour w Come From Away star (lunch included)</title>
+			<description>Having shared the story of Come From Away with almost a million people, and being partnered in life with born and raised Newfoundlander, Deneen, my passion for this, my chosen home, is what drives my desire to take you on this tour. My perspective on this land and her people and the connections I’ve made as a member of the Come From Away family make for a one of a kind experience for my guests. Come From Away…for awhile:)
+
+All tours are hosted and guided by me, Deneen, our friend, Newwfoundland music legend Larry Foley, or, schedule allowing, combinations thereof! All 3 of us are connected to Come From Away and excited to welcome you inside the story:)
+
+PLEASE NOTE: THIS TOUR TAKES PLACE IN ST. JOHN’S, NEWFOUNDLAND, NOT SAINT JOHN, NEW BRUNSWICK. Please check your itinerary. I’d hate for you to end up 1300 miles from me!
+
+*Gratuities, while not expected, are graciously and gratefully accepted:)</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/78/ff/e9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>4 Hour St John’s Tour w Come From Away star (lunch included)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>110</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2613.84</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2613.84</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Georges-Tours-NL/d28792-405149P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.51995</latitude>
+				<longitude>-52.623592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>477344P1</code>
+			<title>Historic St. John's Newfoundland and Cape Spear Tour</title>
+			<description>Discover Newfoundland, with Newfoundlanders! 
+
+Become acquainted with the city of St. John&amp;#39;s and its surroundings, including Cape Spear, the most Easterly point in North America. Your local guide will regale you with its steeped history, legends &amp;amp; lore - all flavored with personal anecdotes and good humor for which Newfoundlanders are so famous. 
+
+Enjoy the brilliant vistas from Cabot Tower and Signal Hill, one of the most recognizable skylines in Canada. Walk through a cliffside World War II gun battery, watch for whales and seabirds, and visit the oldest standing lighthouse in the province. Other sights include Quidi Vidi Village, Jelly Bean Row, Government House, the Roman Catholic Basilica, and an orientation of the shops and restaurants of the downtown core.
+
+Please note that Newfoundland and New Brunswick are different places- there are two towns with similar names- St. John New Brunswick and St. John&amp;#39;s Newfoundland. We are in Newfoundland and do not run tours in NB.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8f/60/6b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Historic St. John's Newfoundland and Cape Spear Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>83</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1169</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1169</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Historic-St-Johns-and-Cape-Spear-Tour/d28792-477344P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.51995</latitude>
+				<longitude>-52.623592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>357188P3</code>
+			<title>St. John's 3 Hour Newfoundland Food Tour</title>
+			<description>There’s no better way to learn about the history and culture of a community than to eat its food. On our Newfoundland Food Tour, you will eat your way through downtown St. John’s. Newfoundland and Labrador has one of the most unique food cultures in Canada. Long known for seafood, wild game, and delicious traditional meals, the province has a long list of mouth-watering ingredients and recipes. From a CFA finding success selling beloved Newfoundland pastry to a haunted pub that inspired a TV set to a former fruit stand literally built on the ashes of the Great Fire, we’ll explore the people, stories, and food that make the city unique.
+
+Come hungry! If you arrive gut-foundered, by the time we finish our walk, you’ll be stogged. And yes...we&amp;#39;ll teach you what those local terms mean. ;)</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/7e/86/e0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. John's 3 Hour Newfoundland Food Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>69</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1694.4</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1694.4</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Newfoundland-Food-Tour/d28792-357188P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.5609807</latitude>
+				<longitude>-52.711256299999995</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>342402P1</code>
+			<title>Whale Watching, Shark and Cod Fishing, from St. John's Harbor</title>
+			<description>Experience the North Atlantic for yourself on a private fishing adventure to try and capture St. John’s local specialty: cod. This is a great opportunity to catch and take some fish back home with you without the hassle of bringing fishing equipment. Shark fishing charters are also available for more adventurous travelers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/54/b0/72.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Whale Watching, Shark and Cod Fishing, from St. John's Harbor</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>59</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3533.28</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3533.28</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Boat-charter-with-cod-fishing-whale-watching-and-a-full-marine-experience/d28792-342402P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.564629599999996</latitude>
+				<longitude>-52.6894796</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>5</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>446976P1</code>
+			<title>3 hour City Tour of St.John’s, small group up to six guests</title>
+			<description>See Historic Downtown St. John&amp;#39;s, Jelly Bean Row, Quidi Vidi ,Signal Hill, Chain Rock, The Battery , Cape Spear and Petty Harbor
+
+We use a small van, so we go places where the bigger units cannot go,less waiting time at sites.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/6e/f6/01.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>3 hour City Tour of St.John’s, small group up to six guests</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>37</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1169</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1169</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/3-Hour-City-Tour-see-all-the-sights-79-per-person-plus-tax/d28792-446976P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.57007</latitude>
+				<longitude>-52.681957</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>342402P3</code>
+			<title>Pedego eBike Rental</title>
+			<description>If your looking to experience all that St. John&amp;#39;s has to offer from the window of a bicycle then Pedego e-Bikes has the perfect outing for you and your group. We offer 3 and 7 hour bike rentals, plus a weekly option when available.
+We can host groups up to 15 with advanced notice.
+The e-Bikes can travel from downtown St. John&amp;#39;s to Cape Spear (22Km) in about 90 min with anyone in average physical condition. The electric motor in the e-Bike does all the work for you, just pedal and feel the motor kick into gear and assist your ride. 
+You can adjust the power assist from 0% (you do all the work) to 100% (the motor does all the work)
+Guests travel to all the scenic destinations in St. John&amp;#39;s with ease on our e-Bikes.
+Cape Spear, Signal Hill, Quidi Vidi Village, and numerous dedicated bike trails in St. John&amp;#39;s are waiting for you.
+Put on your helmet and explore!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/ae/d8/93.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pedego eBike Rental</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>14</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1563.05</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1563.05</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/E-Bike-Tour-of-St-Johns/d28792-342402P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.564994299999995</latitude>
+				<longitude>-52.706419399999994</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>9347P3</code>
+			<title>Birds and Bergs in Newfoundland</title>
+			<description>Visit the largest puffin colony in North America.
+Top-rated tour with a professional crew. Safe. Educational. Entertaining.
+Treat yourself to the best views! Our elevated viewing decks keep you at eye level with nesting puffins for the best pictures and make it easier to spot icebergs and whales even when they are further away (think penthouse view versus ground floor view). 
+
+Abundant deck and rail space provide unobstructed views. If you’re lucky, the whales may choose to visit for a closer look! When they do, the superior viewing angles of the cat enable you to see deeper into the water to watch as they slip effortlessly beneath. 
+The seabird colony is at its finest from May through to late August (puffins stay through till mid/late September). Icebergs may be present early season and whales sometimes appear before or after peak season.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/5b/eb/f6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Birds and Bergs in Newfoundland</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>7</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1576.18</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1576.18</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Birds-and-Bergs/d28792-9347P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.3141568</latitude>
+				<longitude>-52.806308699999995</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>100</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>357188P5</code>
+			<title>Newfoundland Beer Tour in St. John's</title>
+			<description>Beer: it’s one of the oldest alcoholic drinks in the world, the most widely consumed, and it was integral to daily life in Newfoundland since Europeans first landed on the island. Come with us and learn about Newfoundland’s long and rich beer history, from our earliest brewing endeavours to our thriving modern craft beer industry.
+
+On this tour you’ll enjoy a wide variety of local brews, from a sour brewed with Newfoundland sea salt to a complex stout with ales and lagers in between. We’ll make stops at three different breweries and bars for stories and tales and 7 samples of beer brewed right here.
+
+Along the way your guide will entertain you with stories of prohibition and the gangsters that came with it, an accidental port discovery, and the local beer connection to Jimmy Kimmel. In addition, our local guides give you a crash course on how to taste craft beers, while sharing their knowledge, recommendations, and personal anecdotes about how St. John’s became the city it is today.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/d7/ae/1a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Newfoundland Beer Tour in St. John's</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>7</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1247.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1247.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Newfoundland-Beer-Tour-by-St-Johns-Walking-Tours/d28792-357188P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.562391299999994</latitude>
+				<longitude>-52.7096951</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>9347P4</code>
+			<title>Late Season Puffin &amp; Scenic Coastal Cruise</title>
+			<description>This 90 minute tour features the incredible Witless Bay Ecological Reserve - your best chance to view puffins in late season. Attractions vary with the time of year but occasionally whale, dolphins, tuna and ocean sunfish are encountered. 
+Seasonal guidance: puffins nest May through to mid-September with some usually remaining till Sept 20. Whale season is from mid-June through mid-August with occasional sightings in late season. Wildlife cannot be guaranteed on any given cruise.
+
+Enjoy entertaining and educational live commentary provided by on board naturalists and crew. Learn about Newfoundland&amp;#39;s marine wildlife and heritage from your enthusiastic, knowledgeable, professional guides during this awesome adventure (minimum 90 minutes).  Our catamaran offers the most space for your comfort.
+Screech In ceremony available during cruise - guests should pre-register at time of tour check in.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/aa/5a/07.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Late Season Puffin &amp; Scenic Coastal Cruise</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.5</exactScore>
+				<reviewCount>6</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1247.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1247.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Puffin-and-Whale-Watch-with-Transportation/d28792-9347P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.3141568</latitude>
+				<longitude>-52.806308699999995</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>100</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>6483P89</code>
+			<title>St. John's, Quidi Vidi Village &amp; Signal Hill Small Group Tour</title>
+			<description>Your tour begins with your friendly guide picking you up directly from your hotel in downtown St. John’s. You’ll enjoy a narrated drive along the way to the beautiful Cape Spear Lighthouse National Historic Site. While here, you will have some time to explore the lighthouse and take in the awe-inspiring views of the Atlantic Ocean. 
+
+You will love visiting Signal Hill National Historic Site. This spot is significant for its historic role in strategic military operations and as the location of the final battle of the Seven Years’ War in North America. While you are here, you will have the opportunity to explore the famous Cabot Tower and enjoy incredible views of St. John’s and its harbour.
+
+You will also experience a narrated city drive. You will pass by and stop at multiple points of interest including: Jellybean Row, the Rooms, George Street, Water Street, Basilica and Cathedral of St. John the Baptist, St. John’s Harbour, Quidi Vidi Village, and the Terry Fox Memorial.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/60/38/4d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. John's, Quidi Vidi Village &amp; Signal Hill Small Group Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.5</exactScore>
+				<reviewCount>19</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1497.37</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1497.37</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/St-Johns-Small-Group-Tour-w-Quidi-Vidi-Village-and-Signal-Hill/d28792-6483P89</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.51995</latitude>
+				<longitude>-52.623592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>405149P5</code>
+			<title>St. John's Coastal Hike with Top Local Guide</title>
+			<description>Explore the mind-blowing beauty of the miles of coastline in and around the capital with born and raised Newfoundlander. In Sharing her considerable knowledge of the East Coast Trail and the many lesser-known coastal trails, you will learn about foraging, the historical connection between farming and harvesting on both land and sea, and local lore of the communities all around the Killick Coast. 
+
+All that and a traditional Newfoundland breakfast (included)!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8a/b2/9c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. John's Coastal Hike with Top Local Guide</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2613.84</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2613.84</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Coastal-Hike-with-Top-Local-Guide-Deneen-Breakfast-included/d28792-405149P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.524563</latitude>
+				<longitude>-52.706882</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>3</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>208872P56</code>
+			<title>The best of St. John's walking tour</title>
+			<description>Ideal for first-time visitors looking to make the most of their trip, you can explore a variety highlight in St. John's during this comprehensive walking tour, led by a professional guide. Discover charming spots while learning fascinating facts and legends about one the oldest cities in North America. From the historic Water Street to tales hidden down small streets, buildings, and corners, have fun while uncovering the local lifestyle.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/51/89/a6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>The best of St. John's walking tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3282.17</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3282.17</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/The-best-of-St-Johns-walking-tour/d28792-208872P56</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.562391299999994</latitude>
+				<longitude>-52.7096951</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>417857P2</code>
+			<title>Aha Lesedi Cultural Village tour</title>
+			<description>This place gives clients a view into all the different tribes of Southern Africa&amp;#39;s cultural way of life. Everything frome the dwellings dressing ,passing time and food preparation. The place is situated within the Cradle of humankind.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/84/3d/05.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Aha Lesedi Cultural Village tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Johannesburg, Gauteng</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2150</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2150</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Johannesburg/Travel-and-tours/d314-417857P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>-25.8378578</latitude>
+				<longitude>27.8818728</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>357188P4</code>
+			<title>90 Minute Downtown St. John's Walking Tour Walking on Water</title>
+			<description>Water Street: Possibly the oldest continuously operating commercial street in North America has been the centre of life and commerce in St. John’s since Europeans first arrived in this harbour.
+
+Join us on this “for everyone” fully accessible 90 minute tour (no hills or stairs!) for an entertaining and informative introduction to St. John’s along one of North America’s most historic streets.
+
+Explore with us as we uncover the past and reveal the present of the street that was once the centre of one of the world’s largest and most important fisheries.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/86/a9/3b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>90 Minute Downtown St. John's Walking Tour Walking on Water</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>512.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>512.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/90-Minute-Downtown-St-Johns-Walking-Tour-Walking-on-Water/d28792-357188P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.56718799999999</latitude>
+				<longitude>-52.70306799999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>18</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>6483P98</code>
+			<title>St. John’s Small Group Tour with Iceberg Quest Boat Cruise</title>
+			<description>Our first stop is at the beautiful Cape Spear Lighthouse National Historic Site, the oldest in the province and sits on the most easterly point of North America. 
+
+We’ll then take you back to downtown St. John’s for a narrated driving tour of the city, passing by multiple points of interest including Jellybean Row, George Street, and taking you through nearby Quidi Vidi Village.
+
+Our next tour stop will be Signal Hill National Historic Site, significant for its historic role as the location of the final battle of the Seven Years’ War in North America. While you are here, you will have the opportunity to explore the famous Cabot Tower.
+
+Next, you will be taken to Newfoundland’s award-winning boat tour, Iceberg Quest. You will absolutely love this once-in-a-lifetime opportunity to experience Cape Spear, Cabot Tower and Fort Amherst from the sea as you see the world’s largest concentration of humpback whales, along with 12,000 year old icebergs!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/62/ce/0c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. John’s Small Group Tour with Iceberg Quest Boat Cruise</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>2.8</exactScore>
+				<reviewCount>12</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Day Cruises</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3204.9</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3204.9</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/St-Johns-Small-Group-Tour-with-Iceberg-Quest-Boat-Cruise/d28792-6483P98</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.51995</latitude>
+				<longitude>-52.623592</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>138495P196</code>
+			<title>Participate in a Fun Scavenger Hunt in St. John's by Operation City Quest</title>
+			<description>Get to know St. John's and have some fun along the way. Go on a remote scavenger hunt — all you need is your phone to get familiar with important facts about the city. Perform tasks that get you thinking while you explore and create memories with your loved ones. Take photos at monuments as you compete to see how high you can get on the app's rankings.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/c4/bd/47.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Participate in a Fun Scavenger Hunt in St. John's by Operation City Quest</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.89</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.89</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Operation-City-Quest-Scavenger-Hunt-St-Johns-NL/d28792-138495P196</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.56718799999999</latitude>
+				<longitude>-52.70306799999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>371631P62</code>
+			<title>Murder Mystery Detective Experience in St Johns NL</title>
+			<description>Step into the shoes of a newly-minted detective, tasked by Commander Mahoney to solve a gripping case... murder on the streets of St. John&amp;#39;s.
+
+Throughout this crime-solving audio adventure, visit each of the 10 mapped locations. You&amp;#39;ll have the option to explore the downtown area using the Walking Map or follow a Driving Map on the city&amp;#39;s outskirts. Once you choose, the exact starting point will be revealed. *See images for route.
+
+Park or stop at each location, listen to the audio story, and put your detective skills to the test by gathering clues and piecing together the evidence. Finally, make your deductions and issue an arrest warrant. 
+
+Your overall detective skills will be evaluated, culminating in a Case Performance Score to measure your sleuthing prowess. This game is suitable for solo detectives, dynamic duos, or groups of mystery enthusiasts, offering an immersive audio tale filled with intrigue.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/57/d6/9b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Murder Mystery Detective Experience in St Johns NL</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>196.89</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>196.89</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/St-Johns-Murder-Mystery-Detective-Experience/d28792-371631P62</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.5670014</latitude>
+				<longitude>-52.7032189</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>137238P446</code>
+			<title>Adventurous Scavenger Hunt in St. John's by Zombie Scavengers</title>
+			<description>Zombie Scavengers in St. John&amp;#39;s challenges your team to survive a zombie apocalypse! The game instructs you to find a variety of items to survive the apocalypse anywhere in the city you&amp;#39;d like via an app. Get points for finding survival items (in any order you want) and participating in exciting zombie themed tasks. Plan your survival adventure carefully in order to get the most points to survive! A remote host will be following along (virtually) and help if you need it via chat. Come survive with us in St. John&amp;#39;s today!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/49/01/eb.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Adventurous Scavenger Hunt in St. John's by Zombie Scavengers</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>367.78</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>367.78</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>10</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Zombie-Scavengers-Game-St-Johns-NL/d28792-137238P446</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.567605799999995</latitude>
+				<longitude>-52.7028717</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>477344P3</code>
+			<title>Conception Bay Tour Experience</title>
+			<description>Let’s visit the many pretty outport communities that sprinkle the shores of Conception Bay; a region teeming with amazing stories about ancient pirates, WW2 submarine attacks, the dawn of transatlantic aviation, arctic exploration, and North America’s first European colony. This is a true Newfoundland experience that everyone who comes from away will embrace. Great times, great people, and great food await.
+
+*Please Note: The lunch is soup, with fish cakes, and a dessert. If you have any dietary restrictions please let us know and we will accommodate you*</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/ca/f1/3d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Conception Bay Tour Experience</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2758.32</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2758.32</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/Excursion-Around-the-Bay/d28792-477344P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.38559</latitude>
+				<longitude>-53.13406</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>477344P2</code>
+			<title>5 Day Eastern Newfoundland Tour</title>
+			<description>Enjoy five days of fun and intrigue on a cultural extravaganza in the City of Legends - St. John’s, Newfoundland. No driving, no planning, no worries. Let the expert guides at McCarthy’s Party Tours entertain you with humorous stories about our brilliant history, unique geology, and dramatic weather. Explore coastal communities, enjoy traditional Newfoundland food, listen to live music, and visit hidden gems with our local guides. Embrace the city’s vibrant arts scene, authentic bars, and unique culinary eats to ensure this is your time for a ‘time’ in the far east of the western world.
+
+Please Note BasePricing is based on Double Occupancy- for solo travellers please select the &amp;#34;Single Supplement&amp;#34; Option</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/c3/4a/55.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>5 Day Eastern Newfoundland Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>St John's, Newfoundland &amp; Labrador</location>
+			<category>Multi-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>27583.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>27583.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Johns/5-Day-Eastern-Newfoundland-Tour/d28792-477344P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>5</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>47.561466</latitude>
+				<longitude>-52.71343</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>St-Johns</Destination>
+	<FileName>St-Johns_d28792-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:23:03</FileCreationDateTime>
+</ProductList>

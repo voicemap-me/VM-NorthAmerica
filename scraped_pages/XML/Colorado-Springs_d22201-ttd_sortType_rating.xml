@@ -1,0 +1,1865 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>66</totalCount>
+	<pages>3</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>18888P7</code>
+			<title>Fins Course Scenic Zipline Tour</title>
+			<description>Get a new perspective on Colorado scenery as you soar between rocky expanses on this ziplining course at Seven Falls. Fly down five ziplines extending up to 1,800 feet (548 meters), plus traverse two suspension bridges and bound down a 180-foot  (54 meter) rappel. Though this is an adrenaline-filled day, kids meeting the weight limit can still participate.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/e0/3f/93.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fins Course Scenic Zipline Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>679</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5237.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5237.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Fins-Course-Zipline-Tour/d22201-18888P7</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>15</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.792538</latitude>
+				<longitude>-104.846504</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>15116P15</code>
+			<title>Foothills, History, and Garden of the Gods Jeep Tour</title>
+			<description>Take in the natural landscape of Colorado Springs without the hassle of navigating on your own during an open–air jeep tour of the foothills. Going with a guide allows you to visit popular landmarks as well as more secluded area via dirt roads that are often untouched by visitors. While learning about the history and geology of the area, guests enjoy a comfortable ride with water, snacks, and blankets included.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/80/7f/f5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Foothills, History, and Garden of the Gods Jeep Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>603</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2703.76</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2703.76</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/JEEP-TOUR-Foothills-and-Garden-of-the-Gods/d22201-15116P15</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8203162</latitude>
+				<longitude>-104.8413892</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>308817P1</code>
+			<title>Pikes Peak Jeep Tour</title>
+			<description>Highlights
+-All entry fees included
+-Incredible journey to the summit of Pikes Peak, America&amp;#39;s Mountain
+-Stunning views of distant mountain ranges
+-Discover interesting stories, history, and folklore
+-Convertible tops in summer, warm hard tops in winter
+-Passionate and entertaining guides
+-Safe, comfortable, modern Jeeps
+-Much more personal (and warm) experience than the big open Jeeps
+
+Capacity
+-8 Guests Max, 4 Guests per Jeep (two Jeeps)
+-Jeeps can fill up and can be cramped for some people. We do 
+ offer private tours (call or check our website for details)
+
+Duration
+-3-3.25 Hours
+
+Ages
+-1 yrs and older 
+
+The Tour
+-Scenic drive up Pikes Peak Highway. We make several stops for pictures. Our guides share history and folklore of the mountain and also get to know our guests. Once at the summit, we walk with you showing you the interesting sites. We leave you to explore the summit before returning the Jeep.
+
+Not recommended for people with heart conditions or serious medical issues.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/05/3d/f5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pikes Peak Jeep Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>458</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Pikes-Peak-Jeep-Tour/d22201-308817P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8484225</latitude>
+				<longitude>-104.8652477</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>18888P6</code>
+			<title>Woods Course Zipline Tour in Seven Falls</title>
+			<description>The lush forests, rocky gorges, and waterfalls of Seven Falls lie just outside Colorado Springs. On this tour, enjoy unbeatable views as you tackle the Woods Course zipline circuit and soar through the Seven Falls Canyon. With five ziplines reaching up to 1,500 feet (450 meters) long and heights of 150 feet (45 meters), it’s sure to get your adrenaline pumping and full instruction is provided.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/22/96/e4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Woods Course Zipline Tour in Seven Falls</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>361</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4519.14</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4519.14</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Woods-Course-Zipline-Tour/d22201-18888P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.792538</latitude>
+				<longitude>-104.846504</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>176681P1</code>
+			<title>Classic 3-Hour Food Tour in Colorado Springs</title>
+			<description>Go beyond Garden of the Gods and sink into Colorado Springs’ explosive culinary scene. Visit several incredible restaurants and boutique food shops in downtown Colorado Springs, learning about the city’s history along the way, from Pikes Peak to the gold rush and beyond. This tour combines the best of all worlds—art, history, and food—guided by a true local’s perspective.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/d7/74/53.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Classic 3-Hour Food Tour in Colorado Springs</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>353</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1699.5</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1699.5</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/The-Original-Colorado-Springs-Food-Tour/d22201-176681P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8273544</latitude>
+				<longitude>-104.82166289999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>15116P19</code>
+			<title>Old West High Country 4X4 Jeep Tour</title>
+			<description>Explore the natural landscape surrounding Colorado Springs on a jeep tour through secluded backcountry locations, from open fields to thick forests. Your guide, who eliminates the hassle of navigating on your own, provides context about the area’s history and geology often unheard by visitors. Between vistas and landmarks, enjoy the convenience of complimentary snacks, beverages, and blankets.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/fc/30/40.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Old West High Country 4X4 Jeep Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>307</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3765.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3765.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/JEEP-TOUR-High-Country/d22201-15116P19</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8203162</latitude>
+				<longitude>-104.8413892</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>42866P1</code>
+			<title>Private Rock Climbing at Garden of the Gods, Colorado Springs</title>
+			<description>See the Garden of the Gods from a different perspective during a private half-day rock climbing experience, ideal for travelers with an appetite for adventure. Catered to beginner and intermediate rock climbers, this excursion teaches you basic rock climbing techniques, including equipment, knots, belaying, climbing, and descending technique, and reveals panoramic views of the spectacular Garden of the Gods.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6c/41/01.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Rock Climbing at Garden of the Gods, Colorado Springs</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>290</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3267.11</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3267.11</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Garden-of-the-Gods-Private-Half-Day-of-Climbing/d22201-42866P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8812449</latitude>
+				<longitude>-104.88036869999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>18888P10</code>
+			<title>Colorado Springs Hands-On Falconry Class and Demonstration</title>
+			<description>Enjoy a one-of-a-kind Colorado Springs experience—and discover the ancient sport of falconry—with this hands-on class and demonstration. Pick between morning and afternoon class times, and make your own way to the location. Your guide, a licensed falconer, will introduce you to numerous birds of prey, host a flying demonstration, and will give you the opportunity to put on a leather glove and interact with a trained saker falcon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/7c/30/96.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Colorado Springs Hands-On Falconry Class and Demonstration</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>218</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4038.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4038.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Beginner-Falconry-Lesson/d22201-18888P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.7922507</latitude>
+				<longitude>-104.8468266</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>18888P8</code>
+			<title>Combo Course Zipline Tour</title>
+			<description>Discover the natural beauty of the Broadmoor Seven Falls in Colorado Springs on this canopy tour that combines eight ziplines, two suspension bridges, and a 180-foot (55-meter) rappel. This zipline course is designed to show off the geological features of the waterfall park, located next to the iconic Broadmoor resort.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/2f/09/94.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Combo Course Zipline Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>218</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7323.32</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7323.32</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Combo-Course-Zipline-Tour/d22201-18888P8</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.792538</latitude>
+				<longitude>-104.846504</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>180019P2</code>
+			<title>Sightseeing Jeep Tour in Garden of the Gods</title>
+			<description>The Garden of the Gods is gorgeous, but it can also be a parking nightmare. You won’t have to worry about that on this Jeep tour, your guide driving to the most incredible rock formations and epic views this side of the Springs. You’ll also witness Rainbow Falls, explore Manitou Springs, and even spot a castle—all in the hassle-free, Colorado sunshine.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/73/8e/7c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Sightseeing Jeep Tour in Garden of the Gods</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>216</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1834.69</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1834.69</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Garden-of-the-Gods-Tour/d22201-180019P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8598104</latitude>
+				<longitude>-104.89137799999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>308817P12</code>
+			<title>Garden of the Gods, Manitou Springs, Old Stage Road Jeep Tour</title>
+			<description>Highlights
+-A tour through the iconic Garden of the Gods
+-Stops along the way for history and pictures
+-Views of foothills and Pikes Peak
+-Explore the eclectic mountain town of Manitou Springs
+-15 minute stop at the Trading Post for restroom break and shopping
+-Short drive into the mountains and forest on Old Stage Road.
+-Three distinct areas of our great town
+
+Capacity
+-8 Guests Max, 4 Guests per Jeep (two Jeeps)
+-Jeeps can fill up and can be cramped for some people. We do 
+ offer private tours (call or check our website for details)
+
+Duration
+-3 Hours
+
+Ages
+-1 yrs and older
+
+Tour 
+-Garden of the Gods is Colorado Spring&amp;#39;s main attraction. A beautiful city park like no other. 
+
+-We tour Manitou Springs, talk about the interesting history of the area, stop off at a few springs to take a drink of the natural mineral waters and show some points of interest. 
+
+-Quick tour of Old Stage Road. Get into the mountains and forest away from commercial attractions. Experience Colorado.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/8b/81/c2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Garden of the Gods, Manitou Springs, Old Stage Road Jeep Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>191</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Garden-of-the-Gods-Manitou-Springs-Old-Stage-Jeep-Tour/d22201-308817P12</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8484225</latitude>
+				<longitude>-104.8652477</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>331406P1</code>
+			<title>Colorado Springs - Guided Walking Ghost / History Tour</title>
+			<description>With 150+ years of gun-slinging cowboys, gold-searching miners, rail barons, and plenty of secrets and scandal, one thing’s for certain: Colorado Springs’ haunted side runs as wild as the American West. You’ll dive into it headfirst on this participatory tour, hearing tales of the city’s most haunted spots—and maybe catching some action yourself.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/9f/b8/d2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Colorado Springs - Guided Walking Ghost / History Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>131</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>540.75</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>540.75</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Colorado-Springs-Walking-Ghost-History-Tour/d22201-331406P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8336216</latitude>
+				<longitude>-104.82667839999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>50</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>34641P1</code>
+			<title>Colorado Springs Sunrise Balloon Ride</title>
+			<description>Greet the day with a sunrise hot air balloon flight that offers unbeatable views of Pikes Peak, the Garden of the Gods, and other Colorado Springs wonders. Help the crew inflate the giant balloon for a hands-on experience, and then soar over the enchanting landscape in the changing morning light. Back on solid ground, toast your flight with a celebratory glass of sparkling wine and light breakfast.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/af/d1/c6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Colorado Springs Sunrise Balloon Ride</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>116</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5310.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5310.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Colorado-Springs-Sunrise-Balloon-Ride/d22201-34641P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8863753</latitude>
+				<longitude>-104.71652449999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>149245P2</code>
+			<title>2-Hour Segway Tour in Cheyenne Cañon and Broadmoor Area</title>
+			<description>Discover a local’s eye view of Colorado Springs—and venture to the scenic North Cheyenne Cañon Park—on this two-in-one Segway tour. Pick from multiple available departure times, get acquainted with your Segway, and then set off with just a small group for company. You’ll hit the trails in the park, where you can keep an eye out for wildlife, and will see highlights of the peaceful Broadmoor neighborhood.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/22/8a/c2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>2-Hour Segway Tour in Cheyenne Cañon and Broadmoor Area</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>107</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2491.32</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2491.32</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/2-Hour-Segway-Tour-Cheyenne-Canon-and-Broadmoor-Area/d22201-149245P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>15</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.7909863</latitude>
+				<longitude>-104.86530069999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>15116P16</code>
+			<title>Garden of the Gods Segway Tour through Juniper Loop</title>
+			<description>Explore one of the most beautiful parks in the American west the fun and easy way on a Segway tour of the Garden of the Gods near Colorado Springs. Learn about the ancient history of the park’s red rock formations and see how natural shapes like Kissing Camels and Praying Hands got their names. You’ll cover much more ground than by walking, making it a great option for visitors with limited time.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/6a/84.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Garden of the Gods Segway Tour through Juniper Loop</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>107</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2510.63</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2510.63</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Garden-of-the-Gods-Segway-Tour-Juniper-Loop/d22201-15116P16</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.878428299999996</latitude>
+				<longitude>-104.86978309999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>5</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>412128P1</code>
+			<title>Scenic Tour of the Pikes Peak Highway</title>
+			<description>Conquer Pikes Peak without the stress of driving yourself on this intimate half-day journey to 14,115 feet (4,302 meters). Your expert guide does more than navigate the winding roads—they bring the mountain's history to life while you relax and take in the view. With flexible photo stops, wildlife viewing opportunities, and complimentary refreshments, you'll experience America's Mountain without any of the hassle.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/31/02/ae.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Scenic Tour of the Pikes Peak Highway</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>91</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Scenic-Tour-of-the-Pikes-Peak-Highway/d22201-412128P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8266472</latitude>
+				<longitude>-104.8231406</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>326597P17</code>
+			<title>Electric E-Bike Tour of Manitou Springs &amp; Garden of the Gods</title>
+			<description>Come Ride Manitou Springs all-in-one best of everything tour. Ride to all the breathtaking sights, both scenic and historic. Enjoy Manitou Springs&amp;#39;s natural beauty, all the major attractions on our pedal-assist electric bike ride tour. An experience you won&amp;#39;t want to miss!
+
+After a quick tutorial on the bikes and safety, we immediately make our way onto the bike paths and trails. 
+
+Experienced and Highly Rated Tour Guides.
+
+Manitou Spring&amp;#39;s Best E-Bike Guided Tour!
+
+Great for groups and family-friendly:)</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/57/8d/6b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Electric E-Bike Tour of Manitou Springs &amp; Garden of the Gods</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>86</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2124.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2124.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Ride-Manitou-Springs-Best-Guided-E-Bike-Tour/d22201-326597P17</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.856925</latitude>
+				<longitude>-104.8992717</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>16</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>180019P1</code>
+			<title>Pikes Peak Jeep Tours</title>
+			<description>There’s nowhere more iconic to Colorado Springs than Pikes Peak, and with this tour, you’ll get a private ride to the top. Passing the shuttle buses, your driver will narrate the way, stopping as you like to nab photos and views. Once at the top, explore at your leisure—scoping for wildlife—before the beautiful journey back down to civilization.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/03/9f/e9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pikes Peak Jeep Tours</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>85</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2414.07</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2414.07</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Pikes-Peak-Tours-and-More/d22201-180019P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8961174</latitude>
+				<longitude>-104.97160559999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>15116P17</code>
+			<title>Manitou Springs Colo-Rad Zipline Tour</title>
+			<description>Take a break from the city and head out to Manitou Springs for zipline course popular among families with children. In the company of your guide, embark on a rugged adventure through the forest as you try out a variety of ziplines and customize the experience to suit your level of thrill–seeking. Gear, hydration, and tutorials are included for your convenience.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/6a/86.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Manitou Springs Colo-Rad Zipline Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>70</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2317.51</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2317.51</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Colo-Rad-Zipline-Tour/d22201-15116P17</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8641272</latitude>
+				<longitude>-104.9232691</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>176681P3</code>
+			<title>Cocktails &amp; Tastes Tour in Colorado Springs</title>
+			<description>Taste the best of Colorado Springs' thriving cocktail scene, and enjoy snacks and storytelling to accompany you, on this small-group happy hour tour. Meet your guide in central Colorado Springs, and come thirsty: visit several of the city's unique cocktail bars, and enjoy signature drinks at each, plus indulgent food pairings. As you go, learn more about the city's Prohibition past and thriving present.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f1/3c/ff.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Cocktails &amp; Tastes Tour in Colorado Springs</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>66</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Walking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1815.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1815.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/The-Springs-Signature-Cocktail-Tour/d22201-176681P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8334404</latitude>
+				<longitude>-104.8220691</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>357366P2</code>
+			<title>Ebike Tour: Garden of the Gods</title>
+			<description>With this e-bike tour, you’ll get three things: you’ll get a sustainable, eco-friendly adventure through one of Colorado’s most beloved landscapes; you’ll get access to a local guide to better your experience; and you’ll avoid the parking hell that is Garden of the Gods. While everyone else is driving around begging for parking, you’ll be wandering these sandstone giants in the open air, communing one-on-one with Mother Nature.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/35/9a/1f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Ebike Tour: Garden of the Gods</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>61</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4727.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4727.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Ebike-Tour-Garden-of-the-Gods/d22201-357366P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8387579</latitude>
+				<longitude>-104.8487682</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>18</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>357366P1</code>
+			<title>Pikes Peak Summit Downhill Bike Tour</title>
+			<description>This is Colorado’s most thrilling bike ride—from the top of Pikes Peak, it’s an 8,000-foot (2,438m) descent. You’ll meet your guide at the Pikes Peak Adventure Center, grab some coffee and a light breakfast, and then make the quick drive to the summit. From there, you’ll snap some pictures before saddling up, cruising down for what just might be the most memorable ride of your life.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/32/da/81.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pikes Peak Summit Downhill Bike Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>45</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4869.66</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4869.66</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Pikes-Peak-Bike-Tour/d22201-357366P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.8387579</latitude>
+				<longitude>-104.8487682</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>15116P18</code>
+			<title>Breathtaking Colorado Springs Sunrise Hot Air Balloon Flight</title>
+			<description>Enjoy a serene hot air balloon ride over Colorado Springs. With views of 100 miles or more in all directions, you can appreciate the vast, expansive landscapes of the Rocky Mountains. Look for wildlife such as deer, bighorn sheep, and birds as you soar high above the ground using only the wind and the skill of your experienced pilot.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/22/88/d0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Breathtaking Colorado Springs Sunrise Hot Air Balloon Flight</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>38</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8883.78</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8883.78</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Colorado-Springs-Sunrise-Hot-Air-Balloon-Flight/d22201-15116P18</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.807136799999995</latitude>
+				<longitude>-104.72534879999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>55559P2</code>
+			<title>Mild Scenic Family Float on Arkansas River</title>
+			<description>Fancy floating with the family down the fantastic Arkansas River against the backdrop of the remarkable Rocky Mountains? Alighting from Coaldale, this family-friendly trip offers travelers a gentle taste of the classic rafting experience, including easy Class II - III rapids. All gear and comprehensive safety briefings are provided, ensuring an exhilarating and unforgettable experience for all travelers aged 5 and over.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/0b/be.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Mild Scenic Family Float on Arkansas River</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>38</reviewCount>
+			</rating>
+			<location>Colorado Springs, Colorado</location>
+			<category>Float Trips </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2820.41</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2820.41</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Colorado-Springs/Mild-Cottonwood-Family-Float/d22201-55559P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.3701424</latitude>
+				<longitude>-105.7009657</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>50</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Colorado-Springs</Destination>
+	<FileName>Colorado-Springs_d22201-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:35:59</FileCreationDateTime>
+</ProductList>

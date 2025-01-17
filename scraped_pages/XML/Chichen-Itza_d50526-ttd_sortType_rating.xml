@@ -1,0 +1,1346 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>17</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>263394P7</code>
+			<title>Chichen-itza &amp; Cenote Private Tour</title>
+			<description>Avoid the hassles of a group excursion and opt for a personalized visit to two of the most important attractions in the Riviera Maya: the pre-Columbian archaeological site of Chichén Itzá and a Mayan pool or cenote. Enjoy a comfortable transfer by air-conditioned vehicle from the airport or hotel, plus a delicious all-inclusive lunch, along with expert commentary at each stop.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/b5/4a/5c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Chichen-itza &amp; Cenote Private Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>144</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Ports of Call Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5214.39</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5214.39</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Chichen-itza-and-Cenote-Wonder-of-the-Mayan-World-Private-Tour/d50526-263394P7</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>9</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.68361</latitude>
+				<longitude>-88.56944</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>342412P2</code>
+			<title>Private Guide Service in the Archaeological Zone of Chichen Itza</title>
+			<description>You will learn from local experts all the mysteries and corners of the archaeological zone of Chichen Itza. We will talk about culture, architecture, history, traditions and customs of the Mayan world. More than a tourist guide, you will find someone who will accompany you during your visit to this majestic place and also who will provide you with the best recommendations so that your stay in this region is the most pleasant and fun.
+ We also help our travelers by avoiding long lines, purchasing their tickets in advance if they wish, so that upon arrival we enter the archaeological zone directly.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/3f/71/c4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Guide Service in the Archaeological Zone of Chichen Itza</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>102</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1136.88</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1136.88</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>15</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Guide-Service-in-the-Archaeological-Zone-of-Chichen-Itza/d50526-342412P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6791438</latitude>
+				<longitude>-88.5683091</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>148912P1</code>
+			<title>Chichen Itza: Self-Guided Tour with Audio Narration &amp; Map</title>
+			<description>Skip the hustle of group tours and the hassle of research and discover the Chichén Itzá UNESCO World Heritage Site at your own pace when you download this self-guided tour. The package includes audio, images, text, and a live GPS map. Simply download the app, enter the password, then download the tour, leaving you free to explore at will. Phone, chat, and email support ensure complete peace of mind.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/6a/99/1a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Chichen Itza: Self-Guided Tour with Audio Narration &amp; Map</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.3</exactScore>
+				<reviewCount>45</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Full-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>192.93</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>192.93</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Chichen-Itza-Cancun-Self-Guided-Audio-Tour-Guide-for-iPhone-and-Android/d50526-148912P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6791438</latitude>
+				<longitude>-88.5683091</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>363683P1</code>
+			<title>Private Tour in Chichen Itza Official History Guide</title>
+			<description>You&amp;#39;ll be hosted by a professional and experienced guide, with a degree in history and more than 30 years taking care of visitors from all around the world, sharing with them the most important details and sites of the mayan culture.
+And to make the experience much better I can get the tickets before you arrive so you can avoid a long line and save time.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/72/00/be.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Tour in Chichen Itza Official History Guide</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>32</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1800.06</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1800.06</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>10</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Enjoy-Chichenitza-learn-about-a-new-wonder-with-a-professional-guide/d50526-363683P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.682885199999998</latitude>
+				<longitude>-88.57212489999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>421363P1</code>
+			<title>Chichen Itza Guided Group Walking Tour - Last minute booking</title>
+			<description>Explore the ancient pyramid temples of Chichén Itzá on a guided group tour. Discover Mayan archaeological ruins including the Warriors Temple, El Castillo, and El Caracol. Skip the line, the guide will be waiting with your tickets.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/86/77/b8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Chichen Itza Guided Group Walking Tour - Last minute booking</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>19</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>502.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>502.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Chichen-Itza-Walking-Guided-Group-Walking-Tour-Entrance-Fee-Inc/d50526-421363P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6791438</latitude>
+				<longitude>-88.5683091</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>50</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5885P253</code>
+			<title>Chichen Itza Ticket</title>
+			<description>Save hours of waiting in line at one of the new 7 Wonders of the World with skip-the-line entry to Chichen Itza. Booking your admission ticket in advance allows you to arrive at the Mayan ruins at any time of day and still beat the crowds. Explore at your own pace without the rush of guided tours and admire highlights such as the Temple of Warriors and the Ball Court.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/53/c3/15.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Chichen Itza Ticket</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3.2</exactScore>
+				<reviewCount>81</reviewCount>
+			</rating>
+			<location>Cancun, Riviera Maya &amp; the Yucatan</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Cancun/Skip-The-Line-Chichen-Itza-Entrance-Ticket/d631-5885P253</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.68361</latitude>
+				<longitude>-88.56944</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Ruins &amp; Cenotes</primaryLabel>
+			<maxTravelersAllowed>99</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>160883P4</code>
+			<title>Tulum Private Experience</title>
+			<description>Be the first one to explore the mayan city of Tulum with our team of passionate guides, enjoy the only mayan city in front of the caribbean sea before the crowds, and after your exploration immerse yourself in the jungle to explore the longest cenote in the entire Yucatan Peninsula, the Sac Aktun cenote, swim in crystal clear waters, and explore an unknown world.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/54/35/94.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Tulum Private Experience</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>5</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3611.45</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3611.45</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Tulum-Private-Experience/d50526-160883P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.215027</latitude>
+				<longitude>-87.42918</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>366784P6</code>
+			<title>Self-Guided Tour - Chichen Itza Audioguide (no ticket)</title>
+			<description>Our self guided audio tour to the Chichen Itza offers an enthralling walk through the most significant monuments of the archaeological park and provided via mobile app for iPhone &amp;amp; Android. Utilizing the GPS map, you&amp;#39;ll effortlessly navigate to each intriguing site worth exploring. During your tour, you&amp;#39;ll encounter the following buildings and hear their stories:
+
+Pyramid of Kukulcan or El Castillo
+A large ball field
+Platform of Skulls
+Temple of Warriors
+Observatory
+Sacred Cenote
+And others
+The itinerary encompasses a total of 16 points, arranged in a circular route. Throughout your journey, you&amp;#39;ll acquire knowledge on a variety of topics:
+
+How the Mayan economy was organized, including the components of their diet.
+The deities the Maya believed in and their significance in their culture.
+The scientific discoveries made by the Maya prior to European contact.
+The factors contributing to the decline of this advanced civilization.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/dc/28/bc.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Self-Guided Tour - Chichen Itza Audioguide (no ticket)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.3</exactScore>
+				<reviewCount>6</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>99.46</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>99.46</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Chichen-Itza-Self-Guided-Audio-Tour-for-your-smartphone/d50526-366784P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6791438</latitude>
+				<longitude>-88.5683091</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>8914P10</code>
+			<title>Private Chichen Itza Full-Day Tour from Cozumel</title>
+			<description>Considered one of the most important cities of the Mayan world, Chichen Itza boasts ancient ruins including the Kukulkan Pyramid (El Castillo). Your private guide shares commentary about Mayan culture and history during your walking tour, after you travel in an air-conditioned private vehicle to reach the ruins. Includes private driver and guide, lunch, entrance fees, and pickup and drop-off at the ferry port in Playa del Carmen.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/9e/dd.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Chichen Itza Full-Day Tour from Cozumel</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Cozumel, Riviera Maya &amp; the Yucatan</location>
+			<category>Full-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18829.74</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18829.74</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Cozumel/Chichen-Itza-Private-Tour-from-Cozumel/d632-8914P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>11</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.68361</latitude>
+				<longitude>-88.56944</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>104357P255</code>
+			<title>Private Walking Tour with a Local Guide in Chitzen Itza</title>
+			<description>Discover the awe-inspiring wonders of Chichen Itza on a private 3-hour walking tour, where you&amp;#39;ll explore world-renowned sites such as the Pyramid of Kukulcan, Warriors&amp;#39; Temple, El Caracol, and the Temple of the Great Tables. Guided by a passionate local, you&amp;#39;ll delve into the ancient history, architectural marvels, and cultural significance of each landmark. Unlike standard historical tours, this experience offers a personalized and immersive journey, giving you the freedom to customize the itinerary to your interests. Perfect for history lovers and curious explorers, this tour will leave you with an in-depth understanding of Chichen Itza and the confidence to further explore its mysteries.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/fa/cc/90.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Walking Tour with a Local Guide in Chitzen Itza</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1491.9</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1491.9</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Private-Custom-Walking-Tour-with-a-Local-Guide-in-Chitzen-Itza/d50526-104357P255</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.68049</latitude>
+				<longitude>-88.56848</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>110804P302</code>
+			<title>The Way of Kukulkan: A Self-Guided Audio Tour</title>
+			<description>This Chichen Itza: The Way of Kukulkan Self-Guided Audio Tour is ideal for those who want to explore on their own, but still get a plethora of knowledge about the ancient Mayan ruins. This audio tour allows you to pause and take your time as you explore using an easy-to-download app on your Smartphone.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/18/45/9d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>The Way of Kukulkan: A Self-Guided Audio Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>173.62</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>173.62</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/The-Way-of-Kukulkan-An-audio-tour-exploring-Chichen-Itzas-majestic-ruins/d50526-110804P302</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>45</minutes>
+				</toDuration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6829027</latitude>
+				<longitude>-88.5725363</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>182716P16</code>
+			<title>Ticket with Skip-the-Line Access to Chichen Itza plus Cenote</title>
+			<description>Book your Chichen Itza ticket for the date and time that suits your itinerary and head directly to the pick-up location, avoiding the long line at the usual ticket office. Use your ticket to access the site and admire ancient Mayan ruins such as the Temple of the Warriors. Stay inside the archaeological site as long as you want until closing time, or make a quick visit to make the most of your day of travel. At the end of your visit, visit a cenote near the area and swim in the fresh waters of the xcajum cenote</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e2/7d/87.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Ticket with Skip-the-Line Access to Chichen Itza plus Cenote</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Skip the line Tickets</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1116.98</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1116.98</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Ticket-with-Skip-the-Line-Access-to-Chichen-Itza-plus-Cenote/d50526-182716P16</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.68361</latitude>
+				<longitude>-88.56944</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>31070P202</code>
+			<title>Chichen Itza: Skip The Line Tickets</title>
+			<description>Travel back in time to the world of the Ancient Mayans and explore their gigantic jungle city at the stunning Chichén Itzá. Climb the sacred pyramid temples, turn up the heat in the &amp;#39;sweatbaths&amp;#39; and discover the sinister &amp;#39;Platform of Skulls&amp;#39; as you lose yourself in this UNESCO World Heritage Site.
+
+It&amp;#39;s one thing to read about ancient Mayan civilizations, but it&amp;#39;s something else entirely to witness their sheer scale and majesty with your own eyes. Chichén Itzá was one of the Mayan&amp;#39;s largest cities, and a sacred site of pilgrimage and worship before the fateful Spanish invasion.
+
+Surrounded by lush rainforest, you can spot exotic birds in the nature refuge and many walking trails, and even take a dip in the freshwater sinkhole in a day filled with ancient adventure and historical discovery!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/dd/46/43.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Chichen Itza: Skip The Line Tickets</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1551.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1551.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Chichen-Itza-Skip-The-Line-Tickets/d50526-31070P202</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.68361</latitude>
+				<longitude>-88.56944</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>148912P5</code>
+			<title>Mayan Ruins of Mexico: App-Based Self-Guided Walking Tour Bundle</title>
+			<description>Discover the Wonders of the Mayan World
+Explore four iconic Mayan ruins with our app-based self-guided tour: Chichen Itza, Tulum, Coba, and Ek Balam. Marvel at El Castillo in Chichen Itza, soak in ocean views from Tulum’s fortress, climb the Coba pyramid for jungle vistas, and uncover Ek Balam’s royal tomb.
+
+Learn about Mayan innovation, art, and their struggles against the Spanish while enjoying complete flexibility to explore at your own pace.
+
+How It Works
+After booking, you will receive a password and download the app. By downloading the tours before your visit, you can access them offline. Follow the app’s guided route for a seamless and enriching experience.
+
+Why Choose This Tour?
+Your tour is valid for 1 year so that you can use it multiple times. Enjoy engaging audio stories and helpful navigation to make your journey stress-free.
+
+Note: This is not an entrance ticket. Please check site hours and guidelines before your visit.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/e5/75/7e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Mayan Ruins of Mexico: App-Based Self-Guided Walking Tour Bundle</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>482.62</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>482.62</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Mayan-Ruins-of-Mexico-Self-Guided-Walking-Tour-Bundle/d50526-148912P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6791438</latitude>
+				<longitude>-88.5683091</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>148912P10</code>
+			<title>Chichen Itza &amp; Ek Balam: App-Based Self-Guided Audio Tour Bundle</title>
+			<description>Travel deep into Chichen Itza and Ek Balam on this self-guided driving excursion. Explore El Castillo, the Temple of the Warriors, and The Red House. Discover The Church&amp;#39;s history, the Ceremonial Circular Steam Bath, and The Tomb. Your climax? Pyramid vista is stunning. For a flexible and immersive experience, navigate these hallowed locations with rich audio narration, brilliant pictures, and an easy map.
+
+After booking, check your email to download the separate Audio Tour Guide App by Action, enter your unique password, and access your tour. These steps require good internet/Wi-Fi access. From there, follow the audio instructions and the route.
+
+New, extra validity — now yours for an entire year! Use multiple times over multiple trips!
+
+This isn&amp;#39;t an entrance ticket. Check opening hours before your visit.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/47/8f/24.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Chichen Itza &amp; Ek Balam: App-Based Self-Guided Audio Tour Bundle</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.12</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.12</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Newport-Cliff-Walk-Self-Guided-Walking-Tour-Guide-Scenic-and-Historic-RI-GPS-App/d50526-148912P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6791438</latitude>
+				<longitude>-88.5683091</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>298748P6</code>
+			<title>Express Access and Chichen Tour</title>
+			<description>Chichén Itzá receives thousands of visitors every day, if you don&amp;#39;t go on a tour, buying access tickets becomes a heavy task and you can end up wasting a lot of time in line just to buy entrance tickets.
+
+So we offer you express access without lines, just pick up your ticket and enjoy the guided tours we have in the archaeological zone with guides certified by the tourism ministry and, most importantly, Mayan descendants.
+
+We are sure that this is the best way to get to know the area and understand why Kukulkan Castle is named a wonder of the world.
+
+Book today and we will take care of the tickets and the tour.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8e/55/1a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Express Access and Chichen Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1468.47</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1468.47</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Express-Access-and-Chichen-Tour/d50526-298748P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6791438</latitude>
+				<longitude>-88.5683091</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>25</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>342412P11</code>
+			<title>Guided Tour in Chichen Itza with Skip the Line Tickets</title>
+			<description>Discover the mysteries and wonders of Chichen Itza, one of the most iconic archaeological sites in the world. This early access guided tour (available daily) allows you to explore this majestic site with the knowledge of an expert native guide, ensuring a rich and informative experience. By entering at 8:00 a.m. site opening time, you will avoid crowding and heat, making your visit more comfortable and enjoyable. This SHARED guide service offers a personalized touch in small groups. If you are traveling alone or as a couple, you will have the opportunity to join other travelers. For families or those looking for a more PRIVATE experience, we offer a private guide option tailored to your needs. Remember that Chichen Itza is a fairly large Mayan city divided into 2 large squares and the sacred cenote. Avoid long lines at ticket offices by requesting your tickets at the time of booking, ensuring your smooth and hassle-free experience.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/28/e5/82.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Guided Tour in Chichen Itza with Skip the Line Tickets</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Chichen Itza, Riviera Maya &amp; the Yucatan</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>549.49</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>549.49</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Chichen-Itza/Guided-Tour-in-Chichen-Itza-with-Skip-the-Line-Tickets/d50526-342412P11</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.684284899999998</latitude>
+				<longitude>-88.5677826</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>true</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>true</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Chichen-Itza</Destination>
+	<FileName>Chichen-Itza_d50526-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:28:42</FileCreationDateTime>
+</ProductList>

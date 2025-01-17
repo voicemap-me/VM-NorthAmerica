@@ -1,0 +1,1852 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>50</totalCount>
+	<pages>3</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>170137P1</code>
+			<title>Lemp Haunted Neighborhood Walking Tour</title>
+			<description>Haunted city tours give travelers a different perspective than just a history tour, and this St. Louis Lemp Haunted Neighborhood Walking Tour goes beyond what history buffs would be interested in to appeal to those who love a spooky tale. You'll learn about the Lemp family, their mansion, their brewery, and the long-forgotten Marion Hospital from a paranormal investigator who lives for a little mystery.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/26/45/99.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Lemp Haunted Neighborhood Walking Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>230</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Private and Luxury</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>521.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Lemp-Haunted-Neighborhood-Walking-Tour/d24780-170137P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>45</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.5920552</latitude>
+				<longitude>-90.21839320000001</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>87115P62</code>
+			<title>Best of St. Louis Small Group Tour w/St Louis Arch &amp; River Cruise</title>
+			<description>Discover St. Louis, Missouri on this small-group tour through the city to see some of its top landmarks and attractions. Explore the St. Louis Arch, sail on a riverboat, walk through Gateway Arch National Park, and more with your guide to tell you the stories behind what you’re seeing. Enjoy a comprehensive introduction to the city and get your bearings.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/61/49/39.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Best of St. Louis Small Group Tour w/St Louis Arch &amp; River Cruise</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.4</exactScore>
+				<reviewCount>67</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Day Cruises</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3360.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3360.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Best-of-St-Louis-Small-Group-Tour-w-St-Louis-Arch-and-River-Cruise/d24780-87115P62</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6251269</latitude>
+				<longitude>-90.1867504</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>392290P1</code>
+			<title>St. Louis Narrated Trolley Tour</title>
+			<description>With centuries of history, great sports teams, and magnificent architecture, St. Louis has something to offer everyone. Get the perfect orientation to the city and decide what to do and see next during this narrated tour aboard a vehicle styled as a 19th-century trolley. See Forest Park, Union Station, the home of the Cardinals, the Cathedral Basilica of St. Louis, including the interior where schedules permit, and more.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/3e/9f/be.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. Louis Narrated Trolley Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.3</exactScore>
+				<reviewCount>277</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>579.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>579.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/First-thing-to-do-in-St-Louis-90-min-narrated-trolley-tour/d24780-392290P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.633787399999996</latitude>
+				<longitude>-90.1843548</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>272028P1</code>
+			<title>St. Louis Ghosts: Gateway Ghouls and Hauntings</title>
+			<description>Embark on a spine-chilling journey through St. Louis with our ghost tour, where history and hauntings intertwine in a thrilling adventure!
+
+Guided by a local expert in the supernatural, this tour leads you through a mile of the city&amp;#39;s most haunted and historic sites, each shrouded in eerie tales and ghostly encounters.
+
+As you wander the historic district, you’ll uncover haunting stories that linger in the shadows of iconic buildings, from the haunted Soldiers Memorial Military Museum, where fallen soldiers&amp;#39; spirits are said to roam, to the Stifel Theatre, known for its spectral performances. Washington Square Park and Kaufman Park also harbor their own ghostly legends and tragic histories that will give you chills.
+
+Though private buildings are off-limits, the paranormal energy of these locations will keep you on edge throughout the evening.
+
+Lace up your shoes, stay alert, and prepare for an unforgettable night of ghostly encounters in St. Louis!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/b1/60/21.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. Louis Ghosts: Gateway Ghouls and Hauntings</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>49</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>579.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>579.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/1-Hour-Haunted-Walking-Ghost-Tour-of-St-Louis/d24780-272028P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.629034399999995</latitude>
+				<longitude>-90.2000599</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>35</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>203594P2</code>
+			<title>KATY Self-Guided Tours 6-days from Clinton to St. Charles. #1 Tour on the Katy</title>
+			<description>240 miles long, Missouri’s Katy Trail has quickly become one of the state’s greatest adventures. On this tour, you’ll shuttle from St. Charles to Clinton—and the fun begins. Over the next six days, you’ll pedal across rural scenes, through winery towns and along the mighty river, sleeping in BnBs, stopping for wildlife, experiencing nature, and getting in the trek of a lifetime on the nation’s longest rail-trail.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/96/9b/54.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>KATY Self-Guided Tours 6-days from Clinton to St. Charles. #1 Tour on the Katy</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>41</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Dining Experiences</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42487.62</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42487.62</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/KATY-Self-Guided-Tours-from-2-6-days/d24780-203594P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>6</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>350679P1</code>
+			<title>True Crime Walking Tour in Soulard Neighborhood</title>
+			<description>Ideal for first-time visitors and history buffs, this St. Louis true crime walking tour gives you an introduction to St. Louis’ Soulard Neighborhood, known for its annual Mardi Gras celebrations, while diving deep into the area’s history. Revisit the days of armed bank robberies, voting riots, bloody duels, and prohibition gangsters while listening to stories from your guide as you pass by historic homes and Soulard Farmers Market.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/d2/1c/58.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>True Crime Walking Tour in Soulard Neighborhood</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>40</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>579.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>579.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/True-Crime-Walking-Tour/d24780-350679P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6081447</latitude>
+				<longitude>-90.2040573</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>30</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>21416P15</code>
+			<title>The Dinner Detective Murder Mystery Dinner Show - St. Louis, MO</title>
+			<description>This isn’t your average murder-mystery dinner theatre—here, the murderer could be sitting next to you. As you wine and dine on a chef-led meal, that night’s detectives uncover clues to a recent crime, questioning audience members about their involvement, tossing out jokes, a few accusations, and solving the “whodunit.” With actors staged as diners, it’s a delightful and delicious night out, especially if your party comes under the spotlight!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/77/ca/06.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>The Dinner Detective Murder Mystery Dinner Show - St. Louis, MO</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>19</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Dining Experiences</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1708</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1708</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/The-Dinner-Detective-Murder-Mystery-Dinner-Show-St-Louis/d24780-21416P15</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.634196100000004</latitude>
+				<longitude>-90.40716599999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>430549P1</code>
+			<title>Private Gastronomy Tour (BBQ Joints &amp; Breweries) in St. Louis</title>
+			<description>Join Wayne for a tour through St. Louis&amp;#39;s historic food and drink scene past and present. We will be visiting a curated group of three to four local breweries based from guest input, and of course beer/bbq style matching.
+
+Wether it is the boutique single barrel brewery experience of Side Project Brewing or the million barrel plus brew house of the Anheuser-Busch campus, guest will be entrenched in brewery history, tasty brews, and delicious St. Louis barbecue.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/d8/32/3c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Gastronomy Tour (BBQ Joints &amp; Breweries) in St. Louis</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>16</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2491.32</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2491.32</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Barbecue-and-Brews-in-The-Lou/d24780-430549P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.627002499999996</latitude>
+				<longitude>-90.19940419999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>87115P63</code>
+			<title>St. Louis Arch and River Cruise Small Group Walking Tour</title>
+			<description>Discover the heart of St. Louis with our Best of St. Louis Walking Tour, a captivating journey through the city&amp;#39;s iconic landmarks and rich history. Start your adventure at the historic Basilica of Saint Louis, King of France, where our friendly guide will greet you.
+
+Ascend the world-famous St. Louis Arch for breathtaking 360-degree views of the city. Then, embark on a leisurely walk past legendary sites such as Busch Stadium, City Hall, the National Blues Museum, Magnolia Hotel, Federal Reserve Bank, Civil Courts, Wainwright Building, and the serene Sculpture Park (City Garden). Our expert guide will provide captivating insights into each stop.
+
+The adventure finishes with a Gateway Riverboat Cruise, offering a unique vantage point of the Gateway Arch, the Mississippi River, and the city skyline. Our crew will enhance the experience with informative commentary.
+
+Immerse yourself in the best of St. Louis, blending history and modern charm. Book your tour today for day of exploration.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/61/49/27.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. Louis Arch and River Cruise Small Group Walking Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>30</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2781.01</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2781.01</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/St-Louis-Small-Group-Walking-Tour-w-St-Louis-Arch-and-River-Cruise/d24780-87115P63</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.624114899999995</latitude>
+				<longitude>-90.18714740000001</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>87115P184</code>
+			<title>St. Louis Arch Walking Tour and Entrance Ticket</title>
+			<description>Welcome to the Gateway Arch VIP Experience, where history, architecture, and breathtaking views converge.
+
+The tour begins behind the historic Old Courthouse at Kiener Plaza, where your knowledgeable guide will introduce you to the site of the famous Dred Scott case. 
+
+As you embark on tram ride to the top of the Arch, your guide will share fascinating stories about its construction and design. 
+Upon reaching the observation deck, you&amp;#39;ll be greeted with panoramic vistas of St. Louis and the Mississippi River. 
+
+The tour concludes with a visit to the Museum at the Gateway Arch, where interactive exhibits delve deeper into America’s westward expansion, the construction of the Arch, and the people who made it possible. 
+
+This engaging and educational finale provides a perfect end to your journey, leaving you with a deeper understanding and appreciation of this monumental symbol of American history.
+
+Join us for the Gateway Arch VIP Tour and make memories that will last a lifetime.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/2c/66/f4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. Louis Arch Walking Tour and Entrance Ticket</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.4</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>965.43</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>965.43</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/St-Louis-Arch-Walking-Tour-and-Entrance-Ticket/d24780-87115P184</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6262337</latitude>
+				<longitude>-90.189694</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>397971P1</code>
+			<title>Bullets &amp; BBQ at Indoor Shooting Range in St. Louis County</title>
+			<description>Sharpshooters Indoor Gun Range is the ultimate shooting experience, offering comfort, convenience and excitement for everyone – from the beginner to the expert. Sharpshooters offers 20 indoor lanes, for education, training and practice opportunities. Our superior ventilation and air filtration in a comfortable, spotless environment. Each range lane has ballistic-rated shooting stalls for your safety, with plenty of elbow room and Range Safety Officers monitoring all lanes. Bring your own firearm or use one of our firearms from a large selection of brands and calibers at our indoor shooting range.
+
+Before or after your time in the range, savor mouth-watering St. Louis-style barbeque that is smoked fresh daily. We serve our &amp;#34;Bang Good BBQ&amp;#34; in our Grill, outside deck, private party or training rooms.
+
+We are considered a Five Star Range and brag about friendly &amp;amp; well trained credentialed staff. Welcome phone calls with questions to feel comfortable shooting alone or with a group.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/5c/d4/7c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Bullets &amp; BBQ at Indoor Shooting Range in St. Louis County</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>8</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Dining Experiences</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3379.7</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3379.7</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/BBQ-and-Bullets-at-Indoor-Shooting-Range/d24780-397971P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.5603639</latitude>
+				<longitude>-90.30133269999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>40</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>209615P75</code>
+			<title>Walking Tour of the Saint Louis Fascinating History</title>
+			<description>Book this private tour of St. Louis, where you’ll have a guide all to yourself, and won’t need to stick with any large groups. You’ll visit St. Louis’s highlights, plus find some more secret places you wouldn’t find on a self-guided tour. Check out the Gateway Arch, Basilica of St. Louis, the Wainwright Building, and much more. Feel free to customize this tour, since it is just for you and your private group.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/01/ef/cd.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Walking Tour of the Saint Louis Fascinating History</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>5</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3282.17</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3282.17</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/The-best-of-Saint-Louis-walking-tour/d24780-209615P75</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6251269</latitude>
+				<longitude>-90.1867504</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>71752P5</code>
+			<title>The Haunted Lemp Brewery Bottle Works Tour</title>
+			<description>After the collapse of the Lemp Brewing Empire, the Lemp Brewery lived on and became the largest shoe manufacturing plant in the world. Sold at auction to the International Shoe Company for 1/20th its value, the brewery remained a major industrial complex until it was forced to shut down due to the construction of Interstate 55. 
+
+For the next 30 years, the brewery and its dark recesses sat quietly and were nearly forgotten until it was sold again in 1993. Even today, some underground tunnels and basements are still waiting to be rediscovered. 
+
+During this tour, you will learn of the horrific events that occurred in the Lemp Brewery Bottle Works during these 30 years of silence. Explore the very areas and follow in the footsteps of the victims of these horrors who unfortunately met their fates in the Haunted Lemp Brewery Bottle Works.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/45/be/d9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>The Haunted Lemp Brewery Bottle Works Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>482.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>482.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/The-Haunted-Lemp-Brewery-Bottle-Works-Tour/d24780-71752P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>15</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.5920552</latitude>
+				<longitude>-90.21839320000001</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>430198P23</code>
+			<title>Outdoor Escape Room in St. Louis - Downtown</title>
+			<description>An immersive clue-solving adventure around downtown St. Louis. Search for real-world clues, solve puzzles, and discover the neighborhood with an experience you&amp;#39;ll never forget!
+
+Reschedule anytime with no fees.
+
+It&amp;#39;s a scavenger hunt, escape room, and urban crawl all-in-one. Follow the storyline around town as you find clues and use them to crack codes. Then enter solutions on the app to find out where to go next. Clues can be anywhere - murals, statues, landmarks, and more!
+
+Plan on about two hours of playtime, depending on your experience level and how much time you spend exploring along the way. Difficulty level is adjustable - take as many or as few hints as you’d like!
+
+IMPORTANT: For same-day pickup, you must be able to pick up the clue kit by 2pm (can be picked up days in advance).
+
+Bookings made a week or more in advance receive their kit in the mail. Last-minute bookings pick up their kit at the start point - exact pickup location is sent after booking.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/64/1f/64.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Outdoor Escape Room in St. Louis - Downtown</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Outdoor-Escape-Room-in-St-Louis-Downtown/d24780-430198P23</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6266074</latitude>
+				<longitude>-90.19165009999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>380793P20</code>
+			<title>St Louis Cardinals Baseball Game Ticket at Busch Stadium</title>
+			<description>Watching the St Louis Cardinals play a Major League Baseball game live at Busch Stadium is an unforgettable experience. As one of the most storied franchises in MLB, Busch Stadium provides visitors with amazing views of the field from virtually anywhere in the stadium. Whether you&amp;#39;re looking for a great spot to watch the game or a place to enjoy some food and drinks, there&amp;#39;s something for everyone. Aside from being able to watch some of the greatest players in baseball take the field, fans also have access to unique souvenirs that can be purchased only at Busch Stadium. With its classic design, incredible amenities, and unbeatable atmosphere, anyone will love watching America&amp;#39;s pastime at Busch Stadium!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/7a/55/ce.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St Louis Cardinals Baseball Game Ticket at Busch Stadium</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Sporting Events</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1342.9</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1342.9</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/St-Louis-Cardinals-Baseball-Game-Ticket-at-Busch-Stadium/d24780-380793P20</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.62262</latitude>
+				<longitude>-90.19283</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>342254P1</code>
+			<title>Missouri Private Party Bike Tour</title>
+			<description>Ride your way through the streets of St. Louis on the Cycle Saloon, a 14-passenger party bike, or as some people say, barcycle or beer bike, where your legs act as the horse&amp;#34;pedal&amp;#34;. Perfect for bachelor/bachelorette parties, birthday parties and team outings.
+
+The Cycle Saloon operates tours in Soulard</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/5a/f7/69.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Missouri Private Party Bike Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7705.71</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7705.71</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>14</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Party-Bike-Tours/d24780-342254P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6013243</latitude>
+				<longitude>-90.21005749999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>117890P1</code>
+			<title>Private Photoshoot St Louis</title>
+			<description>This is a great experience for solo or couples travellers as well as a group of friends or families. It is a great way to keep beautiful memories of your vacation.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/45/55/93.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Photoshoot St Louis</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Photography Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2510.63</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2510.63</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Private-Photoshoot-St-Louis/d24780-117890P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6256744</latitude>
+				<longitude>-90.18927389999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>2</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>259665P37</code>
+			<title>Saint Louis Self Guided Driving and Walking Audio Tour</title>
+			<description>Explore the Gateway to the West with this self-guided driving and walking tour of St. Louis! First, you’ll stroll through Gateway Arch National Park, take in amazing views of the arch and the Mississippi River, and learn all about the rich history of this monument and the lush park surrounding it. Then you’ll take a drive through downtown St. Louis to Forest Park, a sprawling green space featuring museums, a zoo, and more land than New York’s Central Park!
+
+Purchase one tour per car, not per person. Everyone listens together!
+
+After booking, you can check your email before downloading the Tour Guide App by Action, entering your unique password, and accessing your tour. The preceding steps require good internet/Wi-Fi access. Simply follow the audio instructions and the route from there.
+
+New, extra validity — now, it’s yours for an entire year! Use multiple times over multiple trips!
+
+This is not an entrance ticket to attractions along the route. Check opening hours before your visit.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/ca/5a/71.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Saint Louis Self Guided Driving and Walking Audio Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.12</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.12</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/St-Louis/St-Louis-Self-Guided-Driving-and-Walking-Audio-Tour/d24780-259665P37</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6267727</latitude>
+				<longitude>-90.19191699999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>430549P3</code>
+			<title>Private Day Trip to Missouri Wine Country</title>
+			<description>We have been providing private hospitality services in the St. Louis region since 2005. We are very knowledgable on the area, attractions, dining, and social scenes.
+
+We create personalized experiences based on guest input and host expertise. The entire excursion is customizable to the needs of our guests. Get ready for fun, hospitality, and delicious MO wines and craft beers!
+
+This experience is perfect for a couples getaway or a group of friends wanting to explore the country&amp;#39;s first American Viticultural Area.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/26/aa/47.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Day Trip to Missouri Wine Country</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8594.09</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8594.09</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Day-Trip-to-Missouri-Wine-Country/d24780-430549P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.5829728</latitude>
+				<longitude>-90.9364344</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>380793P8</code>
+			<title>St. Louis Blues Ice Hockey Game Ticket at Enterprise Center</title>
+			<description>Seeing the St. Louis Blues live at the Enterprise Center is an exhilarating experience that blends passionate hockey with the rich cultural heritage of the Gateway City. The Blues have a storied history, dating back to 1967, reaching their peak with a heart-stopping Stanley Cup victory in 2019. Blues fans are some of the most loyal in all of US sports and they truly create an atmosphere unlike any other in the NHL!
+
+The Enterprise Center is an iconic venue in the NHL. Recently renovated, the arena features cutting-edge technology and outstanding acoustics that make the atmosphere electric. You’ll be surrounded by vibrant displays of Blues history, and the massive scoreboard ensures you won&amp;#39;t miss a moment of the action.
+
+With the thrilling combination of skilful hockey, a top-notch venue, and the vibrant energy of Blues fans, experiencing a game at the Enterprise Center is more than just a night out; it’s an opportunity to experience St. Louis and create unforgettable memories!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/7d/ce/e0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. Louis Blues Ice Hockey Game Ticket at Enterprise Center</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Sporting Event Tickets &amp; Passes </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>491.6</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>491.6</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/St-Louis-Blues-NHL-Game-Ticket-at-Enterprise-Center/d24780-380793P8</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.62684</latitude>
+				<longitude>-90.202675</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>426560P1</code>
+			<title>STL Royal Limousine &amp; Black Car Service. STL Airport Dropped off</title>
+			<description>Experience the epitome of luxury and convenience with Royal Limo. Our top-notch transportation services in St. Louis and surrounding counties are perfect for any occasion. From special events to everyday travel, we offer affordable rates and a fleet of luxurious cars.
+Our team of professional drivers are highly experienced and well-trained, ensuring a smooth ride wherever you go. Our easy-to-use online booking system allows you to book a car hire service quickly and conveniently at any time.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/ac/fd/25.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>STL Royal Limousine &amp; Black Car Service. STL Airport Dropped off</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2587.88</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2587.88</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Limousine-Service-in-St-Louis-MO/d24780-426560P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>1</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>40</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>439949P22</code>
+			<title>Sushi Making Class for Beginners in St Louis</title>
+			<description>Embark on a sushi-making adventure with Chef Legina in this exciting and educational cooking class. Learn to craft two iconic sushi rolls: a savory salmon roll filled with creamy avocado and tender salmon, and a crispy shrimp tempura roll that adds a delightful crunch to every bite. Chef Legina’s expert guidance will ensure you master the techniques needed to create restaurant-quality sushi in your own kitchen. Whether you&amp;#39;re a beginner or looking to elevate your skills, this class will provide you with the foundation to roll like a pro. Vegan options are available, so everyone can enjoy the fun of sushi-making! Get ready to roll up your sleeves and indulge in a sushi experience like no other.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/20/21/b1.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Sushi Making Class for Beginners in St Louis</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Dining Experiences</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/Sushi-Making-Class-for-Beginners-in-St-Louis/d24780-439949P22</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6478138</latitude>
+				<longitude>-90.2592485</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>25</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>430549P5</code>
+			<title>Private Tour of The Hill, The "Little Italy" of Saint Louis</title>
+			<description>We have been providing hospitality and transportation services in Saint Louis since 2005. Our rich history in hospitality makes for a tour with a one of a kind experience and insight into The Hill.
+
+Our passion for history, food, drink, and fun will make for a fun and exciting tour that provides a great &amp;#34;live like a local&amp;#34; experience.
+
+Benvenuto in Collina!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/58/97/e1.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Tour of The Hill, The "Little Italy" of Saint Louis</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2414.07</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2414.07</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/A-Taste-and-Tour-of-The-Hill-The-Little-Italy-of-Saint-Louis/d24780-430549P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.610889</latitude>
+				<longitude>-90.2725892</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>209615P225</code>
+			<title>St. Louis Food Adventure Tour</title>
+			<description>Embark on the “St. Louis Food Adventure Tour,” a journey designed to delight your palate and showcase the city’s rich gastronomic and cultural tapestry. Begin your adventure at 11 N 4th St, diving into the heart of downtown where every corner offers a new taste—from local specialties to international delicacies. As you meander towards Citygarden Sculpture Park, enjoy artisan snacks amidst stunning sculptures and lively fountains, blending art with the art of eating. Conclude your experience in the serene Washington Square Park, where gourmet bites meet the tranquillity of nature. This tour isn’t just a tasting; it’s an intimate exploration of St. Louis’s vibrant culinary scene, tailored just for you. Join us to transform an ordinary day into an extraordinary discovery of flavors and sights!
+
+Please note: The program and attractions may vary based on booking date/time and crowd conditions, ensuring each visit is a unique experience.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/5c/73/40.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>St. Louis Food Adventure Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>St Louis, Missouri</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5191.8</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5191.8</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/St-Louis/St-Louis-Food-Adventure-Tour/d24780-209615P225</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.6256744</latitude>
+				<longitude>-90.18927389999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isBestConversion>false</isBestConversion>
+				<isExcellent>false</isExcellent>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>St-Louis</Destination>
+	<FileName>St-Louis_d24780-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:44:16</FileCreationDateTime>
+</ProductList>

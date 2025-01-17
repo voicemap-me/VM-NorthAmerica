@@ -1,0 +1,1955 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>28</totalCount>
+	<pages>2</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>6442TUNDRA</code>
+			<title>Classic 5 Night Churchill Polar Bear Adventure</title>
+			<description>Experience polar bears in their natural habitat on an incredible 5-night tour into the Canadian wild. Fly from Winnipeg to the remote town of Churchill, your Hudson Bay base. While here pay visit to the local Itsanitaq Museum, go dog-sledding and enjoy multiple polar bear-viewing adventures. Set out in a specially-designed tundra buggy to witness these magnificent creatures feed and frolic and to learn about their daily lives, as well as ways climate change is affecting them. Keep an eye out for foxes, ptarmigans and snowy owls as well.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/c9/58/be.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Classic 5 Night Churchill Polar Bear Adventure</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>56</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>125397.41</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>125397.41</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/5-Night-Churchill-Tour-and-Polar-Bear-Adventure-from-Winnipeg/d50494-6442TUNDRA</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>6</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.904023599999995</latitude>
+				<longitude>-97.2255917</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>22</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>350736P2</code>
+			<title>Private City Tour in Winnipeg</title>
+			<description>Discover the best that Winnipeg has to offer on this guided sightseeing tour. With a private guide, drive around to find the top attractions of the city such as The Forks Market, the French-speaking community of Saint Boniface, Old Market Square, and the Winnipeg Railway Museum. While you explore, your guide provides information on the history of the capital of Manitoba.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/27/1c/a2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private City Tour in Winnipeg</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.4</exactScore>
+				<reviewCount>28</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>853.77</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>853.77</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Wonderful-Winnipeg-City-Tour/d50494-350736P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8881447</latitude>
+				<longitude>-97.13147</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P16</code>
+			<title>The Forks Historic Site: a Smartphone Audio Tour</title>
+			<description>Listen to a tour guide through your smartphone as you explore the incredible Forks!
+
+You&amp;#39;ll see &amp;amp; hear about many historical buildings, statues, people, museums &amp;amp; parks that make up this thousand-year old heart of Winnipeg!
+
+Highlights from the first indigenous people to fur traders to new features of today including Shaw Park, Esplanade Riel, Johnston Terminal, Niizhoziibean &amp;amp; the iconic Red River!
+
+GPS map shows where you are and where to go next. As you get close, tour guide commentary will automatically play. 
+
+The tour also comes with a fun location based trivia game. After the commentary plays, look at your device and tap your answer. 
+
+Keep the professional tour guide experience, ditch the crowded tour groups, tight schedules and high prices. 
+
+Enjoy anytime, not just on your booking date. Stop &amp;amp; start anywhere along route.
+
+The number of travelers you select is the number of devices you can download the tour to.
+
+Trust the platform with over 75 tours &amp;amp; 17,000&amp;#43; happy customers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/20/9a/ad.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>The Forks Historic Site: a Smartphone Audio Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/The-Forks-a-GPS-Guided-Audio-Walking-Tour/d50494-214606P16</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8874252</latitude>
+				<longitude>-97.13177979999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>350736P4</code>
+			<title>Louis Riel &amp; Red River Metis Trails Tour</title>
+			<description>Louis Riel and Red River Metis Trails is exclusively Manitoba&amp;#39;s History. I, myself being Metis of Manitoba and Red River metis, this is 100% metis Cultural Experience, hear the tails of rebellion and how Louis changed the Course of Manitoba and Rupertland now know as Winnipeg,Manitoba.
+Louis Riel was regarded the father of Manitoba Rights into Confederation of Canada and the Red River Metis.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/5c/a2/29.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Louis Riel &amp; Red River Metis Trails Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1300.35</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1300.35</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Louis-Riel-and-Red-River-Metis-Trails-Tour/d50494-350736P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8875712</latitude>
+				<longitude>-97.1304313</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P48</code>
+			<title>Winnipeg's Most Haunted: a Smartphone Audio Ghost Tour</title>
+			<description>Discover Winnipeg’s most haunted locations while listening to an audio tour when you book this ghost tour. Download the tour on your smartphone and walk around to the city’s spookiest places such as Burton Cummings Theatre, the Masonic Temple, Vaughan Street Jail, and the Demon Hotel. The GPS map shows you where to go and automatically plays commentary when you reach a destination.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/16/c8/71.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Winnipeg's Most Haunted: a Smartphone Audio Ghost Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Audio Guides</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Haunted-Winnipeg-GPS-Guided-Audio-Walking-Tour/d50494-214606P48</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8874252</latitude>
+				<longitude>-97.13177979999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>104204P149</code>
+			<title>Self-Guided Winnipeg Scavenger Hunt: At The Heart of Canada</title>
+			<description>Escape the stuffy museums and galleries on a scavenger hunt adventure through Winnipeg. With stops that highlight the city’s history and culture, find clues and solve challenges to discover your next destination. The perfect activity for a group of friends or a family bonding day as you uncover trivia about landmarks like Saint Boniface Cathedral and the Manitoba Legislative Building.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/25/cf/84.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Self-Guided Winnipeg Scavenger Hunt: At The Heart of Canada</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.6</exactScore>
+				<reviewCount>5</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>237.74</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>237.74</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Wacky-Lets-Roam-Winnipeg-Scavenger-Hunt-At-The-Heart-of-Canada/d50494-104204P149</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8828301</latitude>
+				<longitude>-97.1498953</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1893</code>
+			<title>Winnipeg Airport (YWG) to Winnipeg accomodation - Round-Trip Private Transfer</title>
+			<description>Book your Private Round-Trip Transfer from Winnipeg Airport (YWG) to Winnipeg hotel or address and return.
+
+Don&amp;#39;t go through all the hassle of waiting in a long taxi or shared shuttles queues and use our private, door to door airport transfer.
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+• Meeting with a Nameplate
+• We track your Flight
+• Door-to-door Service
+• No Hidden Charges
+• Clean cars &amp;amp; Professional drivers</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/7d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Winnipeg Airport (YWG) to Winnipeg accomodation - Round-Trip Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4614.93</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4614.93</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Winnipeg-Airport-YWG-to-Winnipeg-accomodation-Round-Trip-Private-Transfer/d50494-128285P1893</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.909743999999996</latitude>
+				<longitude>-97.2363915</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>380793P5</code>
+			<title>Winnipeg Jets Ice Hockey Game Ticket at Canada Life Center</title>
+			<description>Experience the thrill of professional ice hockey by attending a Winnipeg Jets game at the electric Canada Life Center. The Jets have quickly built a passionate fan base that embodies the spirit of Winnipeg and showcases the heart and soul of Canadian hockey culture.
+
+Live in the moment and feel the incredible atmosphere created by Jets fans as they rally behind their team. Known for their loyalty, passion and fervour, Jets fans create one of the most infectious atmospheres in the NHL. Marvel at the speed, skill, and physicality of the players as they compete on the ice, delivering thrilling goals, bone-crushing hits, and spectacular saves. A truly unforgettable experience for all!
+
+Whether you&amp;#39;re a die-hard hockey fan or simply looking to immerse yourself in the excitement of a live sports event, attending a Winnipeg Jets game at Canada Life Center promises an unforgettable experience that captures the essence of NHL hockey and the unwavering passion of Winnipeg’s dedicated fanbase.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/28/b4/35.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Winnipeg Jets Ice Hockey Game Ticket at Canada Life Center</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Sporting Event Tickets &amp; Passes </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>695.43</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>695.43</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Winnipeg-Jets-Ice-Hockey-Game-Ticket-at-Canada-Life-Center/d50494-380793P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.89265</latitude>
+				<longitude>-97.14375</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>63661P10</code>
+			<title>Winnipeg Like a Local: Customized Private Tour</title>
+			<description>Join a Lokafyer guide in Winnipeg and explore the city with a local. Connect with your Lokafyer guide by phone or chat beforehand to discuss your interests and customize the experience. Forget outdated sightseeing tours and enjoy a new concept in travel that’s like having a friend show you around Winnipeg.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/be/9f/32.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Winnipeg Like a Local: Customized Private Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.7</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>722.42</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>722.42</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Winnipeg-Like-a-Local-Customized-Private-Tour/d50494-63661P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.88447499999999</latitude>
+				<longitude>-97.14638289999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P32</code>
+			<title>Winnipeg's Wealthy Beginnings: a Smartphone Audio Walking Tour</title>
+			<description>The tour comes to you on this downloadable audio tour through Winnipeg. Skip the bustle of a group walking tour and wander at leisure—stop and start anywhere along the route, and focus on your interests, as you hear historical anecdotes and get to answer fun trivia questions. Discover historical buildings, such as the Manitoba Club and the Fort Gary Hotel, and come any time—the dates are flexible.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/16/cc/bc.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Winnipeg's Wealthy Beginnings: a Smartphone Audio Walking Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>3</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Audio Guides</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Winnipegs-Wealthy-Beginnings-Audio-Walking-Tour/d50494-214606P32</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8908664</latitude>
+				<longitude>-97.150886</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>350736P3</code>
+			<title>Private Transfer from Winnipeg Airport to Winnipeg Accommodation</title>
+			<description>Home Grown Indigenous Winnipeg Raised Winnipegger with a Wealth Of Knowledge of WInnipeg.
+On your journey to and from the Hotel or Airport learn some rich history of Winnipeg along the 
+way. 
+
+Private Driver Services available</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/07/d4/9d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Transfer from Winnipeg Airport to Winnipeg Accommodation</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>656.74</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>656.74</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Winnipeg-Airport-to-Winnipeg-Accommodation-Private-Transfer/d50494-350736P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>20</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>30</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>2</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>153829P10</code>
+			<title>Explore The Challenge of Moderninity with Walking Tours in Winnipeg, MB</title>
+			<description>On This Spot takes people on guided walking tours through the history that surrounds them. Our unique then-and-now photos ignite people’s curiosity, while comprehensive walking tours examine a limitless range of historical themes. 
+
+On This Spot makes history engaging, educational, and accessible to anyone with a mobile device. Join us for a guided tour through Winnipeg&amp;#39;s most historic sights.
+
+Winnipeg grew up around the gathering place at the Forks between the Red and Assiniboine Rivers. When Manitoba joined Confederation in 1870 it sparked a tremendous population boom that lasted until the early 20th Century and made Winnipeg the first city of the Canadian prairies. Winnipeg is a city with an exciting history of rebellion, reform, commerce, and culture. The city is host to dozens of fascinating historic buildings.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/29/27/f0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Explore The Challenge of Moderninity with Walking Tours in Winnipeg, MB</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>118.08</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>118.08</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>5</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Winnipeg-The-Challenge-of-Moderninity/d50494-153829P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8980641</latitude>
+				<longitude>-97.14289</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>5</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P45</code>
+			<title>Winnipeg in the Limelight: a Smartphone Audio Walking Tour</title>
+			<description>Listen to a tour guide through your smartphone as you explore Winnipeg&amp;#39;s old theatre district.
+
+On this easy to walk 2.5 km (one way) tour, you&amp;#39;ll explore theatres, film sets and historical buildings that make up the theatrical section of the city.
+
+Highlights include the Burton Cummins Theatre, Old Market Square and the Pantages Theatre. Don&amp;#39;t just see the theatre district, hear what it has to say!
+
+GPS map shows where you are and where to go next. As you get close, tour guide commentary will automatically play.
+
+The tour also comes with a fun location based trivia game. After the commentary plays, look at your device and tap your answer.
+
+Keep the professional tour guide experience, ditch the crowded tour groups, tight schedules and high prices.
+
+Enjoy anytime, not just on your booking date. Stop &amp;amp; start anywhere along route.
+
+The number of travelers you select is the number of devices you can download the tour to. 
+
+Trust the platform with over 75 tours &amp;amp; 17,000&amp;#43; happy customers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/16/ce/ee.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Winnipeg in the Limelight: a Smartphone Audio Walking Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Winnipeg-In-the-Limelight-GPS-Guided-Audio-Walking-Tour/d50494-214606P45</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.893102</latitude>
+				<longitude>-97.1429565</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>131112P227</code>
+			<title>Winnipeg One way Private transfer from/to the Airport</title>
+			<description>Book a hassle-free private transfer from/to Winnipeg International Airport and Winnipeg. Ensure Pick-up from the airport with up to 60 minutes of waiting time included in case of delays. Drop off or pick up in Winnipeg. 
+
+* Our drivers can track your flight, so they can be on time for your airport pick-up/drop-off. 
+
+*24/7 Help Center for any changes/updates to your ride 
+
+*Cancel at least 24 hours prior to your service and get a full refund 
+
+*Wide array of vehicles according to your needs 
+
+*All-inclusive fare</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/1c/88/6a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Winnipeg One way Private transfer from/to the Airport</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3862.51</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3862.51</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>3</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Winnipeg-One-way-transfer-from-to-the-Airport/d50494-131112P227</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>18</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>40</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P18</code>
+			<title>Walk Downtown Winnipeg: 4 Unique Smartphone Audio Walking Tours</title>
+			<description>Listen to a tour guide through your smartphone as you explore 4 exciting walking tours in Downtown Winnipeg! Over 100 points of interest! Don&amp;#39;t just see Winnipeg, hear what it has to say!
+
+- Winnipeg&amp;#39;s Wealthy Beginnings
+- Winnipeg in the Limelight
+- The Fork&amp;#39;s Historic Site
+- Winnipeg&amp;#39;s Most Haunted
+
+You do not have to complete all the tours in one day. The tours are yours to use any date or time. 
+
+The tours also come with a fun location based trivia game. After the commentary plays, look at your device &amp;amp; tap your guess of the answer. See your score as you go.
+
+Keep the professional tour guide experience, ditch crowded tour groups, tight schedules &amp;amp; high prices. Live GPS map shows where you are &amp;amp; where to go next. As you get close, tour guide commentary will automatically play! 
+
+The number of travelers you select is the number of devices you can download the tour to.
+
+Trust the platform with over 75 tours &amp;amp; 17,000&amp;#43; happy customers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8e/5f/bf.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Walk Downtown Winnipeg: 4 Unique Smartphone Audio Walking Tours</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.24</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.24</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Self-Guided-Audio-Driving-Tour-b-w-Sunshine-Village-and-Calgary/d50494-214606P18</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8910115</latitude>
+				<longitude>-97.150977</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>137238P39</code>
+			<title>Explore Winnipeg with a Unique Scavenger Hunt by Zombie Scavengers</title>
+			<description>Zombie Scavengers in Winnipeg challenges your team to survive a zombie apocalypse! The game instructs you to find a variety of items to survive the apocalypse anywhere in the city you&amp;#39;d like via an app. Get points for finding survival items (in any order you want) and participating in exciting zombie themed tasks. Plan your survival adventure carefully in order to get the most points to survive! A remote host will be following along (virtually) and help if you need it via chat. Come survive with us in Winnipeg today!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f9/71/b3.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Explore Winnipeg with a Unique Scavenger Hunt by Zombie Scavengers</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>367.78</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>367.78</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>10</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Zombie-Scavengers-Game-Winnipeg-MB/d50494-137238P39</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8985</latitude>
+				<longitude>-97.13992999999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>350736P5</code>
+			<title>The Indigenous Residential School Museum Private Tour</title>
+			<description>We will visit the National Indigenous Residential School Museum of Canada located on Long Plains First Nation Manitoba. The museum is a &amp;#34;a place where people can learn, share, heal and move forward with a greater understanding of the forces that shaped and forever changed multiple generations of First Nations People&amp;#34;.
+
+The Indigenous Residential School Tour meets in front of the Forks Market in what is known today as Winnipeg. Winnipeg in the Cree Language means &amp;#34;Muddy Waters &amp;#34;.
+
+*This tour may cause strong emotions in visitors.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/87/0a/e0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>The Indigenous Residential School Museum Private Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1444.83</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1444.83</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/The-Indigenous-Residential-School-Museum-Tour-Experience/d50494-350736P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8881447</latitude>
+				<longitude>-97.13147</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P62</code>
+			<title>Discover Assiniboine Park with a Smartphone Audio Tour</title>
+			<description>Explore the urban oasis of Assiniboine Park with this self-guided smartphone audio tour. Wander through highlights like the Streuber Family Children's Garden, The Pavilion, Lyric Theatre, Steam Locomotive 6043, and The Leo Mol Sculpture Garden. Learn about the park's dedication to conservation and wildlife and enjoy the flexibility to start and stop anywhere along the route, with GPS-guided navigation.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/20/95/78.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Discover Assiniboine Park with a Smartphone Audio Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Assiniboine-Park-GPS-Guided-Audio-Walking-Tour/d50494-214606P62</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8618731</latitude>
+				<longitude>-97.24565880000002</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>143641P4</code>
+			<title>Fun City Scavenger Hunt in Winnipeg by Wacky Walks</title>
+			<description>Walk around Winnipeg while completing the Wacky Walks scavenger hunt. Use an app to find a list of objects around the city and participate in fun challenges for points. Collect points and take a look at your score compared to others around the country! All our Scavenger hunts have a live remote host to help along the way. Come out and explore with us in Winnipeg.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/ee/2a/40.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fun City Scavenger Hunt in Winnipeg by Wacky Walks</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.89</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.89</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Wacky-Walk-Adventure-Game-Winnipeg-MB/d50494-143641P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8985</latitude>
+				<longitude>-97.13992999999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P90</code>
+			<title>Wonderful Winnipeg:3 Unique Smartphone Audio Guided Walking Tours</title>
+			<description>Listen to a tour guide through your smartphone as you explore 3 unique tours in Wonderful Winnipeg! Over 100 points of interest!
+
+- Sights of South Winnipeg Driving Tour
+- Discover Assiniboine Park &amp;amp; Manitoba Legislative Grounds Walking Tours
+
+Don&amp;#39;t just see Winnipeg, hear what it has to say!
+
+You do not have to complete all the tours in one day as the tours are yours to use any date or time. 
+
+The tours also come with a fun location based trivia game. After the commentary, look at your device &amp;amp; tap your guess at the answer. See your score as you go!
+
+Keep the professional tour guide experience, ditch crowded tour groups, tight schedules &amp;amp; high prices. GPS map shows where you are &amp;amp; where to go next. As you get close, tour guide commentary will automatically play! 
+
+Getting started is easy - book the tour, download the app &amp;amp; go. The number of travelers you select is the number of devices you can download the tour to.
+
+ Trust the platform with over 75 tours &amp;amp; 17,000&amp;#43; happy customers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/78/36/0e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Wonderful Winnipeg:3 Unique Smartphone Audio Guided Walking Tours</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>236.3</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>236.3</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Wonderful-Winnipeg-3-Unique-Smartphone-Audio-Walking-Tours/d50494-214606P90</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8017725</latitude>
+				<longitude>-97.1568733</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>138495P102</code>
+			<title>Unique Scavenger Hunt Experience in Winnipeg by Operation City Quest</title>
+			<description>Get to know the city of Winnipeg as you compete in an exciting scavenger hunt challenge with your friends! Explore the city on foot, stopping at various spots in the city to snap photos or complete a challenge on your checklist. During the scavenger hunt, you’ll use an app (smartphone required) with a remote host who can help with any questions. Get ready to laugh and climb the leaderboard as you discover Winnipeg.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/9d/3d/ce.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Unique Scavenger Hunt Experience in Winnipeg by Operation City Quest</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.89</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.89</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Operation-City-Quest-Scavenger-Hunt-Winnipeg-MB/d50494-138495P102</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8985</latitude>
+				<longitude>-97.13992999999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>142771P70</code>
+			<title>Adventurous Scavenger Hunt in Winnipeg by Crazy Dash</title>
+			<description>With Crazy Dash, you&amp;#39;ll use an app to explore Winnipeg in this exciting scavenger hunt! Use an app to find things around the city in any order you want, take photos, and collect points. At the end, take a look at the rankings to see your score compared to others across the country. All scavenger hunts have a live remote host that will help via chat. Crazy Dash is our most easy-going scavenger hunt. Come join us in Winnipeg today!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/eb/db/07.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Adventurous Scavenger Hunt in Winnipeg by Crazy Dash</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.89</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>183.89</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Crazy-Dash-Walking-Adventure-Winnipeg-MB/d50494-142771P70</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.8984015</latitude>
+				<longitude>-97.1405281</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P44</code>
+			<title>Manitoba Legislative Grounds: a Smartphone Audio Tour &amp; Trivia Challenge</title>
+			<description>Listen to a tour guide through your smartphone as you explore the Manitoba Legislative Grounds.
+
+On this easy to walk tour, you&amp;#39;ll visit 23 statues &amp;amp; monuments making the Manitoba Legislative grounds a must-see. 
+
+Highlights include the Famous Five Monument, Government House, Sir Williams S. Stephenson Statue &amp;amp; Manitoba Plaza Fountain. Don&amp;#39;t just see the historical statues, hear what they have to say!
+
+GPS map shows where you are and where to go next. As you get close, tour guide commentary will automatically play.
+
+The tour also comes with a fun location based trivia game. After the commentary plays, look at your device and tap your answer.
+
+Keep the professional tour guide experience, ditch the crowded tour groups, tight schedules and high prices.
+
+Enjoy anytime, not just on your booking date. Stop &amp;amp; start anywhere along route.
+
+The number of travelers you select is the number of devices you can download the tour to. 
+
+Trust the platform with over 75 tours &amp;amp; 17,000&amp;#43; happy customers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/16/d0/c4.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Manitoba Legislative Grounds: a Smartphone Audio Tour &amp; Trivia Challenge</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Audio Guides</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>104.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/Manitoba-Legislative-Grounds-GPS-Guided-Audio-Walking-Tour/d50494-214606P44</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.88447499999999</latitude>
+				<longitude>-97.14638289999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>214606P26</code>
+			<title>The Sights of South Winnipeg: a Smartphone Audio Tour</title>
+			<description>Discover the Sights of South Winnipeg with our Signature Tour!
+
+Hook your smartphone up to your vehicle and listen to a tour guide while you drive!
+
+Experience over 20 points of interest. See the University of Manitoba, King&amp;#39;s Park, Place St. Norbert and more as you cruise around this fascinating part of town.
+
+Along the way, you&amp;#39;ll visit the following four incredible attractions, each with their own points of interest to explore on foot! 
+
+University of Manitoba
+Trappist Monastery Ruins
+St. Norbert Heritage Park
+Place St. Norbert 
+
+With no time constraints, enjoy the freedom to stop anywhere and take your time exploring. Tour guide commentary will play automatically as you drive, using an easy to navigate GPS map. No data is used during the tour.
+
+This audio guide will keep your group entertained &amp;amp; engaged along the way. Each point of interest also has a fun multiple-choice trivia question about the sights.
+
+Trust the platform with over 75 tours &amp;amp; 17,000&amp;#43; happy customers.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/3a/4f/26.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>The Sights of South Winnipeg: a Smartphone Audio Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Winnipeg, Manitoba</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>118.08</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>118.08</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Winnipeg/The-Sights-of-South-Winnipeg-Self-Guided-Audio-Tour/d50494-214606P26</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>49.801386</latitude>
+				<longitude>-97.156888</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Winnipeg</Destination>
+	<FileName>Winnipeg_d50494-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:22:40</FileCreationDateTime>
+</ProductList>

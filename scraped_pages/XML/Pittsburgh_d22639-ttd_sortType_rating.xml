@@ -1,0 +1,1808 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>41</totalCount>
+	<pages>2</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>12953P1</code>
+			<title>Essential Pittsburgh Experience - The One Tour to Take</title>
+			<description>Enjoy a private introduction to downtown Pittsburgh on this guided tour in and around the ‘Steel City.’ Begin with a trip to the top of Mount Washington via the iconic Duquesne Incline for a stellar, bird’s-eye view of Pittsburgh and the surrounding area. Then explore the popular North Shore, home to football’s Steelers, baseball’s Pirates and a variety of entertainment venues. Finally, cross the Allegany River toward downtown to see Pittsburgh’s Cultural District as well as the neighborhood of Oakland, home to the University of Pittsburgh. Hotel pickup and drop-off included.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/7f/31/85.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Essential Pittsburgh Experience - The One Tour to Take</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>477</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/The-Pittsburgh-Private-City-Tour/d22639-12953P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.44053160000001</latitude>
+				<longitude>-80.0173233</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>13</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>197979P1</code>
+			<title>Best of the Burgh Walking Tour of Pittsburgh</title>
+			<description>Join us in this urban adventure where we&amp;#39;ll show you some memorable sites, accompanied by a great narrative that will give you a profound understanding of this city. Learn all about the outstanding architecture, fascinating history, the lives of former titans of industry as well as fun hidden public art pieces of the Steel City. Get to see the main sites but also discover gems off the beaten paths. - Our tour guides are locals who truly love their city, they are very knowledgeable and willing to go the extra mile for you if you are particularly interested in something. Groups are kept small to provide a personal experience. Kids and dogs are welcome as well!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/33/03/03.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Best of the Burgh Walking Tour of Pittsburgh</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>277</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Private and Luxury</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>627.66</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>627.66</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Best-of-the-Burgh-Walking-Tour/d22639-197979P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4448727</latitude>
+				<longitude>-79.9947069</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>258681P1</code>
+			<title>Bike the Burgh Tour</title>
+			<description>Discover a mix of must-see sights and in-the-know local’s favorites during this guided, small-group bike tour of Pittsburgh. Listen to in-depth information and riveting stories as you traverse the city, covering public art projects, bustling squares, and iconic skylines, leaving the beaten track behind. Highlights include Point State Park, Mellon Square, and the Strip District.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/9e/55/ab.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Bike the Burgh Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>235</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1139.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1139.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Bike-the-Burgh-Tour/d22639-258681P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4448727</latitude>
+				<longitude>-79.9947069</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>197979P3</code>
+			<title>Black &amp; Ghost Tour</title>
+			<description>Join us on this walking history tour with a spooky twist! Experience the spookiest of Pittsburgh’s Downtown! Get to see outstanding historic landmarks (often beautifully lit up in the darker and colder months) during the quiet evening hours and learn about their history and which spirits lurk in them. Ready to get chills and be scared by some obscure ghost stories? - Our tour guides are locals who truly love their city, they are very knowledgeable and willing to go the extra mile for you if you are particularly interested in something. Children under the age of 6 and doggies are welcome with advance notice and proper supervision. - ***Please note: This is NOT a haunted house tour NOR a pure Ghost Tour but a history tour with a spooky twist!***</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/90/69/19.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Black &amp; Ghost Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>174</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>627.66</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>627.66</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Black-and-Ghost-Tour/d22639-197979P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4448727</latitude>
+				<longitude>-79.9947069</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>12953P3</code>
+			<title>Fire in the Valley- Carnegie Steel and the Town That Built America</title>
+			<description>For those travelers who want to delve into the industrial history of Pittsburgh, this private tour offers a much deeper experience than you'll get on a typical sightseeing experience. In the company of your guide, the proud grandson of one of the leaders of the Amalgamated Association of Iron and Steelworkers, you'll visit such landmarks as the Bryce-Mesta Mansion Homestead, 
+the 1892 Battle of Homestead Site and Braddock while learning all about Pittsburgh's Steel Valley.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/ab/ff/be.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fire in the Valley- Carnegie Steel and the Town That Built America</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>131</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2414.07</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2414.07</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Fire-in-the-Valley-Carnegie-Steel-and-the-Town-That-Built-America/d22639-12953P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.439898</latitude>
+				<longitude>-80.01761049999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>67529P1</code>
+			<title>Pittsburgh Signature Guided Brewery Tour</title>
+			<description>Sample up to 12 beers on a 3 and a half group tour of four Pittsburgh breweries. Round trip transportation takes your group from the city center to the first bar. Choose from two start times and enjoy a complimentary pretzel snack with beer pairings. Sample the best beers at Strange Roots, The Couch, Penn Brew, and others. The tour also offers an in depth look at the beer making process.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/44/09.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pittsburgh Signature Guided Brewery Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>125</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2027.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Pittsburgh-Brewery-Tour-with-Lunch-or-Dinner/d22639-67529P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4471267</latitude>
+				<longitude>-79.9923</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>197979P2</code>
+			<title>Whiskey Rebellion &amp; Prohibition Tour</title>
+			<description>Our cocktail tour! From the mill to the still, whiskey has been a cornerstone in Pittsburgh&amp;#39;s history. Come downtown for our whiskey tour where you will discover how whiskey has fueled political, labor and social movements throughout the region. Begin and end your tour in style with a Prohibition cocktail at the Ritual House and an Old Fashioned at the Rebel Room. As we walk the streets of Downtown, along iconic architecture, you&amp;#39;ll learn about the violent Whiskey Rebellion in Pittsburgh, hidden former (as well as existing!) speakeasies around the city, and how Prohibition affected the region. 
+
+**Please note: This is NOT a bar crawl but a whiskey history tour that includes two handcrafted cocktails. This event is 21&amp;#43; only, no minors please.
+
+***For private/custom tour requests: please contact us.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/3b/51/c5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Whiskey Rebellion &amp; Prohibition Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>85</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Private and Luxury</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>869.07</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>869.07</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Whiskey-Walk/d22639-197979P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4448727</latitude>
+				<longitude>-79.9947069</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24324P2</code>
+			<title>Wigle Whiskey Rebellion Distillery Tour</title>
+			<description>The Whiskey Rebellion was a bloody conflict in Western Pennsylvania during the 1790s in which the distillers rebelled against the new federal government’s whiskey tax. The Wigle Whiskey Rebellion Distillery Tour brings you to the most awarded craft whiskey distillery in the USA for a night of sipping and stories. You’ll tour the distillery to learn how their spirits are made before listening to the history of the rebellion.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/41/28/fe.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Wigle Whiskey Rebellion Distillery Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>28</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Walking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>428.74</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>428.74</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Wigle-Whiskey-Rebellion-Distillery-Tour/d22639-24324P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.454253099999995</latitude>
+				<longitude>-79.9813432</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>12953P2</code>
+			<title>FALLINGWATER - America's UNESCO World Heritage Masterpiece!</title>
+			<description>Just about an hour's drive from Pittsburgh is an American architectural icon: Frank Lloyd Wright's Fallingwater. On this architecture tour from Pittsburgh, enjoy convenient travel to this impressive 20th century home, spanning a waterfall in Pennsylvania's Allegheny Mountains. After a ride by private vehicle, with commentary from your guide, tour the site (tickets at your own expense and booking), and enjoy views of Ohiopyle Falls on your return trip.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/ab/7a/03.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>FALLINGWATER - America's UNESCO World Heritage Masterpiece!</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>27</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7481.1</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7481.1</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/FALLINGWATER-The-Best-All-Time-Work-of-American-Architecture-AIA/d22639-12953P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>39.90618</latitude>
+				<longitude>-79.46785</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>12953P4</code>
+			<title>Fallingwater and Kentuck Knob - Two Visions of Frank Lloyd Wright</title>
+			<description>Fallingwater and Kentuck Knob, two of Frank Lloyd Wright's most renowned architectural masterpieces, are both a must-see while in Pennsylvania. But getting there without your own transportation is tricky. This private guided tour takes you both and includes comprehensive insight into Fallingwater so that you don't need to pay extra for a tour.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/b0/22/9a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fallingwater and Kentuck Knob - Two Visions of Frank Lloyd Wright</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>19</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8630.4</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>8630.4</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Fallingwater-and-Kentuck-Knob-Two-Visions-of-Frank-Lloyd-Wright/d22639-12953P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.1323512</latitude>
+				<longitude>-79.4089653</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>314279P2</code>
+			<title>Pittsburgh Ghosts Steel City Haunted Tour</title>
+			<description>Step into the shadowy streets of Pittsburgh with our walking ghost tour, where history meets haunting!
+
+Led by a seasoned local guide who excels in haunted history and storytelling, this tour will lead you to the city’s most iconic and eerie locations. As you wander through the historic district, you’ll hear spine-chilling tales of spectral residents haunting the Pittsburgh Playhouse, ghostly apparitions at the University of Pittsburgh, and unsettling stories from the Old Allegheny Jail Museum.
+
+This isn’t just a ghost tour; it’s a deep dive into Pittsburgh’s gritty past and its eerie legacy. Traverse a mile of haunted ground, where each stop reveals the darker side of the Steel City. The tales are well-researched and gripping, providing a mix of supernatural thrills and historical insight. While we can’t enter private buildings, the haunted atmosphere will captivate you with every step.
+
+Get ready for a night of spine-tingling stories and a closer look at Pittsburgh’s mysterious past!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/46/f8/ab.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pittsburgh Ghosts Steel City Haunted Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.4</exactScore>
+				<reviewCount>16</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Historical Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>618</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>618</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Pittsburgh-Ghosts-Sinister-Shadows-of-Steel-City-Haunted-Tour/d22639-314279P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4409603</latitude>
+				<longitude>-79.9974896</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>35</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>197979P10</code>
+			<title>Beers in the Burgh: Pittsburgh Brewery Walk</title>
+			<description>This is a great tour to make friends! Meet other beer lovers on this brewery tour while sampling a variety of locally crafted brews. Stroll through one of the most vibrant neighborhoods of Pittsburgh and learn all about the history of beer making in Pittsburgh and Western PA. Get to know the makers behind these craft beers and dive deep into the past and present of Lawrenceville - all while walking past some of its main landmarks and cultural highlights. Your tour will come with some great discoveries of local businesses as well as cool street art. Join our fun groups and have a wholehearted toast with some new friends!
+You will love our guide, too, he is a true beer enthusiast!
+
+*For private/custom tour requests: please contact us.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/49/7d/39.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Beers in the Burgh: Pittsburgh Brewery Walk</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>13</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Private and Luxury</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1332.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1332.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/New-Lawrenceville-Brewery-Walk/d22639-197979P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4816217</latitude>
+				<longitude>-79.95385759999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>8870P22</code>
+			<title>Hard Rock Cafe Pittsburgh</title>
+			<description>At the Hard Rock Cafe Pittsburgh, every meal is an experience, whether on the road or on a lunch break. Dine in style and feel like a star at this popular restaurant, located at Station Square on the south shore of the city. Savor a 2- or 3-course, fixed-price meal with choice of theme. Enjoy the Legendary Burger, ribs, salmon, steak or a vegetarian option for the main course along with a side and desert. Coffee, tea or soft drink included.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/9a/d9.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Hard Rock Cafe Pittsburgh</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>17</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Dining Experiences</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>780.03</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>780.03</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Hard-Rock-Cafe-Pittsburgh/d22639-8870P22</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.433973</latitude>
+				<longitude>-80.0049041</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>9</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>389940P1</code>
+			<title>We Present Noah Sonie in Trust No One show</title>
+			<description>Where else can you bring your group to be entertained, enchanted, and amazed? We offer our unique experience for anyone in search of wonder and curiosity. We provide a night that you will always remember. Perfect for private groups, corporate off-sites, staff member rewards, client entertaining, and many special occasions including anniversaries, birthdays, bachelor/bachelorette parties, and family gatherings.
+
+The first two rows of the theater are reserved for the truly adventurous. The Skeleton Key VIP Experience unlocks these first two rows in our intimate theater, as well as a chance to become part of the performance (if you wish) and an exclusive meet and greet with the artist after the show, which includes private, close-up tricks. Members of the Skeleton Key VIP Experience also have the opportunity to purchase merchandise not available for sale to the general public.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/30/ab/91.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>We Present Noah Sonie in Trust No One show</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>6</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Theater Shows</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>917.35</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>917.35</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Liberty-Magic-presents-Noah-Sonie-in-TRUST-NO-ONE/d22639-389940P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.443172</latitude>
+				<longitude>-79.99858</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>258681P2</code>
+			<title>Bikes &amp; Brews Tour: Pittsburgh Brewery Tour</title>
+			<description>See the historic districts and breweries surrounding Steel City during this bicycle tour of Pittsburgh. Ride alongside a local guide as you discover watering holes in Lawrenceville, the Strip District, Millvale, and Deutschtown. Drink up ten different beer samples from four local breweries while learning about the history of these neighborhoods. Bring your own bike or use the bicycle and helmet provided.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/95/16/73.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Bikes &amp; Brews Tour: Pittsburgh Brewery Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>6</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1718.82</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1718.82</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/New-Bikes-and-Brews-Tour/d22639-258681P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4448727</latitude>
+				<longitude>-79.9947069</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>143641P327</code>
+			<title>Participate in a Fun Scavenger Hunt in Pittsburgh by Wacky Walks</title>
+			<description>Discover Pittsburgh in an active and exciting way during this scavenger hunt adventure. This app-based scavenger hunt is a royal-themed adventure that takes you on a journey to search for items and complete quirky challenges to earn points. Enjoy the game at your own pace and explore any part of the city. Plus, enjoy having a remote host ready to assist you throughout the tour.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/af/6e/7a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Participate in a Fun Scavenger Hunt in Pittsburgh by Wacky Walks</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Wacky-Walk-Adventure-Game-Warren-MI/d22639-143641P327</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4409779</latitude>
+				<longitude>-80.0021467</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>138495P259</code>
+			<title>Fun City Scavenger Hunt in Pittsburgh by Operation City Quest</title>
+			<description>Use our app to explore Pittsburgh in this fun scavenger hunt! Use the app to find things around the city in any order you&amp;#39;d like, take photos, and collect points. You can also complete challenges for points. Take a look at the rankings to see how your score compares at any point! All of our scavenger hunts have a remote host via chat to help along the way. Come out and explore in Pittsburgh.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/59/d9/2e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Fun City Scavenger Hunt in Pittsburgh by Operation City Quest</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>193.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Operation-City-Quest-Scavenger-Hunt-Pickering-ON/d22639-138495P259</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4407817</latitude>
+				<longitude>-80.00248359999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>379366P36</code>
+			<title>Pittsburgh Pirates Baseball Game Ticket at PNC Park</title>
+			<description>A ticket to see the Pittsburgh Pirates play is your key to an unforgettable day of Major League Baseball action at one of America&amp;#39;s most historic stadiums. Not only does PNC Park blend views of exciting baseball action with the picturesque Pittsburgh skyline, but the thousands of passionate baseball fans passionately cheering them on creates an atmosphere like no other. Whether you&amp;#39;re a lifelong fan or just starting to learn the ropes of baseball, this ticket will give you an amazing experience - from the wild energy in the stands to the iconic view of downtown Pittsburgh, this is an event that must be experienced in person.
+
+Seating categories are based on location and proximity to the field. Premium &amp;amp; Regular category seats generally sit along the 3rd baseline, behind home base or along the first base line. Premium seats are closer to the field. Whereas seats in the Budget seating category are generally higher up and in the outfield.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/82/4d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pittsburgh Pirates Baseball Game Ticket at PNC Park</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Sporting Events</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1115.09</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1115.09</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Pittsburgh-Pirates-Baseball-Game-Ticket-at-PNC-Park/d22639-379366P36</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.447468</latitude>
+				<longitude>-80.007164</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>104204P15</code>
+			<title>Pittsburgh Bar Hunt: Party Through Pittsburgh Bar Crawl</title>
+			<description>Get a comprehensive tour of Pittsburgh in a unique way: on a scavenger hunt. With your group of fellow curious travelers and an adventurous guide, visit highlights such as Kaufmann's Clock, Point State Park, William Penn Hotel, and others. Find clues and prizes and learn about the city through your guide's commentary.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/27/d3/55.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pittsburgh Bar Hunt: Party Through Pittsburgh Bar Crawl</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.3</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>252.61</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>252.61</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Lets-Roam-Pittsburgh-Scavenger-Hunt/d22639-104204P15</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4282821</latitude>
+				<longitude>-79.9758829</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5516388P1</code>
+			<title>Pittsburgh Historic Strip District Libation Tour</title>
+			<description>For people who like Think’n and Drink’n – this is the Ultimate Pour Tour. 
+
+We are designed to give fascinating information about the area while visiting local wineries, breweries, distilleries, and favorite local drinking holes. Learning the history of the location can be a lot of fun with a nip, sip, snifter, shot, or a wee dram in hand. 
+
+Sample up to 12 various libations on a 2 hour, 
+10 block walking tour in Pittsburgh’s Historic Strip District. 
+This tour focuses on hand-crafted Rums, Beers, 
+Whiskeys, and Wine. 
+Meet the brewers, vintners, and business owners / experts. 
+2 hours (approx.)
+Mobile ticket
+Offered in: English by a Local Tour Guide</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/de/15/0c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pittsburgh Historic Strip District Libation Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1158.75</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1158.75</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Pittsburgh-Historic-Strip-District-Libation-Tour/d22639-5516388P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.454446499999996</latitude>
+				<longitude>-79.97947889999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>379366P24</code>
+			<title>Pittsburgh Penguins Ice Hockey Game Ticket at PPG Paints Arena</title>
+			<description>Pittsburgh is the definition of a hockey town, no one roots harder for their NHL team than Pittsburgh Penguins fans. The Pens, as the team is affectionately known, are one of the most iconic teams in the NHL, with 5 Stanley Cups to their name. Pens fans have been blessed with hockey legends from Mario Lemieux to Sydney Crosby, success and high quality hockey has become the norm in Pittsburgh!
+
+PPG Paints Arena, is a state-of-the-art facility designed with the fan experience in mind. Featuring the most comfortable seating arrangement in the NHL and a vast array of dining options, the NHL live-viewing experience has never been better.
+
+On the ice, the Penguins are synonymous with skill and speed, led by some of the most elite players in the league. Superstars like Sidney Crosby and Evgeni Malkin have defined the team&amp;#39;s success for over a decade. As the Pens look to chase another Stanley Cup, embrace the winning pedigree in Pittsburgh and be part of something special in PPG Paints Arena!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/09/f9/7c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pittsburgh Penguins Ice Hockey Game Ticket at PPG Paints Arena</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Sporting Event Tickets &amp; Passes </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1175.04</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1175.04</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Pittsburgh-Penguins-NHL-Game-Ticket-at-PPG-Paints-Arena/d22639-379366P24</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.43922</latitude>
+				<longitude>-79.9905</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>128285P1852</code>
+			<title>Pittsburgh City to Pittsburgh Airport (PIT) - Departure Private Transfer</title>
+			<description>Wave goodbye to the Steel City with a comfortable, private transfer to Pittsburgh International Airport (PIT). No matter your flight time, this 24/7 service is ready to pick you up from your hotel, help you with your luggage, and whisk you to the airport. As you leave the Three Rivers behind, relax with complimentary soft drinks and Wi-Fi during your trip.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/50/10/78.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pittsburgh City to Pittsburgh Airport (PIT) - Departure Private Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2387.03</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2387.03</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Pittsburgh-City-to-Pittsburgh-Airport-PIT-Departure-Private-Transfer/d22639-128285P1852</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>35</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.440624799999995</latitude>
+				<longitude>-79.9958864</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>430198P26</code>
+			<title>Outdoor Escape Room in Pittsburgh - Deutschtown</title>
+			<description>An immersive clue-solving adventure around Pittsburgh&amp;#39;s Deutschtown. Search for real-world clues, solve puzzles, and discover the neighborhood with an experience you&amp;#39;ll never forget!
+
+Reschedule anytime with no fees.
+
+It&amp;#39;s a scavenger hunt, escape room, and urban crawl all-in-one. Follow the storyline around town as you find clues and use them to crack codes. Then enter solutions on the app to find out where to go next. Clues can be anywhere - murals, statues, landmarks, and more!
+
+Plan on about two hours of playtime, depending on your experience level and how much time you spend exploring along the way. Difficulty level is adjustable - take as many or as few hints as you’d like!
+
+Bookings made a week or more in advance receive their kit in the mail. Bookings made less than a week in advance will pick up their kit at the start point on the day of the adventure - exact pickup location is sent after booking.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e7/56/fb.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Outdoor Escape Room in Pittsburgh - Deutschtown</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Self-guided Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/Outdoor-Escape-Room-in-Pittsburgh-East-Allegheny/d22639-430198P26</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4553337</latitude>
+				<longitude>-79.9961936</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>209615P161</code>
+			<title>Pittsburgh Panorama: A Journey Through Iconic Landscapes</title>
+			<description>“Pittsburgh Panorama: A Journey Through Iconic Landscapes” is not just a walking tour; it’s an odyssey that transforms you into an explorer of the city’s heart and soul. Traverse the streets of Pittsburgh and discover a tapestry of architectural marvels, from soaring skyscrapers to Art Deco gems, each telling a story of innovation and ambition. Immerse yourself in cultural richness at centers celebrating art and history, offering a glimpse into the diverse fabric of the city. Find tranquility in lush urban gardens, a delightful contrast to the bustling downtown. This journey is designed to make you the hero of your adventure, uncovering Pittsburgh’s hidden jewels. Whether you’re a first-time visitor or a seasoned traveler, this tour offers a fresh perspective on the city’s landmarks, inviting you to marvel, learn, and connect with the spirit of Pittsburgh. Join us, and let the city’s panorama unfold before you, turning every step into a memorable discovery.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/4b/9b/6e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pittsburgh Panorama: A Journey Through Iconic Landscapes</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Pittsburgh, Pennsylvania</location>
+			<category>Private Sightseeing Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1989.19</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1989.19</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pittsburgh/The-best-of-Pittsburgh-walking-tour/d22639-209615P161</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>40.4455472</latitude>
+				<longitude>-79.9962844</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Pittsburgh</Destination>
+	<FileName>Pittsburgh_d22639-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:49:35</FileCreationDateTime>
+</ProductList>

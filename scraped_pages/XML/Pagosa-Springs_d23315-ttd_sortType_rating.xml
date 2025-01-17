@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>3</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>426325P1</code>
+			<title>Private Luxury Transportation from the Airport to your Hotel</title>
+			<description>Welcome to our transportation service in Costa Rica KDM Travelcr! 
+Why book with us? Because we are passionate about what we do and we pride ourselves on providing first class service to our clients. Our fleet of modern and comfortable vehicles guarantees a safe and pleasant trip. Our knowledgeable and friendly drivers know every corner of the country, providing you with valuable information and ensuring that you arrive at your destination on time; In Costa Rica, nature is the protagonist, and we also care about preserving it. We operate in an eco-friendly manner, minimizing our environmental impact and supporting local conservation initiatives. By choosing our transport, you will not only enjoy an extraordinary trip, but you will also contribute to the well-being of this beautiful destination.
+Whether you need an airport transfer, a personalized tour, or just want to explore the local attractions in comfort, we&amp;#39;re here to make your adventure dreams come true. Book with us Costa Rica!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/ac/9e/24.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Luxury Transportation from the Airport to your Hotel</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>15</reviewCount>
+			</rating>
+			<location>San Antonio De Belen, Costa Rica</location>
+			<category>Sustainable Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5407.52</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5407.52</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>13</maxTravelersPerUnit>
+			<url>/tours/San-Antonio-De-Belen/Transporte-Privado-de-Lujo-Aeropuerto-San-Jose-a-Hotel-Costa-Rica/d50316-426325P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>13</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>350808P140</code>
+			<title>Pagosa Springs to Albuquerque Airport (ABQ) Departure Transfer</title>
+			<description>Book your private Departure transfer from Pagosa Springs Thermal Resorts to Albuquerque International Airport (ABQ).
+
+Your driver will be waiting for you at a scheduled time and you will travel comfortably to your destination.
+
+Our transfers will provide you with such services: meeting with a name plate, door-to-door delivery, no hidden fees, clean cars and professional drivers, which will make your trip more comfortable and safe. We guarantee the quality of the services provided.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/79/a1/84.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pagosa Springs to Albuquerque Airport (ABQ) Departure Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Pagosa Springs, Colorado</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>10443.27</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>10443.27</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pagosa-Springs/Pagosa-Springs-to-Albuquerque-Airport-ABQ-Departure-Transfer/d23315-350808P140</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>50</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.26945</latitude>
+				<longitude>-107.0097617</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>350808P170</code>
+			<title>Pagosa Springs to Colorado Springs (COS) - Departure Transfer</title>
+			<description>Comfort Departure Transfer from Pagosa Springs Thermal Resorts to Colorado Springs Airport (COS) up to 7 passengers.
+
+All Vehicles fully licensed and insured. Our cars are equipped with all necessary facilities for a trip to any part of the world under any weather conditions, including additional fastenings for sports and other equipment.
+
+On request for your tourists, we have child seats for all ages, soft drinks and free Wi Fi in the lounge. Vehicles are clean inside and outside; our drivers’ always are well dressed and always pay attention to our guests. They speak English. They will meet you with a name sign; help with luggage and on arrival to the hotel.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/7a/24/c0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Pagosa Springs to Colorado Springs (COS) - Departure Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Pagosa Springs, Colorado</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>10443.27</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>10443.27</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pagosa-Springs/Pagosa-Springs-to-Colorado-Springs-COS-Departure-Transfer/d23315-350808P170</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>37.26945</latitude>
+				<longitude>-107.0097617</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Pagosa-Springs</Destination>
+	<FileName>Pagosa-Springs_d23315-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:36:25</FileCreationDateTime>
+</ProductList>

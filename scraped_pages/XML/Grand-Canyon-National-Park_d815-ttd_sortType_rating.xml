@@ -1,0 +1,1873 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>49</totalCount>
+	<pages>3</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>18678CS</code>
+			<title>45-minute Helicopter Flight Over the Grand Canyon from Tusayan, Arizona</title>
+			<description>Take an exhilarating helicopter flight that whisks you from the Grand Canyon’s South Rim to the North Rim. Through the ECO-Star helicopter’s panoramic windows, see the world's largest ponderosa pines in Kaibab National Forest and the mighty Colorado River. Snap photos of the Painted Desert, Desert View Watchtower, Marble Canyon, and Point Imperial before your return flight takes you through the dramatic backdrop of the Dragon Corridor. Choose from a wide selection of departure times to suit your schedule.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/47/d9/70.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>45-minute Helicopter Flight Over the Grand Canyon from Tusayan, Arizona</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>1816</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Full-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7254.76</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7254.76</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/45-minute-Helicopter-Flight-Over-the-Grand-Canyon-from-Tusayan-Arizona/d815-18678CS</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>45</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9580026</latitude>
+				<longitude>-112.13333039999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>89776P1</code>
+			<title>Grand Canyon Signature Hummer Tour with Optional Sunset Views</title>
+			<description>Make the most of limited time and see the highlights of Grand Canyon National Park in just a couple of hours on this sightseeing tour. Ride in a windowless, open-air Hummer and listen to commentary from your guide as you visit some of the canyon’s best lookout points, where you can hop out, take photos, and explore. Since this is a small-group tour, you’ll have plenty of time to ask questions, too.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/a5/8c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon Signature Hummer Tour with Optional Sunset Views</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>1441</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>4WD Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2452.69</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2452.69</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-Signature-Hummer-Tour-with-Optional-Sunset-Views/d815-89776P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9741104</latitude>
+				<longitude>-112.12544520000002</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>45</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>229754P2</code>
+			<title>3 Hour Off-Road Sunset Safari to Grand Canyon with Entrance Gate Detour</title>
+			<description>Experience spectacular views of the Grand Canyon South Rim without the crowds. With this tour, you'll take the road less traveled to reach the iconic landmark, driving along scenic back roads in a comfortable 4WD safari vehicle and avoiding the busy south entrance gate. Stop to admire the views from Yavapai Point, Pipe Creek Canyon, and Duck on a Rock Overlook, then time your arrival to watch the sunset from Grandview Point.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/9e/88/2c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>3 Hour Off-Road Sunset Safari to Grand Canyon with Entrance Gate Detour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>767</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2376.99</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2376.99</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Off-Road-Sunset-Safari-to-Grand-Canyon-with-Entrance-Gate-Detour/d815-229754P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9738864</latitude>
+				<longitude>-112.1274193</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>108446P2</code>
+			<title>4-Hour Biblical Creation + Sunset Tour • Grand Canyon National Park South Rim</title>
+			<description>Experience the Grand Canyon from a biblical creation perspective with Canyon Ministries.
+
+The Sunset Rim Tour begins inside the park at the Grand Canyon Visitor Center flagpole, meeting around four hours before sunset. From there, you’ll journey along the South Rim’s east side on Desert View Drive, traveling in comfort to some of the most breathtaking overlooks and vistas.
+
+At each stop, step out to take in stunning views, explore the surroundings, and engage in meaningful teaching. Your guide will share fascinating insights into the canyon’s geology, wildlife, and history, all framed by the biblical account of Creation and the Flood as described in Genesis.
+
+At the end of the tour, we will close out the day with the One who made it as the sun sets far to the west over the rim. 
+
+Total tour length is variable, depending on when the sun sets that day. Plan to be back around 30 minutes after the sunset.
+
+Additional tours, backpacking, &amp;amp; Grand Canyon river trips are also available!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/74/0f/9c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>4-Hour Biblical Creation + Sunset Tour • Grand Canyon National Park South Rim</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>540</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2877.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2877.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-Biblical-Creation-Sunset-Tour/d815-108446P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>36.0591151</latitude>
+				<longitude>-112.1091934</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>229754P1</code>
+			<title>3 Hour Back-Road Safari to Grand Canyon with Entrance Gate By-Pass at 9:30 am</title>
+			<description>Experience spectacular views of the Grand Canyon South Rim without the crowds. With this tour, you'll take the road less traveled to reach the natural wonder, driving along scenic back roads in a comfortable 4WD safari vehicle and avoiding the busy south entrance gate. On arrival, follow your guide on a walking tour along the South Rim and take in the views from Yavapai Point, Lookout Studio, and Bright Angel Trailhead.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/38/95/94.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>3 Hour Back-Road Safari to Grand Canyon with Entrance Gate By-Pass at 9:30 am</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>356</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2317.51</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2317.51</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Back-Road-Safari-to-Grand-Canyon-with-Entrance-Gate-By-Pass/d815-229754P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9738864</latitude>
+				<longitude>-112.1274193</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>6338DISCOVERY</code>
+			<title>Grand Canyon Landmarks Tour by Airplane with Optional Hummer Tour</title>
+			<description>See some of the Grand Canyon's most popular landmarks on this incredible 40-minute, fixed-wing airplane adventure. Enjoy aerial views of the Grand Canyon’s South Rim, the Painted Desert of badlands, Zuni Point, and Imperial Point, the Grand Canyon’s highest spire. Also, fly over the North Rim and Kaibab National Forest, which borders both the north and south rims of the Grand Canyon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/71/5d/2d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon Landmarks Tour by Airplane with Optional Hummer Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>325</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3456.95</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3456.95</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-Landmarks-Tour-by-Airplane/d815-6338DISCOVERY</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>40</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.960743199999996</latitude>
+				<longitude>-112.13474629999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>9</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>6613P24</code>
+			<title>Grand Canyon Helicopter 45-Minute Flight with Optional Hummer Tour</title>
+			<description>There’s nothing on this planet like the Grand Canyon and nothing can compare to seeing this natural wonder from the sky. Hop aboard a helicopter for an incredible aerial sightseeing adventure. You’ll fly over the rim and gaze down into the canyon, which reaches depths of 1-mile. From the Dragon Corridor and Imperial Point to the North and East rims, you’ll see this iconic landmark from a comfortable helicopter seat.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/68/f7/92.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon Helicopter 45-Minute Flight with Optional Hummer Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>247</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7705.71</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7705.71</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-Helicopter-45-Minute-Flights-with-Optional-Hummer-Tour/d815-6613P24</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>45</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.963847</latitude>
+				<longitude>-112.13284759999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>3272GCER</code>
+			<title>Premier Grand Canyon JeepTour</title>
+			<description>Get to know the Grand Canyon on this guided Jeep tour around the East Rim. Begin with a visit to the Grand Canyon National Geographic Visitor Center’s IMAX Theater and watch “Grand Canyon: the Movie.” Then choose one of three different tours: a daytime voyage and two sunset options. Enjoy amazing views of the Grand Canyon’s brilliant colors and various rock formations while learning about the history and geology of the area from the expert tour guide.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/08/39/1e/95.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Premier Grand Canyon JeepTour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>235</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2955.21</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2955.21</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-East-Rim-Drive-by-Jeep-and-IMAX-Movie/d815-3272GCER</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9743585</latitude>
+				<longitude>-112.12679229999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>9</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>3272GCSR2</code>
+			<title>Express Grand Canyon Jeep Tour</title>
+			<description>Get to know the Grand Canyon on this guided Jeep tour around the South Rim. Choose from morning or afternoon departures, then enjoy the Grand Canyon’s brilliant colors, cliffs, and rock formations while learning about the history and geology of the area from your guide. Finally, receive a ticket to the Grand Canyon National Geographic Visitor Center’s IMAX Theater to watch “Grand Canyon: the Movie.”</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/08/39/1e/5c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Express Grand Canyon Jeep Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>187</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Full-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2523.76</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2523.76</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-South-Rim-Jeep-Tour-with-Transport-from-Tusayan/d815-3272GCSR2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9743585</latitude>
+				<longitude>-112.12679229999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>9</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>6613P14</code>
+			<title>Helicopter Tour of the North Canyon with Optional Hummer Excursion</title>
+			<description>The Grand Canyon is undoubtedly beautiful, but this helicopter tour of the iconic canyon elevates the views to a whole new level. Soar over Kaibab National Forest and into the Dragon Corridor—the deepest and widest part of the canyon. Upgrade your tour to include a Hummer tour of other essential Grand Canyon sights after the ride; your car is waiting for you for a seamless transition.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/bb/cb/df.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Helicopter Tour of the North Canyon with Optional Hummer Excursion</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.5</exactScore>
+				<reviewCount>177</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5195.08</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5195.08</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Helicopter-Tour-of-the-North-Canyon-with-Optional-Hummer-Excursion/d815-6613P14</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>25</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>30</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.963847</latitude>
+				<longitude>-112.13284759999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>36</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>318692P1</code>
+			<title>Half-Day Private Grand Canyon Guided Hiking Tour</title>
+			<description>Get away from the crowds on Grand Canyon’s South Rim, and see some real “Wonder of the World” views. Going deep into the canyon, on this private, guided tour, you’ll experience some of the most beautiful hiking in the country, with snacks, gear, and tidbits of history and geology provided along the way. Totally customizable, you can pick the ins and outs of adventure—knowing it’ll be world-class.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8f/a8/1e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Half-Day Private Grand Canyon Guided Hiking Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>175</reviewCount>
+			</rating>
+			<location>Arizona, USA</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6276.58</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6276.58</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Arizona/Grand-Canyon-guided-day-hike-below-the-rim/d271-318692P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>36.267902</latitude>
+				<longitude>-112.35352</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>9</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>7886P3</code>
+			<title>Grand Canyon Tour from Tusayan</title>
+			<description>Discover the ancient cultures and awe-inspiring landscapes of the Grand Canyon, one of the United States' most iconic landmarks. With this full-day tour, visit various viewpoints around the Grand Canyon National Park, learn more about the history and geology of the natural wonder, and admire spectacular views along the South Rim.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/04/50/c6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon Tour from Tusayan</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>140</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4731.58</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4731.58</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-Ultimate-Tour-from-Tusayan-South-Rim/d815-7886P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>36.05905</latitude>
+				<longitude>-112.12825</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>9</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>18678CDH</code>
+			<title>25-minute Grand Canyon Dancer Helicopter Tour from Tusayan, Arizona</title>
+			<description>** The 25-minute flight has limited availablility so book early to avoid disappointment ** 
+This thrilling 25-minute helicopter flight whisks you from the Grand Canyon’s South Rim over the Kaibab National Forest. Through the ECO-Star helicopter’s panoramic windows, you’ll see the world's largest ponderosa pines and the roaring Colorado River while en route to the North Rim. Snap photos of Vishnu Schist and the Tower of Ra rock formation before your return flight takes you back through the dramatic backdrop of the Dragon Corridor. Choose from a wide selection of departure times to suit your schedule or upgrade to the longer 45-minute flight.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/94/0d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>25-minute Grand Canyon Dancer Helicopter Tour from Tusayan, Arizona</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>62</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Full-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6697.59</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6697.59</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/25-minute-Grand-Canyon-Dancer-Helicopter-Tour-from-Tusayan-Arizona/d815-18678CDH</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>25</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9580026</latitude>
+				<longitude>-112.13333039999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>6613P4</code>
+			<title>25-min Grand Canyon South Rim EcoStar Helicopter Tour with Optional Hummer</title>
+			<description>Take your tour of the Grand Canyon to the next level with this customizable helicopter tour that showcases incredible views of the national park. This 25-minute flight transports you over the vastest part of the canyon for some of the American West's most breathtaking views. Whether it's your first time to the park or you've visited the Grand Canyon in the past, this memorable tour is sure to show you a side of the Canyon you've never seen before.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/f4/4b/e0.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>25-min Grand Canyon South Rim EcoStar Helicopter Tour with Optional Hummer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.3</exactScore>
+				<reviewCount>206</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6353.83</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6353.83</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/25-or-45-minute-Helicopter-Tour-of-the-Grand-Canyon-National-Park/d815-6613P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.963847</latitude>
+				<longitude>-112.13284759999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5167SD</code>
+			<title>Self-Drive 1-Day Grand Canyon Whitewater Rafting Tour</title>
+			<description>Add a thrilling outdoor adventure to any Las Vegas or Flagstaff vacation with this guided whitewater rafting trip down the Colorado River. Take a road trip to Peach Springs, Arizona, home of the Hualapai Indians at the gateway to the Grand Canyon. Then, challenge the mighty Colorado River’s varied rapids on a 40-mile (64-kilometer) journey through the canyon, taking a side hike to a travertine waterfall along the way. Boxed lunch is included, and an optional hotel pickup and drop-off is available to purchase.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/f1/95/58.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Self-Drive 1-Day Grand Canyon Whitewater Rafting Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>50</reviewCount>
+			</rating>
+			<location>Las Vegas, Nevada</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>12263.28</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>12263.28</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Las-Vegas/Self-Drive-One-Day-Grand-Canyon-White-Water-Rafting-Tour/d684-5167SD</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>17</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.528922699999995</latitude>
+				<longitude>-113.4248418</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>265766P3</code>
+			<title>Grand Canyon Full Day Private Tour &amp; Hike</title>
+			<description>Don’t let your day at the Grand Canyon be summed up by “wow, what a hole in the ground!” With this expert-led private tour, you’ll get to tag along with a Master Naturalist as you explore one of the wonders of the world. Just your group, you’ll get to customize the full-day adventure to your liking, choosing between backcountry hikes, scenic viewpoints, flora-filled excursions, and more.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0d/0c/f2/2c.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon Full Day Private Tour &amp; Hike</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>41</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18790.15</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18790.15</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Full-Day-Private-Tour-and-Hike-in-Grand-Canyon-National-Park/d815-265766P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>10</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>36.061714</latitude>
+				<longitude>-112.10772</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5488718P3</code>
+			<title>Grand Canyon South Rim Sunset Tour with Dinner</title>
+			<description>Witness the Grand Canyon&amp;#39;s awe-inspiring beauty and rich history with veteran local Eric Albanese, your guide to a first class experience on a South Rim Sunset Tour.
+
+Travel comfortably in my spacious van with plush seats, air conditioning, and Wi-Fi. Enjoy complimentary snacks, and hot or cold drinks as I explain in great detail what I&amp;#39;ve learned over the the last ten years living in this natural wonder of the world.
+
+Get up close to the canyon&amp;#39;s breathtaking vistas with my high-powered Celestron binoculars.
+
+Stay connected and share your Grand Canyon adventure with friends and family using complimentary Wi-Fi.
+
+Embark on a scenic 40-mile tour along Desert View Drive. See the Paleozoic-Pre-Cambrian Era, Colorado River, Painted Desert, Unkar Delta and Wildlife.
+
+Enjoy a 3 course dinner at Yavapai Dining Hall.
+
+I will show you all the secrets of my backyard with passion.
+My experience enables me to be the premier tour operator for the Grand Canyon.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/2c/67/be.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon South Rim Sunset Tour with Dinner</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>38</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3476.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3476.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-South-Rim-Sunset-Tour-with-Dinner/d815-5488718P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.976188799999996</latitude>
+				<longitude>-112.1241113</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>318692P2</code>
+			<title>Grand Canyon Sunset Hiking Adventure Deep Below The South Rim</title>
+			<description>Leave the crowds behind and go on an adventure led by a tour guide who’s passionate about showing you the very best of what the Grand Canyon has to offer. You’ll be kitted out with snacks, water, and lunch, and you’ll be picked up from your Northern Arizona hotel before you set off on this private tour tailored to you. There’s plenty of time for photos too.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/f3/56/5a.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon Sunset Hiking Adventure Deep Below The South Rim</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>36</reviewCount>
+			</rating>
+			<location>Arizona, USA</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6276.58</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>6276.58</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Arizona/Grand-Canyon-Sunset-Hiking-Adventure-Deep-Below-The-South-Rim/d271-318692P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>36.05905</latitude>
+				<longitude>-112.12825</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>9</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>108446P3</code>
+			<title>Grand Canyon Hiking Tour Down South Kaibab Trail • Christian Tour</title>
+			<description>Join Canyon Ministries for an unforgettable journey deep into the Grand Canyon, descending over 1,000 feet along the breathtaking South Kaibab Trail. This iconic route takes you face-to-face with stunning rock layers that vividly showcase evidence of the Flood from Noah’s day. Along the way, marvel at fossils, panoramic views, and the canyon’s grandeur while discovering its biblical significance.
+
+Led by our Wilderness First Responder (WFR) certified guides, this inner-canyon hiking tour covers 1.5 miles down to Cedar Ridge and back, totaling 3 miles round-trip. Known for its sweeping vistas, the historic ridgeline trail offers some of the most scenic views in the canyon and is a favorite among hikers.
+
+Perfect for adventure seekers and faith enthusiasts alike, this hike requires a minimum of 2 participants. Experience the Grand Canyon like never before—through the lens of God’s Word!
+
+Requires a minimum of 2 participants. Please bring 64 oz or 2 Nalgene-sized bottles of water.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/74/0f/17.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon Hiking Tour Down South Kaibab Trail • Christian Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>35</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3650.07</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3650.07</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-Biblical-Creation-Guided-Hiking-Tour-South-Kaibab-Trail/d815-108446P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>36.0591151</latitude>
+				<longitude>-112.1091934</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>267535P20</code>
+			<title>Grand Canyon South &amp; East Rim Self-Driving, Walking &amp; Shuttling Tour</title>
+			<description>Leave behind Grand Canyon National Park’s hordes of tourists with this self-guided tour—all you need is your smartphone. Exploring exactly when you choose, you and your crew will be taken along 30+ stops, learning all about this UNESCO site’s history, geology, flora and fauna, and more. Consider it just like traveling with a pocket-sized park expert.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/65/fe/f3.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon South &amp; East Rim Self-Driving, Walking &amp; Shuttling Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.9</exactScore>
+				<reviewCount>93</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.12</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>328.12</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-South-and-East-Rim-Self-Driving-Walking-and-Shuttling-Tour/d815-267535P20</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9743585</latitude>
+				<longitude>-112.12679229999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5369IMAX</code>
+			<title>Admission to IMAX Grand Canyon "Rivers of Time"</title>
+			<description>Want to know what it feels like to fly over the Grand Canyon? Visit the Grand Canyon National Geographic Visitor Center’s IMAX Theater and watch the movie “Grand Canyon: The Movie.” Fly like an eagle over the rim and swoop into the depths of the canyons. Take a whitewater rafting trip down the raging Colorado River. Experience the history of the Grand Canyon and enjoy the incredible scenery, all in front of a six-story movie screen with 12,000 watts of digital surround sound power. Upgrade your ticket to include an on-site meal and drink.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/54/44.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Admission to IMAX Grand Canyon "Rivers of Time"</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.9</exactScore>
+				<reviewCount>73</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Theater Shows</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>294.52</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>294.52</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-IMAX-Movie/d815-5369IMAX</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.97432</latitude>
+				<longitude>-112.12686</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>108446P5</code>
+			<title>4-Hour Grand Canyon Morning Rim Tour featuring Biblical Creation</title>
+			<description>Join Canyon Ministries on a Christian tour of the Grand Canyon, featuring a biblical creation perspective!
+
+A Grand Canyon morning rim tour offers a peaceful escape with fewer crowds and a tranquil landscape. Witness the canyon’s transformation as soft blues and purples from early morning shadows shift to vibrant reds and oranges, with sunlight gradually revealing its breathtaking depths.
+
+This tour includes stops at 4–5 of the most stunning locations along the South Rim’s east side along Desert View Drive. Travel in comfort aboard our well-equipped tour van, designed to access every viewpoint in the park. 
+
+At each stop, step out to take in awe-inspiring views, explore the overlooks, and engage in insightful teaching that connects what you see with the canyon’s story. Your guide will share fascinating details about the Grand Canyon’s geology, flora, fauna, and human history, all interwoven with the biblical account of Creation and the Flood as recorded in the Bible&amp;#39;s book of Genesis.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/6e/a9/a7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>4-Hour Grand Canyon Morning Rim Tour featuring Biblical Creation</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>29</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2877.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2877.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-Biblical-Creation-Morning-Rim-Tour-4-Hours/d815-108446P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges>
+				<item>LIKELY_TO_SELL_OUT</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>36.0591151</latitude>
+				<longitude>-112.1091934</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>147508P42</code>
+			<title>Hire Photographer, Professional Photo shoot - Grand Canyon</title>
+			<description>The sweeping vistas and dramatic rocks of the Grand Canyon afford a spectacular backdrop for a photoshoot. With this tour, take part in your own personalized photoshoot with a professional photographer. Choose an outdoor shooting location and photography package, pose for photos with friends or family in an up to four-hour photoshoot, then receive access to a private online viewing gallery with up to 50 professionally edited photos</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/f7/d9/a5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Hire Photographer, Professional Photo shoot - Grand Canyon</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>22</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Photography Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2934.06</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2640.65</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>293.41</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>true</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Hire-Photographer-Professional-Photo-shoot-Grand-Canyon/d815-147508P42</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges>
+				<item>SPECIAL_OFFER</item>
+			</badges>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>36.2678855</latitude>
+				<longitude>-112.35352530000002</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5488718P1</code>
+			<title>Grand Canyon South Rim Tour with Lunch</title>
+			<description>Unleash your inner explorer with veteran local Eric Albanese. Immerse yourself in the Grand Canyon&amp;#39;s majestic beauty, rich history, and fascinating geology.
+
+Relax in luxury with Wi-Fi, snacks, and hot or cold drinks as I explain in great detail what I&amp;#39;ve learned during the ten years of living here.
+
+Get up close to the canyon&amp;#39;s stunning views with my high-powered binoculars.
+
+Embark on a scenic 40-mile tour along Desert View Drive, tracing the rim of the canyon.
+
+Marvel at the Colorado River and the Paleozoic to Pre-Cambrian Era of geological record, Unkar Delta, and Hance Rapids. I&amp;#39;ll take you to my favorite viewpoints for breathtaking panoramas.
+
+Learn the Canyon&amp;#39;s secrets from me, as I bring the story of this natural wonder to life, revealing how millions of years of erosion sculpted this awe-inspiring masterpiece.
+
+Lunch at either Canyon Village Deli (inside the park), Foodie Club or We Cook Pizza And Pasta (outside the park).
+
+Grandeur from a locals perspective.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/2a/3b/a2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Grand Canyon South Rim Tour with Lunch</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>17</reviewCount>
+			</rating>
+			<location>Grand Canyon National Park, Arizona</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3476.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3476.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Grand-Canyon-National-Park/Grand-Canyon-South-Rim-Tour-with-Delicious-Lunch/d815-5488718P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>35.9761899</latitude>
+				<longitude>-112.1241079</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Grand-Canyon-National-Park</Destination>
+	<FileName>Grand-Canyon-National-Park_d815-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:31:46</FileCreationDateTime>
+</ProductList>

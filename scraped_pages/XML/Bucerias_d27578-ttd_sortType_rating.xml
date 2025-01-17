@@ -1,0 +1,1894 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>29</totalCount>
+	<pages>2</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>32515P1</code>
+			<title>Bucerias Cultural Day Tour: Local Artisans, Handcrafts and Mexican Lunch</title>
+			<description>Get the pulse on the people of Bucerías and their lifestyles on this 4-hour cultural immersion tour. With the help of a guide who provides translation, meet local artisans and small business owners — including indigenous textile weavers to bakers to a hammock-makers — and learn about their heritage and livelihoods. Try your hand at some of the local trades yourself, and end the non-touristic tour with a tasty, family-made Mexican meal.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/df/2b/ce.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Bucerias Cultural Day Tour: Local Artisans, Handcrafts and Mexican Lunch</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>261</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Half-day Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Bucerias-Cultural-Day-Tour-Local-Artisans-Handcrafts-and-Mexican-Lunch/d27578-32515P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7536171</latitude>
+				<longitude>-105.3345202</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>18</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24840P1</code>
+			<title>Bucerias Bike and Food Tour</title>
+			<description>Soak up Bucerias sights and food on this 3-hour bike tour. On an easygoing 6-mile (10-km) ride, an informative guide takes you to local spots to sample locally roasted coffee, artisanal juice and mouthwatering tacos. In between food stops, cycle into different parts of Buceria and the countryside, and admire views of the Sierra Madre mountains. Top off this morning tour with a refreshing cerveza! This small-group tour is limited to just six people, ensuring personalized attention.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/66/eb/ce.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Bucerias Bike and Food Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>151</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1738.13</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1738.13</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Bucerias-Bike-and-Food-Tour/d27578-24840P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7487842</latitude>
+				<longitude>-105.3293504</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>434292P1</code>
+			<title>City tour express; butterfly, tequila, and beach an ecological day</title>
+			<description>Discover Puerto Vallarta with our unique experience. Visit the new Butterfly and book your place; if you are a cruise ship, call us at &amp;#43;523221415286 or send a message for pickup at 12 pm in Puerto Magico, returning to the cruise ship.
+Morning tour is van with A/C
+Evening Tour is bus without A/C
+
+We explore the artisanal, ecological and local, guaranteeing an authentic immersion. In Mismaloya, you will appreciate its beauty. We customize each tour with trained guides for a unique and memorable experience.
+
+Highlights:
+
+Personalized Experience: Your day, your preferences.
+Expert Guides: Learn from local history and culture.
+Emotional Connection: We want you to feel the magic of Puerto Vallarta.
+Local Impact: We boost the economy through activities like Paddle boarding to magical beaches, horseback, snorkeling and more.
+Experience a day of relaxation and growth with us!
+Remember that the morning tour takes a little longer than the afternoon tour.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/3c/e4/eb.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>City tour express; butterfly, tequila, and beach an ecological day</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.7</exactScore>
+				<reviewCount>59</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>378.01</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>378.01</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Private-Tour-to-Playa-Mismaloya-with-Entrance-to-the-Butterfly-Garden/d630-434292P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.693128599999998</latitude>
+				<longitude>-105.2656343</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>39</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P1</code>
+			<title>Jungle Single ATV Tour "El Mirador"</title>
+			<description>Zip through the jungles of Mexico aboard your own ATV during this exciting excursion in Bucerias. Navigate the rugged terrain of the Sierra de Vallejo region with a private guide and take in the lush landscapes that surround you. Set your own pace for the adventure and make several stops along the way to take photos.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/76/d2/5b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Jungle Single ATV Tour "El Mirador"</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>54</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1641.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1641.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Xtreme-Jaguar-1-Person-por-ATV/d27578-139943P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.753417</latitude>
+				<longitude>-105.3304067</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5193PVRAPTRND</code>
+			<title>Puerto Vallarta Roundtrip Shuttle Airport Transfer</title>
+			<description>Begin your vacation in Puerto Vallarta comfortably and conveniently by booking a shared, round-trip airport transfer. Enjoy a smooth and direct journey to your hotel without the hassle of long taxi lines and confusing public transport systems. Simply collect your luggage and begin your holiday in style with this stress-free airport transfer.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/03/d3/6d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Puerto Vallarta Roundtrip Shuttle Airport Transfer</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.8</exactScore>
+				<reviewCount>277</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>618</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>618</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Puerto-Vallarta-Small-Group-Roundtrip-Airport-Transfer/d630-5193PVRAPTRND</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>10</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.712387</latitude>
+				<longitude>-105.20835</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>60</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200064P10</code>
+			<title>Sayulita: Guided Tour, Cacao Tasting, and Food Tour.</title>
+			<description>Experience an exclusive adventure perfect for couples, families, or friends. Dive into the culture, food and history of Sayulita with personalized service. If you&amp;#39;re traveling solo, just ask about availability!
+
+We&amp;#39;ll pick you up in an air-conditioned vehicle and take you to the charming town of Sayulita. Our first stop will be a cacao garden museum, where you&amp;#39;ll learn about the cacao plant, its history, and its benefits and enjoy a traditional cacao drink and organic chocolate.
+
+Explore the most iconic streets, visiting the local crafts market, the main square, and the church. Along the way, we&amp;#39;ll share stories about the town&amp;#39;s history and culture, while you savor a delicious birria taco and a refreshing agua fresca with local seasonal fruits.
+
+Discover the Wixarika art, a deeply meaningful tradition of the region. Our next food stop is with our friend Gaby, who makes the best seafood empanadas in Sayulita.
+
+Finally, you&amp;#39;ll have one free hour to visit the beach or explore on your own.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/28/f7/8f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Sayulita: Guided Tour, Cacao Tasting, and Food Tour.</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>28</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2124.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2124.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Sayulita-a-stroll-for-Culture-and-Gastronomy/d27578-200064P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7503857</latitude>
+				<longitude>-105.29440819999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P3</code>
+			<title>Jungle double ATV Tour "El Mirador" (ride tandem on ATV)</title>
+			<description>Explore the Sierra Madre Occidental by ATV on this approximately two hour guided tour. You’ll ride tandem, wearing your provided helmet, glasses, breastplate, face mask, and gloves for your safety. At the end of your ride you can have a swim, get some food (at your own expense), and relax. Remember to bring closed toed shoes and a light jacket or sweater for your ride.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/7c/d4/e7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Jungle double ATV Tour "El Mirador" (ride tandem on ATV)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>20</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2201.63</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2201.63</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Xtreme-Jaguar-1-Person-with-a-companion-under-12-years-old-by-ATV/d27578-139943P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.753417</latitude>
+				<longitude>-105.3304067</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>2</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24840P2</code>
+			<title>Casual Bicycle Tour - Valle 2.0 (2 hr. ride into the Valley)</title>
+			<description>Venture away from the beach and head to the countryside of Bucerias on this bike tour to San Juan de Abajo. Join a small group and follow your guide past farmland to reach the small town. The route is tailored to the level of the group and stops can be made along the way. Depending on the speed of the group, a stop in San Jose del Valle can be added.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/67/2b/4f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Casual Bicycle Tour - Valle 2.0 (2 hr. ride into the Valley)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1448.44</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Bicycle-Tour-to-San-Juan-from-Bucerias/d27578-24840P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7544547</latitude>
+				<longitude>-105.3375538</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P2</code>
+			<title>Jungle ATV Tour "La Tigra" double (2 persons ride tandem on ATV)</title>
+			<description>Hop on these ATVs with a partner for a fun experience cruising through the jungle in Bucerias. You’ll start from Rancho el Jaguar’s Installations and ride premium ATVs. This is great for all ages, and families are welcome. All safety equipment is provided for you, so you just need to show up ready for an adventure.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/76/d2/ca.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Jungle ATV Tour "La Tigra" double (2 persons ride tandem on ATV)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>9</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2684.45</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2684.45</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Xtreme-Jaguar-1-Person-with-a-companion-older-than-12-years-by-ATV/d27578-139943P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.753417</latitude>
+				<longitude>-105.3304067</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>8</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>434292P4</code>
+			<title>city tour express; Butterflies, Tequila &amp; Snorkel at Arches</title>
+			<description>Embark on a unique experience with our exclusive tour! Start your day by exploring exquisite jewelry in our select jewelry store. Immerse yourself in the natural wonder of the butterfly garden, where the winged beauty will captivate you. Then, delight your senses with a visit to an authentic artisanal tequila factory, discovering the secrets of this traditional Mexican drink.
+
+The climax comes when reaching the impressive Mismaloya beach. There, the majestic arches await you for an incomparable snorkeling experience. Immerse yourself in the crystal clear waters, discover the underwater wealth and live unforgettable moments. This tour fuses culture, nature and adventure, creating memories that will last forever. Don&amp;#39;t think twice and reserve your space to live a unique and unforgettable day with us!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/3b/16/12.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>city tour express; Butterflies, Tequila &amp; Snorkel at Arches</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>4</exactScore>
+				<reviewCount>12</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>567.49</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>567.49</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Butterflies-tequila-and-beach-with-snorkeling/d630-434292P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.61428</latitude>
+				<longitude>-105.23277</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P15</code>
+			<title>Combo - Jungle ATV Tour (ride tandem on ATV) + Jungle Hike Tour for two</title>
+			<description>This adventure will nourish your heart and refresh your soul. Horseback riding to the Ranch will take you through dry and semi-dry forests, grasslands and cultivation areas. The humid mountain forests and coniferous and oak forests will guide the way to our tropical retreat within Sierra Vallejo in the Sierra Madre Occidental Mountains. 
+Once you arrive to Rancho El Jaguar, experience the mountains of the Sierra Madre Occidental on our premium all terrain vehicles! We will take you on an unforgettable adventure as we go through winding, sloping and upward routes! Our experienced, bilingual tour guides are ready to show you the rich flora and fauna found here, at Riviera Nayarit. 
+
+Age Requirements:
+ATV drivers must be 16&amp;#43; (with the consent of an adult)</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/9d/7e/2d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Combo - Jungle ATV Tour (ride tandem on ATV) + Jungle Hike Tour for two</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4519.14</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4519.14</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Bucerias/ATV-Tour-Double-Rider-Adults-plus-hiking-tour/d27578-139943P15</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.753417</latitude>
+				<longitude>-105.3304067</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>2</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P5</code>
+			<title>Jungle Bike Tour</title>
+			<description>The Sierra Madre Occidental Mountains provide a variety of terrain perfect for riding. Within Rancho El Jaguar, find challenging trails that explore the dry and semi-dry forests and grasslands of the region. Riding on our trails offers you the opportunity to enjoy our earthly paradise, as you ride through the humid mountain forests and the coniferous and oak forests. The region allows us to offer routes for both beginner and intermediate riders.
+Age Requirements:
+8&amp;#43; (no training wheels)
+
+Times: 
+Morning and Afternoon availability</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/64/2f/f5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Jungle Bike Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1236</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1236</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Bicycle-Riding-Tour/d27578-139943P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7990024</latitude>
+				<longitude>-105.3048546</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>5</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P12</code>
+			<title>Combo Jungle double ATV Tour (ride tandem on ATV ) + Jungle Bike Tour (2)</title>
+			<description>Get in and amongst the Sierra Madre Occidental Mountains in Bucerias on this ATV and mountain bike combo adventure tour. Your bilingual guides will help you navigate the winding and sloping trails surrounded by rich flora and fauna all around. You’ll have two modes of transport- ATVs and mountain bikes, to get a different perspective from each.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/9d/7d/ef.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Combo Jungle double ATV Tour (ride tandem on ATV ) + Jungle Bike Tour (2)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4808.83</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4808.83</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/ATV-Tour-Double-Rider-2-Adults-plus-Biking-tour/d27578-139943P12</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7990024</latitude>
+				<longitude>-105.3048546</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P10</code>
+			<title>Combo - Jungle Single ATV + Jungle Bike Tour</title>
+			<description>We will take you on an unforgettable adventure as we go through winding, sloping and upward routes! Nobody knows these majestic mountains like we do, and our experienced, bilingual tour guides are ready to show you the rich flora and fauna found here, at Riviera Nayarit. 
+After a brief rest, stroll on a Mountain Bike through impressive scenery on flat to moderate terrain, with relatively even surfaces with occasional obstacles, suitable for riders with no experience and average fitness level. The Sierra Madre Occidental Mountains provide a variety of terrain perfect for riding. Explore the dry and semi-dry forests and grasslands of the region. 
+
+Age Requirements:
+ATV drivers must be 16&amp;#43; (with the consent of an adult)
+Horseback riders must be 6&amp;#43; *
+*Riders, ages 6 &amp;amp; 7, may participate in the tour as long as they are accompanied by an adult. Riders, 8 an older, go on individual horses.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/9d/67/32.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Combo - Jungle Single ATV + Jungle Bike Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Mountain Bike Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2877.57</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2877.57</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/ATV-Tour-Single-Rider-plus-Biking-tour/d27578-139943P10</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7990024</latitude>
+				<longitude>-105.3048546</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>32515P5</code>
+			<title>Gifts of the Earth Tour</title>
+			<description>Escape the hustle and reconnect with nature and tradition in Nayarit. Start in Bucerías, then head to Planeta Cacao in Tondoroque to learn and create your own chocolate. Depending on the day, you&amp;#39;ll visit either a pottery workshop with master potter Francisco in Valle de Banderas or you will visit a tropical orchard with Adela and Alberto, where you can sample fresh fruit and explore their garden. Finally, enjoy a hands-on tortilla-making lesson and savor local cuisine at El Jardín Secreto in Tapachula. Immerse yourself in the rich cultural heritage and timeless traditions of the region.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/6c/4d/eb.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Gifts of the Earth Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Craft Classes </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2414.07</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2414.07</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Gifts-of-the-Earth-Tour/d27578-32515P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7536171</latitude>
+				<longitude>-105.3345202</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>329188P4</code>
+			<title>The Ultimate Agave Tasting with Tequila, Mezcal &amp; more!</title>
+			<description>Embark on hands on journey of discovery with the finest agave spirits Mexico has to offer. Sample premium Tequila, Mezcal, Raicilla, and Bacanora, expertly paired with delicious fruits and spices. Gain valuable knowledge about flavor profiles, mixing, pairing, and selecting the perfect bottle. Elevate your tasting game and enhance your enjoyment of agave spirits today!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/41/90/60.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>The Ultimate Agave Tasting with Tequila, Mezcal &amp; more!</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Cooking Classes</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1525.69</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1525.69</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Taste-and-learn-about-Mexicos-best-Agave-spirits/d27578-329188P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7626646</latitude>
+				<longitude>-105.3551424</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>102618P9</code>
+			<title>Discover Rincón De Guayabitos with a visit to Coral Island</title>
+			<description>Explore the beautiful beaches of Rincon de Guayabitos and then cruise to Coral Island on this day long group trip. You'll be collected from your hotel, and then your guide will organize everything for you so you can relax and enjoy the day. You can snorkel using provided equipment, sunbathe on the beach, enjoy an included lunch, and do some shopping for handicrafts, too.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/8e/e3/ef.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Discover Rincón De Guayabitos with a visit to Coral Island</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.4</exactScore>
+				<reviewCount>7</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/DISCOVER-CORNER-OF-GUAYABITOS-WITH-WHELL-VIEWING/d27578-102618P9</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.747157899999998</latitude>
+				<longitude>-105.32764759999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>35</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>200064P12</code>
+			<title>Hidden Gems of Nayarit: A Private Coastal Escape</title>
+			<description>Escape the tourist hustle of Puerto Vallarta and immerse yourself in the authentic local culture of Nayarit with a private tour for up to four people—all for a single fee. Enjoy the comfort of private transport as we take you to explore three charming beach towns: Lo de Marcos, Los Ayala, and Guayabitos.
+
+We’ll begin in Lo de Marcos, a vibrant town where you’ll sample authentic Mexican cocoa and stroll through its colorful streets, capturing the essence of traditional Mexican life. Next, in Los Ayala, we’ll head to the stunning ‘Frideras’ beach, accessible only via a short jungle walk—an untouched paradise hidden from the crowds!
+
+Our final stop is Guayabitos, where you can wander its local shops and relax on its crystal-clear beach. Here, you’ll have time to enjoy a delicious meal, a refreshing drink, and soak up the laid-back, local atmosphere. For an added adventure, we offer an optional visit to beautiful Coral Island, just off Guayabitos (additional cost).</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/cb/10/0d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Hidden Gems of Nayarit: A Private Coastal Escape</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7145.65</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>7145.65</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Nayarits-Coastal-Treasures-Lo-de-Marcos-Los-Ayala-and-Guayabitos/d27578-200064P12</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.95327</latitude>
+				<longitude>-105.35217</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>434292P7</code>
+			<title>Butterfly, tequila, river and beach with snorkeling in Board with Rowing</title>
+			<description>Discover Puerto Vallarta with our unique experience. Visit the new Butterfly, then visit the most hidden beaches where you only get there with locals and reserve your place; if you are a cruise ship, call us at &amp;#43;523221415286 or send a message to pick up at 12 pm in Puerto Magico, returning to the cruise ship.
+
+Morning tour is van with A/C
+Evening Tour is bus without A/C
+
+We explore the artisanal, ecological and local, guaranteeing an authentic immersion. 
+Highlights:
+
+Personalized Experience: Your day, your preferences.
+Expert Guides: Learn from local history and culture.
+Emotional Connection: We want you to feel the magic of Puerto Vallarta.
+Local Impact: We boost the economy through activities like Paddle boarding to magical beaches, horseback, snorkeling and more.
+Experience a day of relaxation and growth with us!
+Remember that the morning tour takes a little longer than the afternoon tour.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/c3/5c/b1.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Butterfly, tequila, river and beach with snorkeling in Board with Rowing</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1135.93</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1135.93</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Butterfly-and-Beach-Tour-with-Tasting-and-Board-with-Rowing/d630-434292P7</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6264929</latitude>
+				<longitude>-105.2310912</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>102618P2</code>
+			<title>Discover The Colors Of Sayulita &amp; San Pancho</title>
+			<description>After we’re all set prepare yourself for beautiful, calm San Pancho, where we’ll walk through its picturesque streets and immense shoreline. Then we’ll head over to Sayulita, one of the most calm and hippie chic friendly destinations in Riviera Nayarit. Surf, art, gastronomy, adventure and beautiful landscapes have turned this into the most popular, must-visit, town in the área. There you can wander around the streets and visit the iconic chopped paper alley, buy some souvenirs and handicrafts, have a tasty ice paleta while you relax in the main square. After that we’ll visit a restaurant by the beach where you can enjoy the delicious local food and have a drink.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/56/5b/3e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Discover The Colors Of Sayulita &amp; San Pancho</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>2.8</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/DISCOVER-THE-COLORS-OF-SAYULITA-and-SAN-PANCHO/d27578-102618P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7471579</latitude>
+				<longitude>-105.3276476</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>35</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>32515P3</code>
+			<title>Crafting Connections Tour</title>
+			<description>During this immersive experience, you&amp;#39;ll be welcomed into the homes and workshops of a Zapotec weaver and a Nahua woodcarver. Watch them breathe life into their ancient crafts while sharing their journeys and the traditions they still hold on to. You&amp;#39;ll not only observe but also have the opportunity to engage with their skill and learn first-hand about techniques that have been passed down through generations.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/61/ea/41.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Crafting Connections Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Sustainable Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1911.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/Crafting-Connections-Tour/d27578-32515P3</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>30</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7536171</latitude>
+				<longitude>-105.3345202</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P9</code>
+			<title>Combo - Jungle double ATV Tour (ride tandem) + Jungle Horse Tour (two horses)</title>
+			<description>This adventure will nourish your heart and refresh your soul. Horseback riding to the Ranch will take you through dry and semi-dry forests, grasslands and cultivation areas. The humid mountain forests and coniferous and oak forests will guide the way to our tropical retreat within Sierra Vallejo in the Sierra Madre Occidental Mountains. 
+Once you arrive to Rancho El Jaguar, experience the mountains of the Sierra Madre Occidental on our premium all terrain vehicles! We will take you on an unforgettable adventure as we go through winding, sloping and upward routes! Our experienced, bilingual tour guides are ready to show you the rich flora and fauna found here, at Riviera Nayarit. 
+
+Age Requirements:
+ATV drivers must be 16&amp;#43; (with the consent of an adult)
+Horseback riders must be 6&amp;#43; *
+*Riders, ages 6 &amp;amp; 7, may participate in the tour as long as they are accompanied by an adult. Riders, 8 an older, go on individual horses.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/9d/5e/c1.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Combo - Jungle double ATV Tour (ride tandem) + Jungle Horse Tour (two horses)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5291.64</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5291.64</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>2</maxTravelersPerUnit>
+			<url>/tours/Bucerias/ATV-Tour-Double-Rider-2-adults-plus-Horseback-Riding-Tour/d27578-139943P9</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7990024</latitude>
+				<longitude>-105.3048546</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>139943P7</code>
+			<title>Combo - Jungle Single ATV Tour + Jungle Horse Tour</title>
+			<description>This adventure will nourish your heart and refresh your soul. Horseback riding to the Ranch will take you through dry and semi-dry forests, grasslands and cultivation areas. The humid mountain forests and coniferous and oak forests will guide the way to our tropical retreat within Sierra Vallejo in the Sierra Madre Occidental Mountains. 
+Once you arrive to Rancho El Jaguar, experience the mountains of the Sierra Madre Occidental on our premium all terrain vehicles! We will take you on an unforgettable adventure as we go through winding, sloping and upward routes! Our experienced, bilingual tour guides are ready to show you the rich flora and fauna found here, at Riviera Nayarit. 
+
+Age Requirements:
+ATV drivers must be 16&amp;#43; (with the consent of an adult)
+Horseback riders must be 6&amp;#43; *
+*Riders, ages 6 &amp;amp; 7, may participate in the tour as long as they are accompanied by an adult. Riders, 8 an older, go on individual horses. 
+Insurance Requirement:
+Life Insurance: $12 USD*
+*non-refundable</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/9d/52/dd.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Combo - Jungle Single ATV Tour + Jungle Horse Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3167.26</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3167.26</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/ATV-Tour-Single-Rider-plus-Horseback-Riding-Tour/d27578-139943P7</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7990024</latitude>
+				<longitude>-105.3048546</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>160118P1</code>
+			<title>Tour in San Sebastian del Oeste</title>
+			<description>We will make a first stop in a small rural bakery, beautifully landscaped by its Mexican owners, to enjoy a delicious Mexican bread and a succulent cup of coffee.
+
+Then, we will head to Hacienda Jalisco, one of San Sebastián&amp;#39;s old silver mines, where you will have the chance to see some mining facilities.
+
+Then, arriving in San Sebastian, we will visit the Quinta Maria, where is harvested and produces organic coffee. We will walk in the plantation, taste it will also be able to buy the various biological products offered on the spot.
+
+After our visit of the plantation, we will walk to a local restaurant where we will enjoy a meal and typically Mexican.
+
+Afterwards, we will head to the Main Square to visit the City Hall. We will also visit the museum of Doña Conchita, property of one of the oldest and most important families of the village.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/07/9c/db/ea.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Tour in San Sebastian del Oeste</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1705.68</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1705.68</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Tour-in-San-Sebastian-del-Oeste/d630-160118P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>9</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFullyFlexible>false</isFullyFlexible>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7611061</latitude>
+				<longitude>-104.8524474</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>18</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>true</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>true</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Bucerias</Destination>
+	<FileName>Bucerias_d27578-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:27:35</FileCreationDateTime>
+</ProductList>

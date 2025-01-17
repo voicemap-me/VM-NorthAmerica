@@ -1,0 +1,407 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>5</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>258495P1</code>
+			<title>A Walking Tour of Frederick, Maryland - The Crossroads of Maryland</title>
+			<description>I’m Don Burgess, a Frederick resident interested in sharing my passion for heritage tourism and historic preservation as they contribute to preserving and creating a city’s “Sense of Place.” 
+
+I’ve been a history buff of this region for years, and my role on Facebook as Frederick Tour enables me to combine my love of things old with my skills with things new. I’m a semi-professional photographer who has photographed, shown, and sold images of Frederick, Harpers Ferry, and other regions. 
+
+See more details about tour in itinerary below and at fredericktour.org 
+
+We can give tours year round. If it is raining/snowing (light) and you still want to take the tour, we can do that. If it is raining/snowing (hard), we can do a virtual &amp;#34;tour&amp;#34; indoors (groups of 8 or less).
+
+Upon request, we can offer theme tours such as churches, architecture, or Civil War, or even photo shoots.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/9d/33/5b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>A Walking Tour of Frederick, Maryland - The Crossroads of Maryland</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.6</exactScore>
+				<reviewCount>51</reviewCount>
+			</rating>
+			<location>Frederick, Maryland</location>
+			<category>Cultural Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>289.69</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>289.69</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Frederick/A-Walking-Tour-of-Frederick-Maryland-The-Crossroads-of-Maryland/d22824-258495P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>39.415902599999995</latitude>
+				<longitude>-77.4100394</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>12</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P131</code>
+			<title>Niagara Falls (US Side) 2-Day Tour from Washington D.C.</title>
+			<description>A visit to Niagra Falls isn’t out of the question just because you’re in Washington DC. Let someone else do the long driving when you book this overnight tour. See the majestic falls from the American side during the day and marvel at the illuminated falls at dusk. Optional activities include a Maid of the Mist boat ride, a Cave of the Winds experience, and a visit to the Corning Museum of Glass.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/41/0c/bc.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Niagara Falls (US Side) 2-Day Tour from Washington D.C.</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.5</exactScore>
+				<reviewCount>22</reviewCount>
+			</rating>
+			<location>Washington DC, USA</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5904.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5904.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Washington-DC/2-Day-Niagara-Falls-Tour-Washington-D-C-Departure-DNF2/d657-132218P131</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>2</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.897069599999995</latitude>
+				<longitude>-77.020348</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Nearby Town &amp; City</primaryLabel>
+			<maxTravelersAllowed>55</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>132218P193</code>
+			<title>Small Group D.C. City Day Trip with Optional Mount Vernon Upgrade</title>
+			<description>Experience history and culture on this enriching tour of Washington, D.C., combining education and enjoyment. Explore iconic landmarks, each offering unique perspectives, as you traverse the city in one day. Highlights include an outside visit to the Pentagon and 9/11 Memorial Museum, an optional tour of George Washington&amp;#39;s Mount Vernon, an inside visit to the U.S. Capitol, and a stop at the White House and Lafayette Square. The journey concludes with the inspiring Lincoln Memorial and the poignant Vietnam Veterans Memorial Wall, honoring the bravery and sacrifice of American soldiers.
+
+Important Note: To ensure a seamless experience, if you have multiple bookings, please provide all confirmation numbers after completing your reservations to avoid traveling on different buses.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/59/57.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Small Group D.C. City Day Trip with Optional Mount Vernon Upgrade</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.3</exactScore>
+				<reviewCount>10</reviewCount>
+			</rating>
+			<location>Washington DC, USA</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2278.88</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2278.88</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Washington-DC/BEST-Lavender-by-the-bay-and-Lewin-Farms-and-Tanger-Outlets-Day-Tour-from-New-York/d657-132218P193</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>9</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>38.897069599999995</latitude>
+				<longitude>-77.020348</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>14</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>11262P33</code>
+			<title>Montgomery Indoor Skydiving Experience with 2 Flights &amp; Personalized Certificate</title>
+			<description>If you want to skydive but are scared of heights, an indoor skydiving experience at iFly Montgomery is the perfect option for you. With all instruction and equipment provided, you'll have an easy time gaining a grasp on the basics and you'll be flying in no time. Float on the power of air in a vertical wind tunnel, then walk away with a certificate to commemorate your experience.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/1a/10/25.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Montgomery Indoor Skydiving Experience with 2 Flights &amp; Personalized Certificate</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4.5</score>
+				<exactScore>4.4</exactScore>
+				<reviewCount>7</reviewCount>
+			</rating>
+			<location>Frederick, Maryland</location>
+			<category>Extreme Sports</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1776.56</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1776.56</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Frederick/Montgomery-Indoor-Skydiving-Experience/d22824-11262P33</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>15</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>39.117993999999996</latitude>
+				<longitude>-77.194367</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>10</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5523160P5</code>
+			<title>Harpers Ferry and Big Cork Vineyards Wine Tasting Tour</title>
+			<description>Discover the fascinating historical town of Harpers Ferry, beautifully situated at the confluence of the Shenandoah and Potomac rivers in the stunning Blue Ridge Mountains, where West Virginia, Virginia, and Maryland meet in a geographical group hug. By choosing us, you’ll not only explore this enchanting destination but also enjoy a delightful wine tasting experience at a local vineyard, savoring the unique flavors of the region while soaking in the breathtaking scenery.
+
+ Join us for an unforgettable adventure that combines culture, and natural beauty. With us, you’ll have the chance to immerse yourself in the rich heritage of Harpers Ferry while enjoying every moment in a comfortable and enjoyable setting. Don’t miss out on this perfect opportunity to create lasting memories—book your trip with us today!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/f8/be/c7.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Harpers Ferry and Big Cork Vineyards Wine Tasting Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Frederick, Maryland</location>
+			<category>Wine Tastings</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3843.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3843.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Frederick/Harpers-Ferry-and-Wine-tasting-1-day-tour-from-Baltimore/d22824-5523160P5</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>39.32546</latitude>
+				<longitude>-77.73907</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>13</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>false</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>false</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Frederick</Destination>
+	<FileName>Frederick_d22824-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:43:10</FileCreationDateTime>
+</ProductList>

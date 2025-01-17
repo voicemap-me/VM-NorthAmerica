@@ -1,0 +1,1814 @@
+<?xml version="1.0" ?>
+<ProductList>
+	<totalCount>23</totalCount>
+	<pages>1</pages>
+	<currentPage>1</currentPage>
+	<products>
+		<item>
+			<code>24191P31</code>
+			<title>Marietas Islands National Park: Full Day ALL INCUSIVE Tour</title>
+			<description>Get to Marietas Islands for a full day group trip out on the boat, including lunch, and make some new friends who are also out for a good time today. There are lots of options on the boat, from sunny or shady decks, waterslides, and a full open bar to enjoy. You’ll have it all here, with lots of active water sports to choose from, and also a delicious lunch.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/8f/7b/70.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Marietas Islands National Park: Full Day ALL INCUSIVE Tour</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.8</exactScore>
+				<reviewCount>508</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2317.51</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2317.51</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Marietas-Islands-All-Inclusive-Full-Day-Boat-Tour/d4148-24191P31</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7469462</latitude>
+				<longitude>-105.3806991</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>64</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P27</code>
+			<title>Mega Yacht Limousine of the Sea 1: Puerto Vallarta</title>
+			<description>Luxury &amp;#43; Classic Yacht Style
+Step aboard our &amp;#34; Limousine of the Sea a 100 x 40 ft. mega yacht catamaran, designed for the ultimate luxurious cruising experience. Its impressive size and stability make it perfect for private charters or hosting events ,large parties or intimate gatherings. This yacht can be configured in many ways for your group.
+Relax in comfort with couches, loungers, and shaded areas, plus four bathrooms for your convenience. Enjoy an onboard masseuse and
+experience our famous Chica Locca service which makes our tours Rated #1.
+Our premium bar and fresh snacks are included, with an option for a delicious hot lunch of Mexican fajitas from our kitchen for an additional 150 pesos per person. Reserve a photographer to capture your memories.
+When booking a private tour, select the group size required and book your charter. We will contact you immediately and sort out details to make your experience with us amazing. 
+Welcome aboard!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/4d/ea/04.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Mega Yacht Limousine of the Sea 1: Puerto Vallarta</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>183</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Day Cruises</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>118772.22</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>118772.22</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Private-Boat-Tour-Chica-Limousine-100-Mega-Yacht-All-Inclusive/d630-24191P27</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.693180899999998</latitude>
+				<longitude>-105.29372079999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P25</code>
+			<title>Private Yacht Charter Chicafun3 Waterslides All Inclusive</title>
+			<description>Your Ultimate Floating Adventure!
+
+Chica Fun 3 Waterslides is a super stable trimaran 45′ fun yacht featuring two large decks with ample sun and shade options, ensuring everyone can relax in comfort. An amazing charter for smaller groups up top 35. Ready for excitement? Dive into fun with two thrilling waterslides, a jumping platform, splash nets and a full array of water toys designed for non-stop adventure!
+
+Every aspect of your private boat tour is customizable. Our amazing crew and highly experienced Captain will ensure you have an unforgettable day on the water, delivering the renowned Chica Locca service that sets us apart.
+When you charter this boat, our premium bar and fresh snacks are included, with an option for a delicious hot lunch of Mexican fajitas from our kitchen for an additional 150 pesos per person. Reserve a photographer to capture your memories.
+
+When booking a private tour, select the group size required, and we’ll contact you to sort out any details and plans.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/15/39/01/f1.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Yacht Charter Chicafun3 Waterslides All Inclusive</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>169</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Day Cruises</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Private-Boat-Tour-ChicaFUN3-Waterslides-45-Yacht-All-Inclusive/d4148-24191P25</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7476108</latitude>
+				<longitude>-105.379474</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P24</code>
+			<title>Private Yacht Charter ChicaFUN2 Waterslides All Inclusive</title>
+			<description>Give the waterslides a try on this private yacht tour in Puerto Vallarta, or spend your time relaxing with unlimited drinks and snacks. Your captain takes care of all the details, including snorkels, kayaks, paddleboards, and more. You and your private group customize the itinerary in the Bay of Banderas, and your captain and crew make it happen.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/4a/3b/e8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Yacht Charter ChicaFUN2 Waterslides All Inclusive</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>120</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Day Cruises</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Private-Boat-Tour-ChicaFUN2-Waterslides-55-Yacht-All-Inclusive/d4148-24191P24</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7476108</latitude>
+				<longitude>-105.379474</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5359P166</code>
+			<title>Puerto Vallarta Transportation Service Airport to/from Bahia de Banderas Hotels</title>
+			<description>Ensure a stress-free way to start your holiday in Puerto Vallarta with this safe and reliable transfer service. Whether you’re traveling from the airport or making the return journey home, this private service is ideal. Arriving in a new airport at the start of your trip can be stressful and confusing. Avoid long taxi queues or navigating busy public transport. Sit back, relax and enjoy the journey with your professional driver.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/a5/c1/09.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Puerto Vallarta Transportation Service Airport to/from Bahia de Banderas Hotels</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>119</reviewCount>
+			</rating>
+			<location>San Francisco, Pacific Coast</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2758.99</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2758.99</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>3</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/Private-Arrival-Transfer-Pueto-Vallarta-International-Airport-to-Hotels-7-15/d51252-5359P166</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P19</code>
+			<title>Private Yacht Charter on ChicaFun 1 Waterslides all inclusive</title>
+			<description>Chica Fun 1 Waterslides is a stable trimaran designed for ultimate cruising comfort and FUN! This beautiful 65′ yacht guarantees effortless fun and adventure with two large decks, comfortable cushions, and plenty of sun and shade options. An amazing charter for groups up to 85.
+ Enjoy two waterslides, a jumping platform, and splash nets for above-water views. Make the most of the tropical ocean with various water toys, including paddleboards, snorkeling gear, and fishing equipment.
+Every detail is crafted for a worry-free day. Our premium bar and fresh snacks are always included, plus an option for hot Mexican fajitas from our kitchen for an additional 150 pesos per person. 
+Chica Fun 1 Waterslides promises a thrilling day for everyone aboard, along with our famous Chica Loca service that has made us a guest favorite. Join us for an unforgettable adventure filled with laughter and smiles!
+
+When booking a private tour, select the group size, and we’ll contact you to sort out details.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/4b/b7/1d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Yacht Charter on ChicaFun 1 Waterslides all inclusive</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>87</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Day Cruises</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Private-Boat-Tour-ChicaFUN1-Waterslides-65-Yacht-All-Inclusive/d4148-24191P19</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7476108</latitude>
+				<longitude>-105.379474</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P4</code>
+			<title>Private Charter ChicaSAILING Adventure Puerto Vallarta</title>
+			<description>Explore the stunning Bay of Banderas aboard the 41-foot Chica Sailing Adventure. Customize your tour to suit your desires—whether you’re after a romantic sunset cruise, adrenaline-pumping sailing, or a tranquil journey to a secluded bay for snorkeling, swimming, or paddle boarding. A great charter for groups up to 16 people.
+Join our knowledgeable crew sailing or learning how to sail or simply relax and enjoy the cruise. In season humpback whales, diverse marine life.
+Every aspect of your private boat tour is customizable. Our amazing crew and experienced Captain deliver famous Chica Locca service that sets us apart.
+Our premium bar and fresh snacks are included, with an option for a delicious hot lunch of Mexican fajitas from our kitchen for an additional 150 pesos per person. Reserve a photographer to capture your memories.
+When booking a private tour, select the group size required, and we’ll contact you immediately to sort out details and plans.
+Welcome aboard!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/be/52/c8.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Charter ChicaSAILING Adventure Puerto Vallarta</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>4.9</exactScore>
+				<reviewCount>40</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Day Cruises</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>27752.14</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>27752.14</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/41-Sailboat-Private-Tour-ChicaSAILING-Adventure-All-Inclusive/d4148-24191P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>6</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7469462</latitude>
+				<longitude>-105.3806991</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P23</code>
+			<title>Private Charter 30' Super Panga</title>
+			<description>Experience the ultimate in comfort and speed aboard the Chica Panga Adventure, a 30-foot modern super panga designed for groups of up to 15. With plenty of shade, two powerful 115 hp outboard engines, a center console, and Bluetooth speakers, this boat allows you to cruise the Banderas Bay in speed and style.
+Enjoy a variety of activities including dolphin and whale watching (seasonal), fishing, surfing, snorkeling, and scenic tours. Explore popular destinations such as Yelapa, Los Arcos, Marietas Islands our and our remote beach paradise Playa Chica Locca.
+Private tours are all about you! It’s your boat and our crew deliver famous Chica Locca Service. Customize your private boat tour, and we’ll take care of the rest. 
+Premium bar service and snacks are included
+Be sure and reserve a photographer to capture your day to share.
+Reserve this charter by selecting 1 ticket according to your group size. We will contact you to sort out the details.
+Welcome aboard!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/5f/fe.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Charter 30' Super Panga</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>36</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18540.05</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>18540.05</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Chiquilla-Locca-30-Super-Panga-Private-Boat-Tour/d4148-24191P23</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7469462</latitude>
+				<longitude>-105.3806991</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P26</code>
+			<title>Private Luxury Yacht + Jet Ski Chica 55 VIP All Inclusive</title>
+			<description>Indulge in luxury and adventure aboard our 55’ Azimut Yacht, designed for up to 20 guests. With comfortable lounge seating on both the upper and lower decks, this Italian made yacht offers the perfect blend of comfort, relaxation and excitement.
+Enjoy an array of activities, including a Jet Ski, paddleboards, water mattresses, snorkeling, fishing, and in-season whale watching. Our experienced captain, crew, and photographer deliver our famous “ Chica Locca Service” making for an unforgettable day. You can also reserve a photographer to capture the magic for sharing, or choose to purchase photos on your return trip.
+Premium bar service and snacks are included and fresh made fajita lunch is 150 pesos extra,
+Join us aboard Chica VIP for a memorable journey. Be sure and reserve a photographer to capture your day to share.
+Reserve this charter by selecting 1 ticket according to your group size. We will contact you immediately to sort out the details.
+Welcome aboard!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/28/15/0b.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Luxury Yacht + Jet Ski Chica 55 VIP All Inclusive</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>25</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>59386.11</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>59386.11</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/100-Mega-Yacht-Private-Boat-Tour-All-Inclusive/d630-24191P26</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>8</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.6932296</latitude>
+				<longitude>-105.29351729999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>320389P2</code>
+			<title>Private Sunset Tour in Marina La Cruz by Yacht</title>
+			<description>Enjoy the most exclusive beaches just accessible by sea and reach places that other regular tours don’t go. Also enjoy the explanation from our captain on the art of sailing. This is not a boat trip, this is an experience to enjoy life, privacy and luxury. 
+Sailing is a lot quieter and more relaxing than traveling in a motor boat, it will be easier to see different sea species from small medusas to whales, dolphins, turtles, etc. (Depends on the season)</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/60/89/1d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Sunset Tour in Marina La Cruz by Yacht</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>17</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Sailing</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>25106.32</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>25106.32</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Private-Sunset-Tour-in-Puerto-Vallarta-by-Yacht/d4148-320389P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>false</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7476108</latitude>
+				<longitude>-105.379474</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>218153P1</code>
+			<title>Monkey Mountain Hike</title>
+			<description>See the stunning town of San Pancho by bike, on this exciting cycling tour. Located on the Pacific Coast, San Pancho has an abundance to offer, known as the cultural capital in Riviera Nayarit. Experience the art, culture and local community of the area. Learn about the history, flora and fauna, and hike to take in the incredible views at Monkey Mountain. Enjoy a ceviche or taco on the way back.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/ab/b6/cf.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Monkey Mountain Hike</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>15</reviewCount>
+			</rating>
+			<location>San Francisco, Pacific Coast</location>
+			<category>Hiking Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1253.38</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>1253.38</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>true</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/Monkey-Mountain-Hike/d51252-218153P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>5</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.9002066</latitude>
+				<longitude>-105.41338689999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P34</code>
+			<title>Private Yacht Charter ChicaFUN 5 Waterslides All Inclusive</title>
+			<description>The Ultimate Floating Fun Factory!
+Chica Fun 5 is the result of years of refinement and design focused on creating the most luxurious and fun charter in Vallarta. This 50′ yacht features two spacious levels, with state-of-the-art design plus unmatched sun and shade decks and cushions for comfort and relaxation.
+Equipped with a wide array of water toys and snorkeling gear she designed to deliver effortless fun and adventure on the water for groups up to 65. 
+From December to April expect to see humpback whales and as always rays, turtles and dolphins.
+We tailor unforgettable experiences plus you can expect the famous &amp;#34;Chica Locca Service&amp;#34; that has made us a favorite among our guests. Premium bar service and snacks are included and fresh made fajita lunch is 150 pesos extra,
+Be sure and reserve a photographer to capture your day to share.
+Reserve this charter by selecting 1 ticket according to your group size. We will contact you immediately to sort out the details.
+Welcome aboard!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/b2/25/df.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Yacht Charter ChicaFUN 5 Waterslides All Inclusive</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>3</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Day Cruises</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/ChicaFUN-5-Private-Boat-Tour-50-Yacht-All-Inclusive/d630-24191P34</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.693180899999998</latitude>
+				<longitude>-105.29372079999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>5359P167</code>
+			<title>Transportation Service, Vallarta Airport From/To Sayulita Hotels</title>
+			<description>Get from Puerto Vallarta International Airport to and from your hotel the quick and easy way with this private airport transfer service. Avoid long taxi lines or attempting to navigate public transit, and instead opt for this efficient and comfortable private service. With an air-conditioned vehicle provided, you can rest assured that you will arrive at your destination feeling refreshed.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6e/ed/13.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Transportation Service, Vallarta Airport From/To Sayulita Hotels</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>4</score>
+				<exactScore>3.9</exactScore>
+				<reviewCount>7</reviewCount>
+			</rating>
+			<location>San Francisco, Pacific Coast</location>
+			<category>Airport &amp; Hotel Transfers</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4679.63</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>4679.63</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>3</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/Private-Round-Trip-Transfer-Puerto-Vallarta-International-Airport-1-3/d51252-5359P167</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>1</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>15</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P33</code>
+			<title>Private Yacht Charter ChicaFun4 All Inclusive</title>
+			<description>ChicaFUN 4 Waterslides is super stable 45&amp;#39; trimaran built for the ultimate in cruising comfort and FUN! This fun yacht now has 2 waterslides, a large deck with plenty of sun or shade options and is fully equipped with all water toys. She is an amazing charter yacht for groups up to 35 people. 
+From December to April expect to see humpback whales and as always rays, turtles, dolphins and curious sea birds.
+When you charter this boat, we tailor unforgettable experiences to meet your desires plus you can expect the famous &amp;#34;Chica Locca Service&amp;#34; that has made us a favorite among our guests. Premium bar service and snacks are included and fresh made fajita lunch is 150 pesos extra,
+Join us aboard Chica Fun 4 for a memorable journey. Be sure and reserve a photographer to capture your day to share.
+Reserve this charter by selecting 1 ticket according to your group size. We will contact immediately you to sort out the details.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/af/95/9f.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Yacht Charter ChicaFun4 All Inclusive</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>2</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Boat Rentals</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>42004.81</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Private-Boat-Tour-ChicaFUN4-Waterslides-45-Yacht-All-Inclusive/d4148-24191P33</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>3</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7476108</latitude>
+				<longitude>-105.379474</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>102618P9</code>
+			<title>Discover Rincón De Guayabitos with a visit to Coral Island</title>
+			<description>Explore the beautiful beaches of Rincon de Guayabitos and then cruise to Coral Island on this day long group trip. You'll be collected from your hotel, and then your guide will organize everything for you so you can relax and enjoy the day. You can snorkel using provided equipment, sunbathe on the beach, enjoy an included lunch, and do some shopping for handicrafts, too.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/8e/e3/ef.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Discover Rincón De Guayabitos with a visit to Coral Island</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3.5</score>
+				<exactScore>3.4</exactScore>
+				<reviewCount>7</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/DISCOVER-CORNER-OF-GUAYABITOS-WITH-WHELL-VIEWING/d27578-102618P9</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.747157899999998</latitude>
+				<longitude>-105.32764759999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>35</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>457201P1</code>
+			<title>Tour Drone MX Bahía de Banderas</title>
+			<description>Join us for the ultimate San Pancho adventure! What makes us unique? It&amp;#39;s our genuine hospitality, personalized attention, and commitment to capturing your memories. With us, you&amp;#39;re not just a tourist – you&amp;#39;re part of our community. Our tours are tailored to your interests, ensuring every moment reflects your desires. Plus, our photo and video package preserves your experience forever. Come discover San Pancho with us – where every smile is cherished, every vista is breathtaking, and every memory lasts a lifetime.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/69/be/f1.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Tour Drone MX Bahía de Banderas</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>San Francisco, Pacific Coast</location>
+			<category>Bus Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5115.96</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>5115.96</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>4</maxTravelersPerUnit>
+			<url>/tours/San-Francisco/Hiking-Monkey-Mountain/d51252-457201P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<fromDuration>
+					<days>0</days>
+					<hours>2</hours>
+					<minutes>0</minutes>
+				</fromDuration>
+				<toDuration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</toDuration>
+				<isFlexible>true</isFlexible>
+				<isSingleTimeUnit>true</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.9024034</latitude>
+				<longitude>-105.4135804</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>4</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>205896P4</code>
+			<title>Private Bay Tour (Whales/Marine Life Encounters, Visit Yelepa Waterfall &amp; Beach)</title>
+			<description>Explore the region of Yelepa with this private tour of the Bay of Banderas. You’ll most likely see whales, dolphins, and turtles before you enjoy a beachside lunch and/ or a hike to the waterfall. Do some swimming, fishing, or take a detour on the way home through Old Town Puerto Vallarta, and check out the Malecon, the cathedral, and possibly even a pirate ship.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/69/01/cc.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Bay Tour (Whales/Marine Life Encounters, Visit Yelepa Waterfall &amp; Beach)</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>5</score>
+				<exactScore>5</exactScore>
+				<reviewCount>1</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>12875.1</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>12875.1</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Bay-of-Banderas-Safari-Whales-Dolphins-Turtles-Manta-Rays-Waterfalls-Beaches/d4148-205896P4</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>45</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7503806</latitude>
+				<longitude>-105.3789455</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>102618P2</code>
+			<title>Discover The Colors Of Sayulita &amp; San Pancho</title>
+			<description>After we’re all set prepare yourself for beautiful, calm San Pancho, where we’ll walk through its picturesque streets and immense shoreline. Then we’ll head over to Sayulita, one of the most calm and hippie chic friendly destinations in Riviera Nayarit. Surf, art, gastronomy, adventure and beautiful landscapes have turned this into the most popular, must-visit, town in the área. There you can wander around the streets and visit the iconic chopped paper alley, buy some souvenirs and handicrafts, have a tasty ice paleta while you relax in the main square. After that we’ll visit a restaurant by the beach where you can enjoy the delicious local food and have a drink.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/56/5b/3e.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Discover The Colors Of Sayulita &amp; San Pancho</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>3</score>
+				<exactScore>2.8</exactScore>
+				<reviewCount>4</reviewCount>
+			</rating>
+			<location>Bucerias, Nayarit</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2220.94</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Bucerias/DISCOVER-THE-COLORS-OF-SAYULITA-and-SAN-PANCHO/d27578-102618P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7471579</latitude>
+				<longitude>-105.3276476</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>35</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>386844P6</code>
+			<title>Private Transfer from Punta de Mita Area to PVR Airport</title>
+			<description>Private luxury transportation from any RESORT, VILLA, HOTEL or HOUSE in the PUNTA DE MITA, CRUZ DE HUANACAXTLE area or its SURROUNDINGS to the Puerto Vallarta City International Airport.
+
+Enjoy the comfort of traveling in a top-of-the-line LUXURY SUV, with air conditioning and BILINGUAL personal driver, personalized flight tracking, drinks such as BEER, WATER AND SOFT DRINKS
+
+IN ADDITION TO CARSEATS (no extra cost)
+if you require it, please attach it to your reservation</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/13/e3/4e/50.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Transfer from Punta de Mita Area to PVR Airport</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Port Transfers </category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3067.68</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>3067.68</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>7</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Private-Transfer-from-Punta-de-Mita-Area-to-PVR-Airport/d630-386844P6</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>0</hours>
+					<minutes>35</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>7</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>418199P1</code>
+			<title>2-Day Guided Tequila Distillery Tour in Mexico with Tasting</title>
+			<description>We built a one night tour for people on vacation. Great hotel and the best tequila producers in the world. Most tours require 2-3 days but we have condensed this tour for you to enjoy while not taking all your beach time. You will have full access to the distillery and personnel. We will have as full tour of full distillation process as well as tasting the line up of tequilas produced. At some distilleries we can walk the field. perhaps plant our own agave. Taste the cooked agave right out of the oven. taste tequila at different stages of distillation. 
+We have a number of vehicles on this trip. Either a sprinter van, Suburban or van depending on size of the group.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/11/7b/53/e2.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>2-Day Guided Tequila Distillery Tour in Mexico with Tasting</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Overnight Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>12316.2</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>12316.2</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Real-Tequila-Tours/d4148-418199P1</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>2</days>
+					<hours>0</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.75433805146189</latitude>
+				<longitude>-105.3933721127296</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>20</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>205896P2</code>
+			<title>Offshore Sport &amp; Flyfishing - 7 hours</title>
+			<description>Cruise into the ocean with your experienced crew and get to where the fish are. Don’t waste time mucking about, but rather book this tour where you’ll be on a tournament-style boat with modern technology and gear to maximize your chance of catching fish like dorado, sailfish, yellowfin tuna, and more.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/09/64/d2/e6.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Offshore Sport &amp; Flyfishing - 7 hours</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Pacific Coast, Mexico</location>
+			<category>Fishing Charters</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16044.29</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>16044.29</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>6</maxTravelersPerUnit>
+			<url>/tours/Pacific-Coast/Offshore-Sport-and-Flyfishing-7-hours/d4148-205896P2</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>7</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7505947</latitude>
+				<longitude>-105.3787109</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>6</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>24191P36</code>
+			<title>Private Yacht Charter Chica Fun 6 in Puerto Vallarta</title>
+			<description>The Ultimate Floating Fun Factory!
+Chica Fun 6 is the result of years of refinement and design focused on creating the most luxurious and fun charter in Vallarta. This 57′ yacht features two spacious levels, with state-of-the-art design plus unmatched sun and shade decks and cushions for comfort and relaxation.
+Equipped with a wide array of water toys and snorkeling gear she designed to deliver effortless fun and adventure on the water for groups up to 65. 
+From December to April expect to see humpback whales and as always rays, turtles and dolphins.
+We tailor unforgettable experiences plus you can expect the famous &amp;#34;Chica Locca Service&amp;#34; that has made us a favorite among our guests. Premium bar service and snacks are included and fresh made fajita lunch is 150 pesos extra,
+Be sure and reserve a photographer to capture your day to share.
+Reserve this charter by selecting 1 ticket according to your group size. We will contact you immediately to sort out the details.
+Welcome aboard!</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/14/ca/92/1d.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Private Yacht Charter Chica Fun 6 in Puerto Vallarta</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Nature and Wildlife Tours</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>53592.34</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>53592.34</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>true</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>1</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Private-Yacht-Charter-ChicaFun6-all-inclusive-Puerto-Vallarta/d630-24191P36</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>true</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>4</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.693180899999998</latitude>
+				<longitude>-105.29372079999999</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>1</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+		<item>
+			<code>186237P87</code>
+			<title>Canopy Los Veranos Zipline</title>
+			<description>Come on an unforgettable adventure in Puerto Vallarta, choosing between Apex boats or jungle trucks for transportation. Depart from convenient locations like Marina at La Cruz, Marina Paradise at Nuevo Vallarta, and various spots in Puerto Vallarta.
+
+Your ultimate destination is Los Veranos Canopy, home to Puerto Vallarta&amp;#39;s original and world’s largest zipline system, boasting 19 thrilling zip lines. Soar above the lush jungle and the stunning Los Horcones River, with the longest zip line stretching an impressive 1,800 feet. Experience the rush of flying from treetop to treetop, guided by our highly trained experts who prioritize your safety and enjoyment.
+
+After the zipline adventure, enjoy a meal at the riverfront Los Veranos Café, sample exquisite tequilas, and cool off in natural river pools. Relax on the golden sand river beach and explore our exotic animal sanctuary, making this tour perfect for unforgettable family and friend memories.</description>
+			<image>
+				<elementType>img</elementType>
+				<src>https://media.tacdn.com/media/attractions-splice-spp-360x240/12/e4/78/b5.jpg</src>
+				<srcSet/>
+				<sizes/>
+				<alt>Canopy Los Veranos Zipline</alt>
+			</image>
+			<images/>
+			<rating>
+				<score>0</score>
+				<exactScore>0</exactScore>
+				<reviewCount>0</reviewCount>
+			</rating>
+			<location>Puerto Vallarta, Jalisco</location>
+			<category>Day Trips</category>
+			<price>
+				<retailPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2298.19</amount>
+				</retailPrice>
+				<discountedPrice>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>2298.19</amount>
+				</discountedPrice>
+				<discountAmount>
+					<currencyCode>ZAR</currencyCode>
+					<currencySymbol>ZAR</currencySymbol>
+					<amount>0</amount>
+				</discountAmount>
+				<hasTieredPricing>false</hasTieredPricing>
+				<hasUnitPricing>false</hasUnitPricing>
+				<isDiscounted>false</isDiscounted>
+			</price>
+			<maxTravelersPerUnit>0</maxTravelersPerUnit>
+			<url>/tours/Puerto-Vallarta/Canopy-Los-Veranos-Zipline/d630-186237P87</url>
+			<videoCount>0</videoCount>
+			<isPrivateTour>false</isPrivateTour>
+			<badges/>
+			<isHighlighted>false</isHighlighted>
+			<languages>
+				<item>en</item>
+			</languages>
+			<displayDuration>
+				<duration>
+					<days>0</days>
+					<hours>5</hours>
+					<minutes>0</minutes>
+				</duration>
+				<isFlexible>false</isFlexible>
+				<isSingleTimeUnit>false</isSingleTimeUnit>
+				<isFullyFlexible>false</isFullyFlexible>
+			</displayDuration>
+			<behaviours>
+				<hasFreeCancellation>true</hasFreeCancellation>
+				<shouldHideFromCrawlers>false</shouldHideFromCrawlers>
+			</behaviours>
+			<geolocation>
+				<latitude>20.7066942</latitude>
+				<longitude>-105.299349</longitude>
+			</geolocation>
+			<qualityBadges>
+				<isExcellent>false</isExcellent>
+				<isBestConversion>false</isBestConversion>
+			</qualityBadges>
+			<primaryLabel>Other Experience</primaryLabel>
+			<maxTravelersAllowed>100</maxTravelersAllowed>
+			<noFollow>false</noFollow>
+		</item>
+	</products>
+	<banners/>
+	<hasMachineTranslatedProducts>true</hasMachineTranslatedProducts>
+	<hasProductsTranslatedByGoogle>true</hasProductsTranslatedByGoogle>
+	<sortType>RATING</sortType>
+	<Destination>Pacific-Coast</Destination>
+	<FileName>Pacific-Coast_d4148-ttd_sortType_rating.html</FileName>
+	<FileCreationDateTime>2025-01-16 09:28:19</FileCreationDateTime>
+</ProductList>
